@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Sodium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element alkali-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">1</span>
+<span class="N"></span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+11
+</div>
+<div class="element-symbol">
+<strong>Na</strong>
+</div>
+<div class="element-name">
+Sodium
+</div>
+<div class="atomic-mass">
+24.305
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>11</sub>Na</li>
+<li>Name: sodium</li>
+<li>Atomic number: 11</li>
+<li>Atomic mass: 22.989769 u ± 2 × 10^-8 u</li>
+<li>Boiling point: 882.940 °C</li>
+<li>Electron configuration: 3s1</li>
+<li>Electronegativity: 0.93</li>
+<li>Discovered: 1807</li>
+<li>Discoverer: Humphry Davy</li>
+</ul>
+</div>
+<div class="card description">
+<p>Sodium is a chemical element with symbol Na (from Latin natrium) and atomic number 11. It is a soft, silvery-white, highly reactive metal. Sodium is an alkali metal, being in group 1 of the periodic table, because it has a single electron in its outer shell that it readily donates, creating a positively charged atom—the Na+ cation. Its only stable isotope is 23Na. The free metal does not occur in nature, but must be prepared from compounds. Sodium is the sixth most abundant element in the Earth's crust, and exists in numerous minerals such as feldspars, sodalite and rock salt (NaCl). Many salts of sodium are highly water-soluble: sodium ions have been leached by the action of water from the Earth's minerals over aeons, and thus sodium and chlorine are the most common dissolved elements by weight in the oceans.</p>
+<p>Sodium was first isolated by Humphry Davy in 1807 by the electrolysis of sodium hydroxide. Among many other useful sodium compounds, sodium hydroxide (lye) is used in soap manufacture, and sodium chloride (edible salt) is a de-icing agent and a nutrient for animals including humans.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white metallic</li>
+<li>Group: group 1 (alkali metals)</li>
+<li>Block: s-block</li>
+<li>Period: period 3</li>
+<li>Element category: alkali metal</li>
+<li>Electron configuration: 3s1</li>
+<li>Per shell: 2, 8, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 370.944 K ​(97.794 °C, ​208.029 °F)</li>
+<li>Boiling point: 1156.090 K ​(882.940 °C, ​1621.292 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: Humphry Davy (1807)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Mercury</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+80
+</div>
+<div class="element-symbol">
+<strong>Hg</strong>
+</div>
+<div class="element-name">
+Mercury
+</div>
+<div class="atomic-mass">
+200.59
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>80</sub>Hg</li>
+<li>Name: mercury</li>
+<li>Atomic number: 80</li>
+<li>Atomic mass: 200.59 u ± 0.02 u</li>
+<li>Boiling point: 356.7 °C</li>
+<li>Electron configuration: 4f145d106s2</li>
+<li>Electronegativity: 2.00</li>
+<li>Discovered: before 2000 BCE</li>
+<li>Discoverers: Ancient Chinese and Indians</li>
+</ul>
+</div>
+<div class="card description">
+<p>Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum (/haɪˈdrɑːrdʒərəm/). A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.</p>
+<p>Mercury occurs in deposits throughout the world mostly as cinnabar (mercuric sulfide). The red pigment vermilion is obtained by grinding natural cinnabar or synthetic mercuric sulfide.</p>
+<p>Mercury is used in thermometers, barometers, manometers, sphygmomanometers, float valves, mercury switches, mercury relays, fluorescent lamps and other devices, though concerns about the element's toxicity have led to mercury thermometers and sphygmomanometers being largely phased out in clinical environments in favor of alternatives such as alcohol- or galinstan-filled glass thermometers and thermistor- or infrared-based electronic instruments.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery</li>
+<li>Group: group 12</li>
+<li>Block: d-block</li>
+<li>Period: period 6</li>
+<li>Element category: transition metal, alternatively considered a post-transition metal</li>
+<li>Electron configuration: 4f14 5d10 6s2</li>
+<li>Per shell: 2, 8, 18, 32, 18, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: liquid</li>
+<li>Melting point: 234.3210 K ​(−38.8290 °C, ​−37.8922 °F)</li>
+<li>Boiling point: 629.88 K ​(356.73 °C, ​674.11 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Ancient Chinese and Indians (before 2000 BCE)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

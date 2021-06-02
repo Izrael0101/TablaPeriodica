@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Americium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element actinoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">25</span>
+<span class="P">8</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+95
+</div>
+<div class="element-symbol">
+<strong>Am</strong>
+</div>
+<div class="element-name">
+Americium
+</div>
+<div class="atomic-mass">
+(243)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>95</sub>Am</li>
+<li>Name: americium</li>
+<li>Atomic number: 95</li>
+<li>Atomic mass: 243 u</li>
+<li>Boiling point: 2,607 °C</li>
+<li>Electron configuration: 5f77s2</li>
+<li>Electronegativity: 1.3</li>
+<li>Discovered: 1944</li>
+<li>Discoverers: Glenn T. Seaborg, Ralph A. James, Leon O. Morgan, Albert Ghiorso</li>
+</ul>
+</div>
+<div class="card description">
+<p>Americium is a radioactive transuranic chemical element with symbol Am and atomic number 95. This member of the actinide series is located in the periodic table under the lanthanide element europium, and thus by analogy was named after the Americas.</p>
+<p>Americium was first produced in 1944 by the group of Glenn T. Seaborg from Berkeley, California, at the Metallurgical Laboratory of the University of Chicago, a part of the Manhattan Project. Although it is the third element in the transuranic series, it was discovered fourth, after the heavier curium. The discovery was kept secret and only released to the public in November 1945. Most americium is produced by uranium or plutonium being bombarded with neutrons in nuclear reactors – one tonne of spent nuclear fuel contains about 100 grams of americium. It is widely used in commercial ionization chamber smoke detectors, as well as in neutron sources and industrial gauges. Several unusual applications, such as nuclear batteries or fuel for space ships with nuclear propulsion, have been proposed for the isotope 242mAm, but they are as yet hindered by the scarcity and high price of this nuclear isomer.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 7</li>
+<li>Element category: actinide</li>
+<li>Electron configuration: 5f7 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 25, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1449 K ​(1176 °C, ​2149 °F)</li>
+<li>Boiling point: 2880 K ​(2607 °C, ​4725 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after the Americas</li>
+<li>Discovery: Glenn T. Seaborg, Ralph A. James, Leon O. Morgan, Albert Ghiorso (1944)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

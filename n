@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Nitrogen</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element other-nonmetals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">5</span>
+<span class="M"></span>
+<span class="N"></span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+7
+</div>
+<div class="element-symbol">
+<strong>N</strong>
+</div>
+<div class="element-name">
+Nitrogen
+</div>
+<div class="atomic-mass">
+14.007
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>7</sub>N</li>
+<li>Name: nitrogen</li>
+<li>Atomic number: 7</li>
+<li>Atomic mass: 14.0067 u ± 0.0001 u</li>
+<li>Boiling point: -195.8 °C</li>
+<li>Electron configuration: 1s22s22p3</li>
+<li>Electronegativity: 3.04</li>
+<li>Discovered: 1772</li>
+<li>Discoverer: Daniel Rutherford</li>
+</ul>
+</div>
+<div class="card description">
+<p>Nitrogen is a chemical element with symbol N and atomic number 7. It is the lightest pnictogen, and at room temperature it is a transparent, odorless diatomic gas. Nitrogen is a common element in the universe, estimated at about seventh in total abundance in the Milky Way and the Solar System.</p>
+<p>Nitrogen is the most abundant element in Earth's atmosphere, making up about 78% of the atmosphere by volume. It is also the most common uncombined element on Earth, since all the more common elements occur primarily as compounds. The element nitrogen was discovered as a separable component of air by Scottish physician Daniel Rutherford in 1772.</p>
+<p>Many industrially important compounds, such as ammonia, nitric acid, organic nitrates (propellants and explosives), and cyanides, contain nitrogen. The extremely strong triple bond in elemental nitrogen (N≡N) dominates nitrogen chemistry, causing difficulty for both organisms and industry in converting the N2 into useful compounds, but at the same time causing release of large amounts of often useful energy when the compounds burn, explode, or decay back into nitrogen gas. Synthetically produced ammonia and nitrates are key industrial fertilizers, and fertilizer nitrates are key pollutants in the eutrophication of water systems.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: colorless gas, liquid or solid</li>
+<li>Group: group 15 (pnictogens)</li>
+<li>Block: p-block</li>
+<li>Period: period 2</li>
+<li>Element category: diatomic nonmetal</li>
+<li>Electron configuration: 2s2 2p3</li>
+<li>Per shell: 2, 5</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: gas</li>
+<li>Melting point: 63.15 K ​(−210.00 °C, ​−346.00 °F)</li>
+<li>Boiling point: 77.355 K ​(−195.795 °C, ​−320.431 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Daniel Rutherford (1772)</li>
+<li>Named by: Jean-Antoine Chaptal (1790)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

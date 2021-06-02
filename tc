@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Technetium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">13</span>
+<span class="O">2</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+43
+</div>
+<div class="element-symbol">
+<strong>Tc</strong>
+</div>
+<div class="element-name">
+Technetium
+</div>
+<div class="atomic-mass">
+(98)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>43</sub>Tc</li>
+<li>Name: technetium</li>
+<li>Atomic number: 43</li>
+<li>Atomic mass: 98 u</li>
+<li>Boiling point: 4265 °C</li>
+<li>Electron configuration: 4d55s2</li>
+<li>Electronegativity: 1.9</li>
+<li>Discovered: 1937</li>
+<li>Discoverers: Emilio Segrè, Carlo Perrier</li>
+</ul>
+</div>
+<div class="card description">
+<p>Technetium is a chemical element with symbol Tc and atomic number 43. It is the lightest element of which all isotopes are radioactive; none are stable. Only one other such element, promethium, is followed (in the periodic table) by elements with stable isotopes. Nearly all technetium is produced synthetically, and only minute amounts are found in the Earth's crust. Naturally occurring technetium is a spontaneous fission product in uranium ore or the product of neutron capture in molybdenum ores. The chemical properties of this silvery gray, crystalline transition metal are intermediate between rhenium and manganese.</p>
+<p>Many of technetium's properties were predicted by Dmitri Mendeleev before the element was discovered. Mendeleev noted a gap in his periodic table and gave the undiscovered element the provisional name ekamanganese (Em). In 1937, technetium (specifically the technetium-97 isotope) became the first predominantly artificial element to be produced, hence its name (from the Greek τεχνητός, meaning "artificial", + -ium).</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: shiny gray metal</li>
+<li>Group: group 7</li>
+<li>Block: d-block</li>
+<li>Period: period 5</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4d5 5s2</li>
+<li>Per shell: 2, 8, 18, 13, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 2430 K ​(2157 °C, ​3915 °F)</li>
+<li>Boiling point: 4538 K ​(4265 °C, ​7709 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Prediction: Dmitri Mendeleev (1871)</li>
+<li>Discovery &amp; First isolation: Emilio Segrè and Carlo Perrier (1937)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

@@ -1,0 +1,773 @@
+
+        body {
+            margin: 0px;
+            width: 100%;
+            background: white;
+            font-family: Arial;
+        }
+
+        footer {    
+            padding: 10px;
+            box-sizing: border-box;    
+            border-top: 1px solid #e2e2e2;
+            border-bottom: 1px solid #e2e2e2;
+            color: #949494;
+            text-align: center;
+            font-size: 12px;
+            position: relative;
+            background: whitesmoke;
+        }
+
+        html {
+            width: 100%;
+        }
+
+        a {
+            transition: .7s;
+            color: #03a3ea;
+        }
+
+        a:hover {
+            color: #949494;
+        }
+
+        sub {
+            font-size: 10px;
+        }
+
+        .group:before {
+            content: "";
+            border-left: 0px solid transparent;
+            border-bottom: 100px solid rgba(0,0,0,0.1);
+            border-right: 50px solid transparent;
+            border-top: 0px solid transparent;
+            z-index: 0;
+            position: absolute;
+            left: -100px;
+            top: 0px;
+            width: auto;
+            height: auto;
+            padding-left: 50px;
+            transition: .3s;
+        }
+
+        .group:hover:before {
+            left: 0px;
+        }
+
+        .group.focus-group:after {
+            bottom: -10px;
+        }
+
+        .group:after {
+            content: "";
+            width: 0px;
+            height: 0px;
+            border-left: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-top: 10px solid transparent;
+            position: absolute;
+            bottom: 0px;
+            left: 0;
+            right: 0;
+            margin: auto;
+            transition: .7s;
+            z-index: 2;
+        }
+
+        .wrapper {
+            transition: .7s;
+        }
+
+        .info {
+            position: relative;
+        }
+
+        .info .close {
+            background: whitesmoke;
+            border-radius: 100%;
+            border: 2px solid #bbbbbb;
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            color: #bbbbbb;
+            cursor: pointer;
+            font-weight: bold;
+            transition: .7s;
+            text-align: center;
+            vertical-align: text-bottom;
+            line-height: 30px;
+            z-index: 1;
+        }
+
+        .info .close:hover {
+            color: #ef2929;
+            border: 2px solid #ef2929;
+        }
+
+        .focus {
+            transform: scale(1.2, 1.2);
+            z-index: 9;
+            position: relative;
+            box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 30px 5px inset !important;
+        }
+
+        div.no-focus, div.no-focus .group {
+            background: #e0e0e0;
+            color: darkgray;
+        }
+
+        .no-focus .atomic-number:before {
+            color: darkgray !important;
+        }
+
+        .bottom {
+            margin-top: 10px;
+        }
+
+        .array {
+            box-sizing: border-box;
+            padding: 20px;
+        }
+
+        .group {
+            max-width: 107px;
+            min-height: 103px;
+            max-height: 103px;
+            border-collapse: collapse;
+            border: 1px solid white;
+            float: left;
+            display: inline-block;
+            box-sizing: border-box;
+            padding: 10px;
+            font-family: arial;
+            width: 7%;
+            flex: 1 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            transition: .7s;
+            transform-origin: center;    
+            box-shadow: none;
+            overflow: hidden;
+        }
+
+        .group:hover {
+            /*transform: scale(1.5, 1.5);*/
+			transform: scale(3, 3);
+            z-index: 9;
+            position: relative;
+            cursor: url(/img/cursor-help.png), auto;
+        }
+
+        .group:hover:after {
+            bottom: 10px !important;
+            border-top: 10px solid transparent !important;
+        }
+
+        .group.no-focus:hover {
+            color: black !important;
+        }
+
+        .group.no-focus.focus-group:after {
+            border-top-color: #e0e0e0;
+        }
+
+        .group:first-of-type {
+            transform-origin: left;
+        }
+
+        .group:last-of-type {
+            transform-origin: right;
+        }
+
+        .period:first-of-type .group:last-of-type {
+            transform-origin: right top;
+        }
+
+        .period:first-of-type .group:first-of-type {
+            transform-origin: left top;
+        }
+
+        .group.empty {
+            border-color: transparent;
+            pointer-events: none;
+        }
+
+        .group.empty:hover {
+            transform: scale(1);
+            z-index: 1;
+            box-shadow: none;
+        }
+
+        .other-nonmetals, .other-nonmetals.no-focus:hover  {
+            background: #76FF03;
+        }
+
+        .noble-gases, .noble-gases.no-focus:hover  {
+            background: #df5ff5;
+        }
+
+        .halogens, .halogens.no-focus:hover  {
+            background: #18FFFF;
+        }
+
+        .metalloids, .metalloids.no-focus:hover  {
+            background: #00E676;
+        }
+
+        .alkaline-earth-metals, .alkaline-earth-metals.no-focus:hover  {
+            background: #eaea18;
+        }
+
+        .alkali-metals, .alkali-metals.no-focus:hover  {
+            background: #f7a91d;
+        }
+
+        .transition-metals, .transition-metals.no-focus:hover  {
+            background: #ff3e7f;
+        }
+
+        .post-transition-metals, .post-transition-metals.no-focus:hover  {
+            background: #40C4FF;
+        }
+
+        .lanthanoids, .lanthanoids.no-focus:hover  {
+            background: #fd6d3f;
+        }
+
+        .actinoids, .actinoids.no-focus:hover  {
+            background: #ff1744;
+        }
+
+        #six .lanthanoids, #seven .actinoids {
+            justify-content: center;
+        }
+
+        #six .lanthanoids .atomic-number, #seven .actinoids .atomic-number {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .element-symbol {
+            font-size: 1.5em;
+        }
+
+        .atomic-number {
+            font-size: 1.2em;
+        }
+
+        .atomic-orbital-shells {
+            float: right;
+            font-size: 10px;
+            display: flex;
+            flex-direction: column;
+            flex: 0;
+            position: absolute;
+            right: 10px;
+        }
+
+        .atomic-orbital-shells span {
+            display: block;
+            text-align: right;
+            line-height: 10px;
+        }
+
+        .element-name, .atomic-mass {
+            font-size: 11px;
+            flex: 1 1;
+            align-items: flex-end;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: normal;
+            display: inline-block;
+            max-width: 85%;
+        }
+
+        .period {
+            display: block;
+            clear: both;
+            display: flex;
+            justify-content: space-around;
+            align-items: stretch;
+        }
+
+        .break {
+            height: 30px;
+        }
+
+        .category .active:after {
+            content: "";
+            width: 5px;
+            height: 5px;
+            background: #00c300;
+            border: 2px solid white;
+            transition: .7s;
+        }
+
+        .category div:after {
+            content: "";
+            width: 0px;
+            height: 0px;
+            border: 3px solid transparent;
+            transition: .7s;
+            position: absolute;
+            display: block;
+            border-radius: 100%;
+            margin: auto;
+            background: transparent;
+            right: 3px;
+            bottom: 2px;
+        }
+
+        .category {
+            display: flex;
+            justify-content: center;
+            position: absolute;
+            right: 0;
+            left: 0;
+            font-family: arial;
+        }
+
+        .category div {
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid white;
+            z-index: 9;
+            transition: .7s;
+            transform-origin: top;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .category div:hover {
+            transform: scale(1.2, 1.2);
+            z-index: 10;
+        }
+
+        .category div:before {
+            content: "";
+            border-left: 0px solid transparent;
+            border-bottom: 100px solid rgba(0,0,0,0.1);
+            border-right: 50px solid transparent;
+            border-top: 0px solid transparent;
+            z-index: 0;
+            position: absolute;
+            left: -100px;
+            top: 0px;
+            width: auto;
+            height: auto;
+            padding-left: 50px;
+            transition: .3s;
+        }
+
+        .category div:hover:before {
+            left: 0px;
+        }
+
+        #one .group:first-child,#one .group:last-child {
+            z-index: 2;
+            position: relative;
+        }
+
+        .characteristic {
+            display: flex;
+            justify-content: center;
+            position: absolute;
+            right: 0;
+            left: 0;
+            top: 50px;
+            z-index: 1;
+            font-family: arial;
+            justify-content: space-between;    
+            width: 100%;
+            margin: auto;
+            max-width: 1240px;
+        }
+
+        .characteristic .non-metals {
+            flex: 0 28%;
+            max-width: 348px;
+        }
+
+        .characteristic div {
+            text-align: center;
+            padding: 5.5px 0px;
+            box-sizing: border-box;
+            position: relative;
+            border: 2px solid black;
+            border-top: 0px;
+            justify-content: center;
+            display: flex;
+        }
+
+        .characteristic div span {
+            position: absolute;
+            left: auto;
+            right: auto;
+            background: white;
+            width: auto;
+            padding: 5px;
+            box-sizing: border-box;
+            top: 0;
+        }
+
+        .characteristic .metals {
+            flex: 0 65%;
+            max-width: 804px;
+        }
+
+        .card .element-name {
+            text-overflow: initial;
+            max-width: none;
+        }
+
+        div#lanthanide-series .group:nth-child(2):after {
+            content: "Ln Series";
+        }
+
+        div#actinide-series .group:nth-child(2):after {
+            content: "An Series";
+        }
+
+        div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
+            display: none;
+        }
+
+        @media(max-width: 1700px) {
+
+            .atomic-mass {
+                max-width: none;
+                font-size: 9px;
+            }
+
+            .atomic-number {
+                font-size: 15px;
+            }
+
+            .element-name {
+                font-size: 9px;
+            }
+
+            .atomic-orbital-shells {
+                display: none;
+            }
+
+        }
+
+        @media(max-width: 1500px) {
+
+            .atomic-mass {
+                display: none;
+            }
+
+            .group {
+                width: 5%;
+                min-height: 85px;
+            }
+
+            .atomic-orbital-shells {
+                display: none;
+            }
+
+            .category div {
+                font-size: 0px;
+                padding: 7px 20px;
+                position: relative;
+            }
+
+            .characteristic {
+                max-width: 420px;
+                top: 20px;
+            }
+
+            .characteristic .non-metals {
+                max-width: 125px;
+                flex: 0 30%;
+            }
+
+            .characteristic .metals {
+                flex: 0 60%;
+                max-width: 252px;
+            }
+
+            .characteristic div span {
+                font-size: 12px;
+            }
+
+        }
+
+        @media(max-width: 1300px) {
+
+            .atomic-number {
+                font-size: 11px;
+                text-align: right;
+            }
+
+            .element-name {
+                display: none;
+            }
+
+            .group {
+                min-height: inherit;
+            }
+
+            .element-symbol strong {
+                font-weight: 300;
+            }
+
+            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
+                position: absolute;
+                right: 10px;
+                top: 25px;
+            }
+
+            div#lanthanide-series .group:nth-child(2), div#actinide-series .group:nth-child(2) {
+                position: relative;
+            }
+
+            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
+                position: absolute;
+                right: 10px;
+                top: 25px;
+            }
+
+            div#lanthanide-series .group:nth-child(2):after, div#actinide-series .group:nth-child(2):after {
+                display: block;
+                font-size: 12px;
+                right: 5px;
+                border: 0px;
+                width: auto;
+                height: auto;
+                left: auto;
+                bottom: 20px;
+            }
+
+        }
+
+        @media(max-width: 1024px) {
+
+            .atomic-number {
+                font-size: 12px;
+            }
+
+            .element-symbol {
+                text-align: center;
+            }
+
+        }
+
+        @media(max-width: 980px) {
+
+            .element-symbol {
+                font-size: 20px;
+            }   
+
+            .element-symbol {
+                font-size: 15px;
+                text-align: left;
+            }
+
+            .atomic-number {
+                font-size: 9px;
+            }
+
+        }
+
+        @media(max-width: 768px) {
+
+            .group {
+                padding: 5px;
+            }
+
+            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
+                top: 15px;
+            }
+
+            div#lanthanide-series .group:nth-child(2):after, div#actinide-series .group:nth-child(2):after {
+                font-size: 15px;
+                width: 100%;
+                text-align: center;
+            }
+
+            div#lanthanide-series .group:nth-child(2):after {
+                content: "Ln";
+            }
+
+            div#actinide-series .group:nth-child(2):after {
+                content: "An";
+            }
+
+            .characteristic div {
+                padding: 3px 0px;
+                height: 5px;
+            }
+
+            .characteristic div span {
+                font-size: 12px;
+                top: -5px;
+            }
+
+            .category .active:after {
+                width: 10px;
+                height: 10px;
+            }
+
+            footer > div span:last-of-type {
+                font-size: 10px;
+                display: block;
+            }
+
+            footer > div span:nth-child(2) {
+                display: none;
+            }
+
+            .card .element-name {
+                font-size: 25px;
+            }
+
+        }
+
+        @media(max-width: 600px) {
+
+            div#lanthanide-series .group:nth-child(2):after, div#actinide-series .group:nth-child(2):after {
+                font-size: 12px;
+                bottom: 5px;
+            }
+
+            .atomic-number {
+                display: none;
+            }
+
+            .group .element-symbol {
+                text-align: center;
+                font-size: 12px;
+            }
+
+            #six .lanthanoids .atomic-number:before,#seven .actinoids .atomic-number:before {
+                top: 3px;
+                font-size: 15px;
+            }
+
+            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
+                top: 7px;
+            }
+
+            .category div {
+                padding: 5px 15px;
+            }
+
+            .category .active:after {
+                width: 7px;
+                height: 7px;
+                border: 2px solid white;
+            }
+
+            .characteristic {
+                max-width: 320px;
+                top: 15px;
+            }
+
+            .characteristic div span {
+                padding: 0px 5px;
+                font-size: 10px;
+                top: -2px;
+            }
+
+            .characteristic div {
+                height: 5px;
+                padding: 0px;
+            }
+
+        }
+
+        @media(max-width: 500px) {
+
+            div#lanthanide-series .group:nth-child(2):after, div#actinide-series .group:nth-child(2):after {
+                display: none;
+            }
+
+            .group .element-symbol {
+                font-size: 0px;
+            }
+
+            #six .lanthanoids .atomic-number:before, #seven .actinoids .atomic-number:before {
+                top: 2px;
+                font-size: 12px;
+            }
+
+            .group {
+                min-height: 25px;
+                max-height: 25px;
+            }
+
+            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
+                top: 8px;
+                font-size: 12px;
+            }
+
+            #six .lanthanoids .atomic-number:before,#seven .actinoids .atomic-number:before {
+                top: 3px;
+                font-size: 15px;
+            }
+
+            .array {
+                padding-top: 30px !important;
+            }
+
+            .group:after {
+                border-left: 5px solid transparent !important;
+                border-right: 5px solid transparent !important;
+                border-top-width: 8px !important;
+                bottom: -8px !important;
+            }
+
+        }
+
+        @media(max-width: 400px) {
+
+            .group {
+                min-height: 20px;
+                max-height: 20px;
+            }
+
+            #six .lanthanoids .atomic-number:before, #seven .actinoids .atomic-number:before {
+                font-size: 10px;
+                top: 2px;
+            }
+
+            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
+                font-size: 10px;
+            }
+
+        }
+
+        @media(max-width: 350px) {
+
+            .category {
+                justify-content: space-between;
+            }
+
+            .category div {
+                flex: 1 1;
+                padding: 5px 0px;
+            }
+
+            .characteristic {
+                max-width: none;
+            }
+
+            .characteristic .non-metals {
+                max-width: none;
+                flex: 0 30%;
+            }
+
+            .characteristic .metals {
+                max-width: none;
+            }
+
+        }

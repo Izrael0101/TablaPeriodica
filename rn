@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Radon</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element noble-gases">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">8</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+86
+</div>
+<div class="element-symbol">
+<strong>Rn</strong>
+</div>
+<div class="element-name">
+Radon
+</div>
+<div class="atomic-mass">
+(222)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>86</sub>Rn</li>
+<li>Name: radon</li>
+<li>Atomic number: 86</li>
+<li>Atomic mass: 222 u</li>
+<li>Boiling point: -61.7 °C</li>
+<li>Electron configuration: 4f145d106s26p6</li>
+<li>Electronegativity: 2.2</li>
+<li>Discovered: 1899</li>
+<li>Discoverers: Ernest Rutherford, Robert B. Owens</li>
+</ul>
+</div>
+<div class="card description">
+<p>Radon is a chemical element with symbol Rn and atomic number 86. It is a radioactive, colorless, odorless, tasteless noble gas, occurring naturally as a decay product of radium. Its most stable isotope, 222Rn, has a half-life of 3.8 days. Radon is one of the densest substances that remains a gas under normal conditions. It is also the only elemental gas under normal conditions that has no stable isotopes, and is considered a health hazard due to its radioactivity. Intense radioactivity has also hindered chemical studies of radon and only a few compounds are known.</p>
+<p>Radon is formed as one intermediate step in the normal radioactive decay chains through which thorium and uranium slowly decay into lead. Thorium and uranium are the two most common radioactive elements on earth; they have been around since the earth was formed. Their naturally occurring isotopes have very long half-lives, on the order of billions of years.</p>
+<p>Thorium and uranium, their decay product radium, and its decay product radon, will therefore continue to occur for tens of millions of years at almost the same concentrations as they do now.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: colorless gas, occasionally glows green or red in discharge tubes</li>
+<li>Group: group 18 (noble gases)</li>
+<li>Block: p-block</li>
+<li>Period: period 6</li>
+<li>Element category: noble gas</li>
+<li>Electron configuration: 4f14 5d10 6s2 6p6</li>
+<li>Per shell: 2, 8, 18, 32, 18, 8</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: gas</li>
+<li>Melting point: 202 K ​(−71 °C, ​−96 °F)</li>
+<li>Boiling point: 211.5 K ​(−61.7 °C, ​−79.1 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Ernest Rutherford and Robert B. Owens (1899)</li>
+<li>First isolation: William Ramsay and Robert Whytlaw-Gray (1910)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

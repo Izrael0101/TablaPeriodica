@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Platinum</title>
+
+</head>
+<body class=""><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">17</span>
+<span class="P">1</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+78
+</div>
+<div class="element-symbol">
+<strong>Pt</strong>
+</div>
+<div class="element-name">
+Platinum
+</div>
+<div class="atomic-mass">
+195.084
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>78</sub>Pt</li>
+<li>Name: platinum</li>
+<li>Atomic number: 78</li>
+<li>Atomic mass: 195.084 u</li>
+<li>Boiling point: 3,825 °C</li>
+<li>Electron configuration: 4f145d96s1</li>
+<li>Electronegativity: 2.28</li>
+<li>Discovered: 1748</li>
+<li>Discoverer: Antonio de Ulloa</li>
+</ul>
+</div>
+<div class="card description">
+<p>Platinum is a chemical element with symbol Pt and atomic number 78. It is dense, malleable, ductile, highly unreactive, precious, gray-white transition metal. Its name is derived from the Spanish term platina, translated into "little silver".</p>
+<p>Platinum is a member of the platinum group of elements and group 10 of the periodic table of elements. It has six naturally occurring isotopes. It is one of the rarer elements in Earth's crust with an average abundance of approximately 5 μg/kg. It occurs in some nickel and copper ores along with some native deposits, mostly in South Africa, which accounts for 80% of the world production. Because of its scarcity in Earth's crust, only a few hundred tonnes are produced annually, and given its important uses, it is highly valuable and is a major precious metal commodity.</p>
+<p>Platinum is one of the least reactive metals. It has remarkable resistance to corrosion, even at high temperatures, and is therefore considered a noble metal. Consequently, platinum is often found chemically uncombined as native platinum. </p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group 10</li>
+<li>Block: d-block</li>
+<li>Period: period 6</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4f14 5d9 6s1</li>
+<li>Per shell: 2, 8, 18, 32, 17, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 2041.4 K ​(1768.3 °C, ​3214.9 °F)</li>
+<li>Boiling point: 4098 K ​(3825 °C, ​6917 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: Antonio de Ulloa (1748)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

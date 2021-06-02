@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Cobolt</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">15</span>
+<span class="N">2</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+27
+</div>
+<div class="element-symbol">
+<strong>Co</strong>
+</div>
+<div class="element-name">
+Cobolt
+</div>
+<div class="atomic-mass">
+58.933194
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>27</sub>Co</li>
+<li>Name: cobolt</li>
+<li>Atomic number: 27</li>
+<li>Atomic mass: 58.933195 u ± 0.000005 u</li>
+<li>Boiling point: 2927 °C</li>
+<li>Electron configuration: 3d74s2</li>
+<li>Electronegativity: 1.88</li>
+<li>Discovered: 1732</li>
+<li>Discoverer: Georg Brandt</li>
+</ul>
+</div>
+<div class="card description">
+<p>Cobalt is a chemical element with symbol Co and atomic number 27. Like nickel, cobalt is found in the Earth's crust only in chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.</p>
+<p>Cobalt-based blue pigments (cobalt blue) have been used since ancient times for jewelry and paints, and to impart a distinctive blue tint to glass, but the color was later thought by alchemists to be due to the known metal bismuth. Miners had long used the name kobold ore (German for goblin ore) for some of the blue-pigment producing minerals; they were so named because they were poor in known metals, and gave poisonous arsenic-containing fumes upon smelting. In 1735, such ores were found to be reducible to a new metal (the first discovered since ancient times), and this was ultimately named for the kobold.</p>
+<p>Today, some cobalt is produced specifically from various metallic-lustered ores, for example cobaltite (CoAsS), but the main source of the element is as a by-product of copper and nickel mining.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: hard lustrous bluish gray metal</li>
+<li>Group: group 9</li>
+<li>Block: d-block</li>
+<li>Period: period 4</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 3d7 4s2</li>
+<li>Per shell: 2, 8, 15, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Color: metallic gray</li>
+<li>Phase: solid</li>
+<li>Melting point: 1768 K ​(1495 °C, ​2723 °F)</li>
+<li>Boiling point: 3200 K ​(2927 °C, ​5301 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Georg Brandt (1732)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

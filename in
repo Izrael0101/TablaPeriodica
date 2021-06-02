@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Indium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element post-transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">3</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+49
+</div>
+<div class="element-symbol">
+<strong>In</strong>
+</div>
+<div class="element-name">
+Indium
+</div>
+<div class="atomic-mass">
+114.818
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>49</sub>In</li>
+<li>Name: indium</li>
+<li>Atomic number: 49</li>
+<li>Atomic mass: 114.818 u ± 0.003 u</li>
+<li>Boiling point: 2,072 °C</li>
+<li>Electron configuration: 4d105s25p1</li>
+<li>Electronegativity: 1.78</li>
+<li>Discovered: 1863</li>
+<li>Discoverers: Ferdinand Reich and Hieronymous Theodor Richter</li>
+</ul>
+</div>
+<div class="card description">
+<p>Indium is a chemical element with symbol In and atomic number 49. It is a post-transition metal that makes up 0.21 parts per million of the Earth's crust. Very soft and malleable, Indium has a melting point higher than sodium and gallium, but lower than lithium or tin. Ferdinand Reich and Hieronymous Theodor Richter discovered it with spectroscopy in 1863, naming it for the indigo blue line in its spectrum. It was isolated the next year.</p>
+<p>Chemically, indium is similar to gallium and thallium, and it is largely intermediate between the two in terms of its properties. It is a minor component in zinc sulfide ores and is produced as a byproduct of zinc refinement. It is most notably used in the semiconductor industry, in low-melting-point metal alloys such as solders, in soft-metal high-vacuum seals, and in the production of transparent conductive coatings of indium tin oxide (ITO) on glass. Indium has no biological role, though its compounds are somewhat toxic when injected into the bloodstream. Most occupational exposure is through ingestion, from which indium compounds are not absorbed well, and inhalation, from which they are moderately absorbed.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery lustrous gray</li>
+<li>Group: group 13</li>
+<li>Block: p-block</li>
+<li>Period: period 5</li>
+<li>Element category: post-transition metal</li>
+<li>Electron configuration: 4d10 5s2 5p1</li>
+<li>Per shell: 2, 8, 18, 18, 3</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 429.7485 K ​(156.5985 °C, ​313.8773 °F)</li>
+<li>Boiling point: 2345 K ​(2072 °C, ​3762 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Ferdinand Reich and Hieronymous Theodor Richter (1863)</li>
+<li>First isolation: Hieronymous Theodor Richter (1864)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Plutonium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element actinoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">24</span>
+<span class="P">8</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+94
+</div>
+<div class="element-symbol">
+<strong>Pu</strong>
+</div>
+<div class="element-name">
+Plutonium
+</div>
+<div class="atomic-mass">
+(244)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>94</sub>Pu</li>
+<li>Name: plutonium</li>
+<li>Atomic number: 94</li>
+<li>Atomic mass: 244 u</li>
+<li>Boiling point: 3,228 °C</li>
+<li>Electron configuration: 5f67s2</li>
+<li>Electronegativity: 1.28</li>
+<li>Discovered: 1940–1</li>
+<li>Discoverers: Joseph W. Kennedy, Glenn T. Seaborg, Edwin McMillan, Arthur Wahl</li>
+</ul>
+</div>
+<div class="card description">
+<p>Plutonium is a transuranic radioactive chemical element with symbol Pu and atomic number 94. It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens, nitrogen, silicon and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and can accumulate in bones, which makes the handling of plutonium dangerous.</p>
+<p>Plutonium was first produced and isolated on December 14, 1940 by Dr. Glenn T. Seaborg, Joseph W. Kennedy, Edwin M. McMillan, and Arthur C. Wahl by deuteron bombardment of uranium-238 in the 60-inch cyclotron at the University of California, Berkeley. They first synthesized neptunium-238 (half-life 2.1 days) which subsequently beta-decayed to form a new heavier element with atomic number 94 and atomic weight 238 (half-life 87.7 years). Uranium had been named after the planet Uranus and neptunium after the planet Neptune, and so element 94 was named after Pluto, which at the time was considered to be a planet as well.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white, tarnishing to dark gray in air</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 7</li>
+<li>Element category: actinide</li>
+<li>Electron configuration: 5f6 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 24, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 912.5 K ​(639.4 °C, ​1182.9 °F)</li>
+<li>Boiling point: 3505 K ​(3228 °C, ​5842 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after dwarf planet Pluto, itself named after classical god of the underworld Pluto</li>
+<li>Discovery: Glenn T. Seaborg, Arthur Wahl, Joseph W. Kennedy, Edwin McMillan (1940–1)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

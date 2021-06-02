@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Cadmium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">2</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+48
+</div>
+<div class="element-symbol">
+<strong>Cd</strong>
+</div>
+<div class="element-name">
+Cadmium
+</div>
+<div class="atomic-mass">
+112.414
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>48</sub>Cd</li>
+<li>Name: cadmium</li>
+<li>Atomic number: 48</li>
+<li>Atomic mass: 112.411 u ± 0.008 u</li>
+<li>Boiling point: 767 °C</li>
+<li>Electron configuration: 4d105s2</li>
+<li>Electronegativity: 1.69</li>
+<li>Discovered: 1817</li>
+<li>Discoverers: Friedrich Stromeyer, Karl Samuel Leberecht Hermann</li>
+</ul>
+</div>
+<div class="card description">
+<p>Cadmium is a chemical element with symbol Cd and atomic number 48. This soft, bluish-white metal is chemically similar to the two other stable metals in group 12, zinc and mercury. Like zinc, it demonstrates oxidation state +2 in most of its compounds, and like mercury, it has a lower melting point than other transition metals. Cadmium and its congeners are not always considered transition metals, in that they do not have partly filled d or f electron shells in the elemental or common oxidation states. The average concentration of cadmium in Earth's crust is between 0.1 and 0.5 parts per million (ppm). It was discovered in 1817 simultaneously by Stromeyer and Hermann, both in Germany, as an impurity in zinc carbonate.</p>
+<p>Cadmium occurs as a minor component in most zinc ores and is a byproduct of zinc production. Cadmium was used for a long time as a corrosion-resistant plating on steel, and cadmium compounds are used as red, orange and yellow pigments, to colour glass, and to stabilize plastic.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery bluish-gray metallic</li>
+<li>Group: group 12</li>
+<li>Block: d-block</li>
+<li>Period: period 5</li>
+<li>Element category: transition metal, alternatively considered a post-transition metal</li>
+<li>Electron configuration: 4d10 5s2</li>
+<li>Per shell: 2, 8, 18, 18, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 594.22 K ​(321.07 °C, ​609.93 °F)</li>
+<li>Boiling point: 1040 K ​(767 °C, ​1413 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Named by: Friedrich Stromeyer (1817)</li>
+<li>Discovery &amp; First isolation: Karl Samuel Leberecht Hermann and Friedrich Stromeyer (1817)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

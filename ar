@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Argon</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element noble-gases">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">8</span>
+<span class="N"></span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+18
+</div>
+<div class="element-symbol">
+<strong>Ar</strong>
+</div>
+<div class="element-name">
+Argon
+</div>
+<div class="atomic-mass">
+39.948
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>18</sub>Ar</li>
+<li>Name: argon</li>
+<li>Atomic number: 18</li>
+<li>Atomic mass: 39.948 u ± 0.001 u</li>
+<li>Boiling point: -185.8 °C</li>
+<li>Electron configuration: 3s23p6</li>
+<li>Discovered: 1894</li>
+<li>Discoverer: Lord Rayleigh and William Ramsay</li>
+</ul>
+</div>
+<div class="card description">
+<p>Argon is a chemical element with symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third most abundant gas in the Earth's atmosphere, at 0.934% (9340 ppmv) more than twice as abundant as water vapor (which averages about 4000 ppmv, but varies greatly), 23 times as abundant as carbon dioxide (400 ppmv), and more than 500 times as abundant as neon (18 ppmv). Argon is the most abundant noble gas in Earth's crust, comprising 0.00015% of the crust.</p>
+<p>Nearly all of the argon in Earth's atmosphere is radiogenic argon-40, derived from the decay of potassium-40 in the Earth's crust. In the universe, argon-36 is by far the most common argon isotope, being the preferred argon isotope produced by stellar nucleosynthesis in supernovas.</p>
+<p>The name "argon" is derived from the Greek word ἀργόν, neuter singular form of ἀργός meaning "lazy" or "inactive", as a reference to the fact that the element undergoes almost no chemical reactions.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field</li>
+<li>Group: group 18 (noble gases)</li>
+<li>Block: p-block</li>
+<li>Period: period 3</li>
+<li>Element category: noble gas</li>
+<li>Electron configuration: 3s2 3p6</li>
+<li>Per shell: 2, 8, 8</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: gas</li>
+<li>Melting point: 83.81 K ​(−189.34 °C, ​−308.81 °F)</li>
+<li>Boiling point: 87.302 K ​(−185.848 °C, ​−302.526 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: Lord Rayleigh and William Ramsay (1894)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

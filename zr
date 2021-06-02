@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Zirconium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">10</span>
+<span class="O">2</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+40
+</div>
+<div class="element-symbol">
+<strong>Zr</strong>
+</div>
+<div class="element-name">
+Zirconium
+</div>
+<div class="atomic-mass">
+91.224
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>40</sub>Zr</li>
+<li>Name: zirconium</li>
+<li>Atomic number: 40</li>
+<li>Atomic mass: 91.224 u ± 0.002 u</li>
+<li>Boiling point: 4377 °C</li>
+<li>Electron configuration: 4d25s2</li>
+<li>Electronegativity: 1.33</li>
+<li>Discovered: 1789</li>
+<li>Discoverer: Martin Heinrich Klaproth</li>
+</ul>
+</div>
+<div class="card description">
+<p>Zirconium is a chemical element with symbol Zr and atomic number 40. The name of zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word zircon comes from the Persian word zargun زرگون, meaning "gold-colored". It is a lustrous, grey-white, strong transition metal that resembles hafnium and, to a lesser extent, titanium. Zirconium is mainly used as a refractory and opacifier, although small amounts are used as an alloying agent for its strong resistance to corrosion. Zirconium forms a variety of inorganic and organometallic compounds such as zirconium dioxide and zirconocene dichloride, respectively. Five isotopes occur naturally, three of which are stable. Zirconium compounds have no known biological role.</p>
+<p>Zirconium is a lustrous, greyish-white, soft, ductile and malleable metal that is solid at room temperature, though it is hard and brittle at lesser purities. In powder form, zirconium is highly flammable, but the solid form is much less prone to ignition.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group 4</li>
+<li>Block: d-block</li>
+<li>Period: period 5</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4d2 5s2</li>
+<li>Per shell: 2, 8, 18, 10, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 2128 K ​(1855 °C, ​3371 °F)</li>
+<li>Boiling point: 4650 K ​(4377 °C, ​7911 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after zircon, zargun زرگون meaning "gold-colored"</li>
+<li>Discovery : Martin Heinrich Klaproth (1789)</li>
+<li>First isolation: Jöns Jakob Berzelius (1824)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

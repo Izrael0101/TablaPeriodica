@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Neodymium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">22</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+60
+</div>
+<div class="element-symbol">
+<strong>Nd</strong>
+</div>
+<div class="element-name">
+Neodymium
+</div>
+<div class="atomic-mass">
+144.242
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>60</sub>Nd</li>
+<li>Name: neodymium</li>
+<li>Atomic number: 60</li>
+<li>Atomic mass: 144.242 u ± 0.003 u</li>
+<li>Boiling point: 3,074 °C</li>
+<li>Electron configuration: 4f46s2</li>
+<li>Electronegativity: 1.14</li>
+<li>Discovered: 1885</li>
+<li>Discoverer: Carl Auer von Welsbach</li>
+</ul>
+</div>
+<div class="card description">
+<p>Neodymium is a chemical element with symbol Nd and atomic number 60. It is a soft silvery metal that tarnishes in air. Neodymium was discovered in 1885 by the Austrian chemist Carl Auer von Welsbach. It is present in significant quantities in the ore minerals monazite and bastnäsite. Neodymium is not found naturally in metallic form or unmixed with other lanthanides, and it is usually refined for general use. Although neodymium is classed as a rare earth, it is a fairly common element, no rarer than cobalt, nickel, and copper, and is widely distributed in the Earth's crust.[3] Most of the world's commercial neodymium is mined in China.</p>
+<p>Neodymium compounds were first commercially used as glass dyes in 1927, and they remain a popular additive in glasses. The color of neodymium compounds—due to the Nd3+ ion—is often a reddish-purple but it changes with the type of lighting, due to the interaction of the sharp light absorption bands of neodymium with ambient light enriched with the sharp visible emission bands of mercury, trivalent europium or terbium. Some neodymium-doped glasses are also used in lasers that emit infrared with wavelengths between 1047 and 1062 nanometers. These have been used in extremely-high-power applications, such as experiments in inertial confinement fusion.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f4 6s2</li>
+<li>Per shell: 2, 8, 18, 22, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1297 K ​(1024 °C, ​1875 °F)</li>
+<li>Boiling point: 3347 K ​(3074 °C, ​5565 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Carl Auer von Welsbach (1885)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

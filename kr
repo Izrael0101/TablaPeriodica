@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Krypton</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element noble-gases">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">8</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+36
+</div>
+<div class="element-symbol">
+<strong>Kr</strong>
+</div>
+<div class="element-name">
+Krypton
+</div>
+<div class="atomic-mass">
+83.798
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>36</sub>Kr</li>
+<li>Name: krypton</li>
+<li>Atomic number: 36</li>
+<li>Atomic mass: 83.798 u</li>
+<li>Boiling point: −153.415 °C °C</li>
+<li>Electron configuration: 3d104s24p6</li>
+<li>Electronegativity: 3.00</li>
+<li>Discovered: 1898</li>
+<li>Discoverers: William Ramsay and Morris Travers</li>
+</ul>
+</div>
+<div class="card description">
+<p>Krypton (from Greek: κρυπτός kryptos "the hidden one") is a chemical element with symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless, tasteless noble gas, krypton occurs in trace amounts in the atmosphere and is often used with other rare gases in fluorescent lamps. With rare exceptions, krypton is chemically inert.</p>
+<p>Krypton, like the other noble gases, is used in lighting and photography. Krypton light has many spectral lines, and krypton plasma is useful in bright, high-powered gas lasers (krypton ion and excimer lasers), each of which resonates and amplifies a single spectral line. Krypton fluoride also makes a useful laser. From 1960 to 1983, the official length of a meter was defined by the 605 nm wavelength of the orange spectral line of krypton-86, because of the high power and relative ease of operation of krypton discharge tubes.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: colorless gas, exhibiting a whitish glow in a high electric field</li>
+<li>Group: group 18 (noble gases)</li>
+<li>Block: p-block</li>
+<li>Period: period 4</li>
+<li>Element category: noble gas</li>
+<li>Electron configuration: 3d10 4s2 4p6</li>
+<li>Per shell: 2, 8, 18, 8</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 115.78 K ​(−157.37 °C, ​−251.27 °F)</li>
+<li>Boiling point: 119.93 K ​(−153.415 °C, ​−244.147 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: William Ramsay and Morris Travers (1898)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

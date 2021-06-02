@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Erbium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">30</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+68
+</div>
+<div class="element-symbol">
+<strong>Er</strong>
+</div>
+<div class="element-name">
+Erbium
+</div>
+<div class="atomic-mass">
+167.259
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>68</sub>Er</li>
+<li>Name: erbium</li>
+<li>Atomic number: 68</li>
+<li>Atomic mass: 167.259 u ± 0.003 u</li>
+<li>Boiling point: 2,868 °C</li>
+<li>Electron configuration: 4f126s2</li>
+<li>Electronegativity: 1.24</li>
+<li>Discovered: 1843</li>
+<li>Discoverer: Carl Gustaf Mosander</li>
+</ul>
+</div>
+<div class="card description">
+<p>Erbium is a chemical element in the lanthanide series, with symbol Er and atomic number 68. A silvery-white solid metal when artificially isolated, natural erbium is always found in chemical combination with other elements on Earth. As such, it is a rare earth element which is associated with several other rare elements in the mineral gadolinite from Ytterby in Sweden, where yttrium, ytterbium, and terbium were discovered.</p>
+<p>Erbium's principal uses involve its pink-colored Er3+ ions, which have optical fluorescent properties particularly useful in certain laser applications. Erbium-doped glasses or crystals can be used as optical amplification media, where Er3+ ions are optically pumped at around 980 or 1480 nm and then radiate light at 1530 nm in stimulated emission. This process results in an unusually mechanically simple laser optical amplifier for signals transmitted by fiber optics. The 1550 nm wavelength is especially important for optical communications because standard single mode optical fibers have minimal loss at this particular wavelength.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f12 6s2</li>
+<li>Per shell: 2, 8, 18, 30, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1802 K ​(1529 °C, ​2784 °F)</li>
+<li>Boiling point: 3141 K ​(2868 °C, ​5194 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Ytterby (Sweden), where it was mined</li>
+<li>Discovery: Carl Gustaf Mosander (1843)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

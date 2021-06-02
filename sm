@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Samarium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">24</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+62
+</div>
+<div class="element-symbol">
+<strong>Sm</strong>
+</div>
+<div class="element-name">
+Samarium
+</div>
+<div class="atomic-mass">
+150.36
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>62</sub>Sm</li>
+<li>Name: samarium</li>
+<li>Atomic number: 62</li>
+<li>Atomic mass: 150.36 u ± 0.02 u</li>
+<li>Boiling point: 1,900 °C</li>
+<li>Electron configuration: 4f66s2</li>
+<li>Electronegativity: 1.17</li>
+<li>Discovered: 1879</li>
+<li>Discoverer: Lecoq de Boisbaudran</li>
+</ul>
+</div>
+<div class="card description">
+<p>Samarium is a chemical element with symbol Sm and atomic number 62. It is a moderately hard silvery metal that readily oxidizes in air. Being a typical member of the lanthanide series, samarium usually assumes the oxidation state +3. Compounds of samarium(II) are also known, most notably the monoxide SmO, monochalcogenides SmS, SmSe and SmTe, as well as samarium(II) iodide. The last compound is a common reducing agent in chemical synthesis. Samarium has no significant biological role and is only slightly toxic.</p>
+<p>Samarium was discovered in 1879 by the French chemist Paul Émile Lecoq de Boisbaudran and named after the mineral samarskite from which it was isolated. The mineral itself was earlier named after a Russian mine official, Colonel Vasili Samarsky-Bykhovets, who thereby became the first person to have a chemical element named after him, albeit indirectly. Although classified as a rare earth element, samarium is the 40th most abundant element in the Earth's crust and is more common than such metals as tin.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f6 6s2</li>
+<li>Per shell: 2, 8, 18, 24, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1345 K ​(1072 °C, ​1962 °F)</li>
+<li>Boiling point: 2173 K ​(1900 °C, ​3452 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after the mineral samarskite (itself named after Vasili Samarsky-Bykhovets)</li>
+<li>Discovery and first isolation: Lecoq de Boisbaudran (1879)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

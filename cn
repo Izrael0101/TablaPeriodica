@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Copernicium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">32</span>
+<span class="P">18</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+112
+</div>
+<div class="element-symbol">
+<strong>Cn</strong>
+</div>
+<div class="element-name">
+Copernicium
+</div>
+<div class="atomic-mass">
+(285)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>112</sub>Cn</li>
+<li>Name: copernicium</li>
+<li>Atomic number: 112</li>
+<li>Atomic mass: 285 u</li>
+<li>Electron configuration: 5f146d107s2</li>
+<li>Discovered: 1996</li>
+<li>Discoverers: Sigurd Hofmann, Victor Ninov</li>
+</ul>
+</div>
+<div class="card description">
+<p>Copernicium is a chemical element with symbol Cn and atomic number 112. It is an extremely radioactive synthetic element that can only be created in a laboratory. The most stable known isotope, copernicium-285, has a half-life of approximately 29 seconds. Copernicium was first created in 1996 by the GSI Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany. It is named after the astronomer Nicolaus Copernicus.</p>
+<p>In the periodic table of the elements, it is a d-block transactinide element. During reactions with gold, it has been shown to be an extremely volatile metal and a group 12 element, so much so that it is probably a gas at standard temperature and pressure. Copernicium is calculated to have several properties that differ between it and its lighter homologues, zinc, cadmium and mercury; due to relativistic effects, it may even give up its 6d electrons instead of its 7s ones. Copernicium has also been calculated to possibly show the oxidation state +4, while mercury shows it in only one compound of disputed existence and zinc and cadmium do not show it at all, although more recent calculations cast doubt on this possibility. It has also been predicted to be more difficult to oxidize copernicium from its neutral state than the other group 12 elements.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Group: group 12</li>
+<li>Block: d-block</li>
+<li>Period: period 7</li>
+<li>Element category: transition metal, alternatively considered a post-transition metal</li>
+<li>Electron configuration: 5f14 6d10 7s2 (predicted)</li>
+<li>Per shell: 2, 8, 18, 32, 32, 18, 2 (predicted)</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: gas presumably</li>
+<li>Melting point: Unknown</li>
+<li>Boiling point: Unknown</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Nicolaus Copernicus</li>
+<li>Discovery: Gesellschaft für Schwerionenforschung (1996)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

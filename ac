@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Actinium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element actinoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">9</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+89
+</div>
+<div class="element-symbol">
+<strong>Ac</strong>
+</div>
+<div class="element-name">
+Actinium
+</div>
+<div class="atomic-mass">
+(227)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>89</sub>Ac</li>
+<li>Name: actinium</li>
+<li>Atomic number: 89</li>
+<li>Atomic mass: 227 u</li>
+<li>Boiling point: 3,200 ± 300 °C</li>
+<li>Electron configuration: 6d17s2</li>
+<li>Electronegativity: 1.1</li>
+<li>Discovered: 1899</li>
+<li>Discoverer: Friedrich Oskar Giesel</li>
+</ul>
+</div>
+<div class="card description">
+<p>Actinium is a radioactive chemical element with symbol Ac (not to be confused with the abbreviation for an acetyl group) and atomic number 89, which was discovered in 1899. It was the first non-primordial radioactive element to be isolated. Polonium, radium and radon were observed before actinium, but they were not isolated until 1902. Actinium gave the name to the actinide series, a group of 15 similar elements between actinium and lawrencium in the periodic table. It is also sometimes considered the first of the 7th-period transition metals, although lawrencium is less commonly given that position.</p>
+<p>A soft, silvery-white radioactive metal, actinium reacts rapidly with oxygen and moisture in air forming a white coating of actinium oxide that prevents further oxidation. As with most lanthanides and many actinides, actinium assumes oxidation state +3 in nearly all its chemical compounds. Actinium is found only in traces in uranium and thorium ores as the isotope 227Ac, which decays with a half-life of 21.772 years, predominantly emitting beta and sometimes alpha particles, and 228Ac, which is beta active with a half-life of 6.15 hours.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery-white, glowing with an eerie blue light; sometimes with a golden cast</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 7</li>
+<li>Element category: actinide, sometimes considered a transition metal</li>
+<li>Electron configuration: 6d1 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 18, 9, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1500 K ​(1227 °C, ​2240 °F) (estimated)</li>
+<li>Boiling point: 3500±300 K ​(3200±300 °C, ​5800±500 °F) (extrapolated)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Named by: André-Louis Debierne (1899)</li>
+<li>Discovery and first isolation: Friedrich Oskar Giesel (1902)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

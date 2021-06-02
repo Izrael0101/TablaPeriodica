@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Livermorium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element post-transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">32</span>
+<span class="P">18</span>
+<span class="Q">6</span>
+</div>
+<div class="atomic-number">
+116
+</div>
+<div class="element-symbol">
+<strong>Lv</strong>
+</div>
+<div class="element-name">
+Livermorium
+</div>
+<div class="atomic-mass">
+(293)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>116</sub>Lv</li>
+<li>Name: livermorium</li>
+<li>Atomic number: 116</li>
+<li>Atomic mass: 293 u</li>
+<li>Boiling point: 762–862 °C</li>
+<li>Electron configuration: 5f146d107s27p4</li>
+<li>Discovered: 2000</li>
+<li>Discoverers: Joint Institute for Nuclear Research, Lawrence Livermore National Laboratory</li>
+</ul>
+</div>
+<div class="card description">
+<p>Livermorium is a synthetic superheavy element with symbol Lv and atomic number 116. It is an extremely radioactive element that has only been created in the laboratory and has not been observed in nature. The element is named after the Lawrence Livermore National Laboratory in the United States, which collaborated with the Joint Institute for Nuclear Research in Dubna, Russia to discover livermorium in 2000. The name of the laboratory refers to the city of Livermore, California where it is located, which in turn was named after the rancher and landowner Robert Livermore. The name was adopted by IUPAC on May 30, 2012. Four isotopes of livermorium are known, with mass numbers between 290 and 293 inclusive; the longest-lived among them is livermorium-293 with a half-life of about 60 milliseconds.</p>
+<p>In the periodic table, it is a p-block transactinide element. It is a member of the 7th period and is placed in group 16 as the heaviest chalcogen, although it has not been confirmed to behave as the heavier homologue to the chalcogen polonium. Livermorium is calculated to have some similar properties to its lighter homologues (oxygen, sulfur, selenium, tellurium, and polonium), and be a post-transition metal, although it should also show several major differences from them.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Group: group 16 (chalcogens)</li>
+<li>Block: p-block</li>
+<li>Period: period 7</li>
+<li>Element category: unknown, but probably a post-transition metal</li>
+<li>Electron configuration: 5f14 6d10 7s2 7p4 (predicted)</li>
+<li>Per shell: 2, 8, 18, 32, 32, 18, 6 (predicted)</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid presumably</li>
+<li>Melting point: 637–780 K ​(364–507 °C, ​687–944 °F) (extrapolated)</li>
+<li>Boiling point: 1035–1135 K ​(762–862 °C, ​1403–1583 °F) (extrapolated)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Lawrence Livermore National Laboratory, itself named partly after Livermore, California</li>
+<li>Discovery: Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory (2000)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

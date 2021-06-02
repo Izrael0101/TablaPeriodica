@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Iron</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">14</span>
+<span class="N">2</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+26
+</div>
+<div class="element-symbol">
+<strong>Fe</strong>
+</div>
+<div class="element-name">
+Iron
+</div>
+<div class="atomic-mass">
+55.845
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>26</sub>Fe</li>
+<li>Name: iron</li>
+<li>Atomic number: 26</li>
+<li>Atomic mass: 55.845 u ± 0.002 u</li>
+<li>Boiling point: 2,862 °C</li>
+<li>Electron configuration: 3d64s2</li>
+<li>Electronegativity: 1.83</li>
+<li>Discovered: before 5000 BC</li>
+</ul>
+</div>
+<div class="card description">
+<p>Iron is a chemical element with symbol Fe (from Latin: ferrum) and atomic number 26. It is a metal in the first transition series. It is by mass the most common element on Earth, forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust. Its abundance in rocky planets like Earth is due to its abundant production by fusion in high-mass stars, where it is the last element to be produced with release of energy before the violent collapse of a supernova, which scatters the iron into space.</p>
+<p>Like the other group 8 elements, ruthenium and osmium, iron exists in a wide range of oxidation states, −2 to +6, although +2 and +3 are the most common. Elemental iron occurs in meteoroids and other low oxygen environments, but is reactive to oxygen and water. Fresh iron surfaces appear lustrous silvery-gray, but oxidize in normal air to give hydrated iron oxides, commonly known as rust. Unlike the metals that form passivating oxide layers, iron oxides occupy more volume than the metal and thus flake off, exposing fresh surfaces for corrosion.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: slustrous metallic with a grayish tinge</li>
+<li>Group: group 8</li>
+<li>Block: d-block</li>
+<li>Period: period 4</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 3d6 4s2</li>
+<li>Per shell: 2, 8, 14, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1811 K ​(1538 °C, ​2800 °F)</li>
+<li>Boiling point: 3134 K ​(2862 °C, ​5182 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: before 5000 BC</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

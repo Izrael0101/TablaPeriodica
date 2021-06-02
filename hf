@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Hafnium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">10</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+72
+</div>
+<div class="element-symbol">
+<strong>Hf</strong>
+</div>
+<div class="element-name">
+Hafnium
+</div>
+<div class="atomic-mass">
+178.49
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>72</sub>Hf</li>
+<li>Name: hafnium</li>
+<li>Atomic number: 72</li>
+<li>Atomic mass: 178.49 u ± 0.02 u</li>
+<li>Boiling point: 2,233 °C</li>
+<li>Electron configuration: 4f145d26s2</li>
+<li>Electronegativity: 1.3</li>
+<li>Discovered: 1922</li>
+<li>Discoverers: George de Hevesy, Dirk Coster</li>
+</ul>
+</div>
+<div class="card description">
+<p>Hafnium is a chemical element with symbol Hf and atomic number 72. A lustrous, silvery gray, tetravalent transition metal, hafnium chemically resembles zirconium and is found in zirconium minerals. Its existence was predicted by Dmitri Mendeleev in 1869, though it was not identified until 1923, making it the penultimate stable element to be discovered (rhenium was identified two years later). Hafnium is named after Hafnia, the Latin name for Copenhagen, where it was discovered.</p>
+<p>Hafnium is used in filaments and electrodes. Some semiconductor fabrication processes use its oxide for integrated circuits at 45 nm and smaller feature lengths. Some superalloys used for special applications contain hafnium in combination with niobium, titanium, or tungsten.</p>
+<p>Hafnium's large neutron capture cross-section makes it a good material for neutron absorption in control rods in nuclear power plants, but at the same time requires that it be removed from the neutron-transparent corrosion-resistant zirconium alloys used in nuclear reactors.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: steel gray</li>
+<li>Group: group 4</li>
+<li>Block: d-block</li>
+<li>Period: period 6</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4f14 5d2 6s2</li>
+<li>Per shell: 2, 8, 18, 32, 10, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 2506 K ​(2233 °C, ​4051 °F)</li>
+<li>Boiling point: 4876 K ​(4603 °C, ​8317 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Prediction: Dmitri Mendeleev (1869)</li>
+<li>Naming: after Hafnia. Latin for: Copenhagen, where it was discovered</li>
+<li>Discovery &amp; First isolation: Dirk Coster and George de Hevesy (1922)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

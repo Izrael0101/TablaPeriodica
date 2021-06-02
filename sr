@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Strontium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element alkaline-earth-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">8</span>
+<span class="O">2</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+38
+</div>
+<div class="element-symbol">
+<strong>Sr</strong>
+</div>
+<div class="element-name">
+Strontium
+</div>
+<div class="atomic-mass">
+87.62
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>38</sub>Sr</li>
+<li>Name: strontium</li>
+<li>Atomic number: 38</li>
+<li>Atomic mass: 87.62 u ± 0.01 u</li>
+<li>Boiling point: 1377 °C</li>
+<li>Electron configuration: 5s2</li>
+<li>Electronegativity: 0.95</li>
+<li>Discovered: 1787</li>
+<li>Discoverer: William Cruickshank</li>
+</ul>
+</div>
+<div class="card description">
+<p>Strontium is a chemical element with symbol Sr and atomic number 38. An alkaline earth metal, strontium is a soft silver-white or yellowish metallic element that is highly reactive chemically. The metal forms a dark oxide layer when it is exposed to air. Strontium has physical and chemical properties similar to those of its two vertical neighbors in the periodic table, calcium and barium. It occurs naturally in the minerals celestine, strontianite, and putnisite, and is mined mostly from the first two of these. While natural strontium is stable, the synthetic 90Sr isotope is radioactive and is one of the most dangerous components of nuclear fallout, as strontium is absorbed by the body in a similar manner to calcium. Natural stable strontium, on the other hand, is not hazardous to health.</p>
+<p>Both strontium and strontianite are named after Strontian, a village in Scotland near which the mineral was discovered in 1790 by Adair Crawford and William Cruickshank; it was identified as a new element the next year from its crimson-red flame test color. Strontium was first isolated as a metal in 1808 by Humphry Davy using the then-newly discovered process of electrolysis.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white metallic; with a pale yellow tint</li>
+<li>Group: group 2 (alkaline earth metals)</li>
+<li>Block: s-block</li>
+<li>Period: period 5</li>
+<li>Element category: alkaline earth metal</li>
+<li>Electron configuration: 5s2</li>
+<li>Per shell: 2, 8, 18, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1050 K ​(777 °C, ​1431 °F)</li>
+<li>Boiling point: 1650 K ​(1377 °C, ​2511 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after the mineral strontianite, itself named after Strontian, Scotland</li>
+<li>Discovery: William Cruickshank (1787)</li>
+<li>First isolation: Humphry Davy (1808)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

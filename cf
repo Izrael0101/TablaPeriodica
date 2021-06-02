@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Californium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element actinoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">28</span>
+<span class="P">8</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+98
+</div>
+<div class="element-symbol">
+<strong>Cf</strong>
+</div>
+<div class="element-name">
+Californium
+</div>
+<div class="atomic-mass">
+(251)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>98</sub>Cf</li>
+<li>Name: californium</li>
+<li>Atomic number: 98</li>
+<li>Atomic mass: 251 u</li>
+<li>Boiling point: 1,470 °C</li>
+<li>Electron configuration: 5f107s2</li>
+<li>Electronegativity: 1.3</li>
+<li>Discovered: 1950</li>
+<li>Discoverers: Lawrence Berkeley National Laboratory</li>
+</ul>
+</div>
+<div class="card description">
+<p>Californium is a radioactive metallic chemical element with symbol Cf and atomic number 98. The element was first made in 1950 at the University of California Radiation Laboratory in Berkeley, by bombarding curium with alpha particles (helium-4 ions). It is an actinide element, the sixth transuranium element to be synthesized, and has the second-highest atomic mass of all the elements that have been produced in amounts large enough to see with the unaided eye (after einsteinium). The element was named after the university and the state of California.</p>
+<p>Two crystalline forms exist for californium under normal pressure: one above and one below 900 °C (1,650 °F). A third form exists at high pressure. Californium slowly tarnishes in air at room temperature. Compounds of californium are dominated by a chemical form of the element, designated californium(III), that can participate in three chemical bonds. The most stable of californium's twenty known isotopes is californium-251, which has a half-life of 898 years. This short half-life means the element is not found in significant quantities in the Earth's crust.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 7</li>
+<li>Element category: actinide</li>
+<li>Electron configuration: 5f10 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 28, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1173 K ​(900 °C, ​1652 °F)</li>
+<li>Boiling point: 1743 K ​(1470 °C, ​2678 °F) (estimation)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after California, where it was discovered</li>
+<li>Discovery: Lawrence Berkeley National Laboratory (1950)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

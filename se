@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Selenium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element other-nonmetals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">16</span>
+<span class="N">6</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+34
+</div>
+<div class="element-symbol">
+<strong>Se</strong>
+</div>
+<div class="element-name">
+Selenium
+</div>
+<div class="atomic-mass">
+78.971
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>34</sub>Se</li>
+<li>Name: selenium</li>
+<li>Atomic number: 34</li>
+<li>Atomic mass: 78.96 u ± 0.03 u</li>
+<li>Boiling point: 685 °C</li>
+<li>Electron configuration: 3d104s24p4</li>
+<li>Electronegativity: 2.55</li>
+<li>Discovered: 1817</li>
+<li>Discoverer: Lars Fredrik Nilson</li>
+</ul>
+</div>
+<div class="card description">
+<p>Selenium is a chemical element with symbol Se and atomic number 34. It is a nonmetal with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium. It rarely occurs in its elemental state or as pure ore compounds in the Earth's crust. Selenium (Greek σελήνη selene meaning "Moon") was discovered in 1817 by Jöns Jacob Berzelius, who noted the similarity of the new element to the previously discovered tellurium (named for the Earth).</p>
+<p>Selenium is found in metal sulfide ores, where it partially replaces the sulfur. Commercially, selenium is produced as a byproduct in the refining of these ores, most often during production. Minerals that are pure selenide or selenate compounds are known but rare. The chief commercial uses for selenium today are glassmaking and pigments. Selenium is a semiconductor and is used in photocells. Applications in electronics, once important, have been mostly supplanted by silicon semiconductor devices. Selenium is still used in a few types of DC power surge protectors and one type of fluorescent quantum dot.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: black, red, and gray (not pictured) allotropes</li>
+<li>Group: group 16 (chalcogens)</li>
+<li>Block: p-block</li>
+<li>Period: period 4</li>
+<li>Element category: polyatomic nonmetal, sometimes considered a metalloid</li>
+<li>Electron configuration: 3d10 4s2 4p4</li>
+<li>Per shell: 2, 8, 18, 6</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 494 K ​(221 °C, ​430 °F)</li>
+<li>Boiling point: 958 K ​(685 °C, ​1265 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Prediction: Dmitri Mendeleev (1871)</li>
+<li>Naming: after Selene, Greek goddess of the moon</li>
+<li>Discovery &amp; First isolation: Jöns Jakob Berzelius and Johann Gottlieb Gahn (1817)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

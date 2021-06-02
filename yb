@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Ytterbium</title>
+
+</head>
+<body class=""><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+ <div class="atomic-number">
+70
+</div>
+<div class="element-symbol">
+<strong>Yb</strong>
+</div>
+<div class="element-name">
+Ytterbium
+</div>
+<div class="atomic-mass">
+173.054
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>70</sub>Yb</li>
+<li>Name: ytterbium</li>
+<li>Atomic number: 70</li>
+<li>Atomic mass: 173.04 u ± 0.03 u</li>
+<li>Boiling point: 1,196 °C</li>
+<li>Electron configuration: 4f146s2</li>
+<li>Electronegativity: 1.1</li>
+<li>Discovered: 1878</li>
+<li>Discoverer: Jean Charles Galissard de Marignac</li>
+</ul>
+</div>
+<div class="card description">
+<p>Ytterbium is a chemical element with symbol Yb and atomic number 70. It is the fourteenth and penultimate element in the lanthanide series, which is the basis of the relative stability of its +2 oxidation state. However, like the other lanthanides, its most common oxidation state is +3, seen in its oxide, halides and other compounds. In aqueous solution, like compounds of other late lanthanides, soluble ytterbium compounds form complexes with nine water molecules. Because of its closed-shell electron configuration, its density and melting and boiling points differ from those of the other lanthanides.</p>
+<p>In 1878, the Swiss chemist Jean Charles Galissard de Marignac separated in the rare earth "erbia" another independent component, which he called "ytterbia", for Ytterby, the village in Sweden near where he found the new component of erbium. He suspected that ytterbia was a compound of a new element that he called "ytterbium" (in total, four elements were named after the village, the others being yttrium, terbium and erbium).</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white; with a pale yellow tint</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f14 6s2</li>
+<li>Per shell: 2, 8, 18, 32, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1097 K ​(824 °C, ​1515 °F)</li>
+<li>Boiling point: 1469 K ​(1196 °C, ​2185 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Ytterby (Sweden), where it was mined</li>
+<li>Discovery: Jean Charles Galissard de Marignac (1878)</li>
+<li>First isolation: Carl Auer von Welsbach (1906)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Bohrium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">32</span>
+<span class="P">13</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+107
+</div>
+<div class="element-symbol">
+<strong>Bh</strong>
+</div>
+<div class="element-name">
+Bohrium
+</div>
+<div class="atomic-mass">
+(272)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>107</sub>Bh</li>
+<li>Name: bohrium</li>
+<li>Atomic number: 107</li>
+<li>Atomic mass: 264 u</li>
+<li>Electron configuration: 5f146d57s2</li>
+<li>Discovered: 1981</li>
+<li>Discoverers: Gesellschaft für Schwerionenforschung</li>
+</ul>
+</div>
+<div class="card description">
+<p>Bohrium is a chemical element with symbol Bh and atomic number 107. It is named after Danish physicist Niels Bohr. It is a synthetic element (an element that can be created in a laboratory but is not found in nature) and radioactive; the most stable known isotope, 270Bh, has a half-life of approximately 61 seconds.</p>
+<p>In the periodic table of the elements, it is a d-block transactinide element. It is a member of the 7th period and belongs to the group 7 elements as the fifth member of the 6d series of transition metals. Chemistry experiments have confirmed that bohrium behaves as the heavier homologue to rhenium in group 7. The chemical properties of bohrium are characterized only partly, but they compare well with the chemistry of the other group 7 elements.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Group: group 7</li>
+<li>Block: d-block</li>
+<li>Period: period 7</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 5f14 6d5 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 32, 13, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid presumably</li>
+<li>Melting point: Unknown</li>
+<li>Boiling point: Unknown</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Niels Bohr</li>
+<li>Discovery: Gesellschaft für Schwerionenforschung (1981)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

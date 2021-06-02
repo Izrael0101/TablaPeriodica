@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Protactinium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element actinoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">9</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+89
+</div>
+<div class="element-symbol">
+<strong>Pa</strong>
+</div>
+<div class="element-name">
+Protactinium
+</div>
+<div class="atomic-mass">
+231.03588
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>89</sub>Pa</li>
+<li>Name: protactinium</li>
+<li>Atomic number: 89</li>
+<li>Atomic mass: 227 u</li>
+<li>Boiling point: 4,027 °C</li>
+<li>Electron configuration: 5f26d17s2</li>
+<li>Electronegativity: 1.5</li>
+<li>Discovered: 1913</li>
+<li>Discoverers: Kasimir Fajans, Oswald Helmuth Göhring</li>
+</ul>
+</div>
+<div class="card description">
+<p>protactinium or protoactinium (former name) is a chemical element with symbol Pa and atomic number 91. It is a dense, silvery-gray metal which readily reacts with oxygen, water vapor and inorganic acids. It forms various chemical compounds where protactinium is usually present in the oxidation state +5, but can also assume +4 and even +2 or +3 states. The average concentrations of protactinium in the Earth's crust is typically on the order of a few parts per trillion, but may reach up to a few parts per million in some uraninite ore deposits. Because of its scarcity, high radioactivity and high toxicity, there are currently no uses for protactinium outside of scientific research, and for this purpose, protactinium is mostly extracted from spent nuclear fuel.</p>
+<p>protactinium was first identified in 1913 by Kasimir Fajans and Oswald Helmuth Göhring and named brevium because of the short half-life of the specific isotope studied, namely protactinium-234. A more stable isotope (231Pa) of protactinium was discovered in 1917/18 by Otto Hahn and Lise Meitner, and they chose the name proto-actinium, but then the IUPAC named it finally protactinium in 1949 and confirmed Hahn and Meitner as discoverers.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: bright, silvery metallic luster</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 7</li>
+<li>Element category: actinide</li>
+<li>Electron configuration: 5f2 6d1 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 20, 9, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1841 K ​(1568 °C, ​2854 °F)</li>
+<li>Boiling point: 4300 K ​(4027 °C, ​7280 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Prediction: Dmitri Mendeleev (1869)</li>
+<li>Named by: Otto Hahn and Lise Meitner (1917–8)</li>
+<li>Discovery and first isolation: Kasimir Fajans and Oswald Helmuth Göhring (1913)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Zinc</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">2</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+30
+</div>
+<div class="element-symbol">
+<strong>Zn</strong>
+</div>
+<div class="element-name">
+Zinc
+</div>
+<div class="atomic-mass">
+65.38
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>30</sub>Zn</li>
+<li>Name: zinc</li>
+<li>Atomic number: 30</li>
+<li>Atomic mass: 65.38 u ± 0.002 u</li>
+<li>Boiling point: 907 °C</li>
+<li>Electron configuration: 3d104s2</li>
+<li>Electronegativity: 1.65</li>
+<li>Discovered: before 1000 BCE</li>
+<li>Discoverer: Indian metallurgists</li>
+</ul>
+</div>
+<div class="card description">
+<p>Zinc is a chemical element with the symbol Zn and atomic number 30. It is the first element in group 12 of the periodic table. In some respects zinc is chemically similar to magnesium: both elements exhibit only one normal oxidation state (+2), and the Zn2+ and Mg2+ ions are of similar size. Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite (zinc blende), a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the United States. Zinc is refined by froth flotation of the ore, roasting, and final extraction using electricity (electrowinning).</p>
+<p>Brass, an alloy of copper and zinc in various proportions, was used as early as the third millennium BC in the Aegean, Iraq, the United Arab Emirates, Kalmykia, Turkmenistan and Georgia, and the second millennium BC in West India, Uzbekistan, Iran, Syria, Iraq, and Israel (Judea). Zinc metal was not produced on a large scale until the 12th century in India and was unknown to Europe until the end of the 16th century. The mines of Rajasthan have given definite evidence of zinc production going back to the 6th century BC.[To date, the oldest evidence of pure zinc comes from Zawar, in Rajasthan, as early as the 9th century AD when a distillation process was employed to make pure zinc.[6] Alchemists burned zinc in air to form what they called "philosopher's wool" or "white snow".</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silver-gray</li>
+<li>Group: group 12</li>
+<li>Block: d-block</li>
+<li>Period: period 4</li>
+<li>Element category: transition metal, alternatively considered a post-transition metal</li>
+<li>Electron configuration: 3d10 4s2</li>
+<li>Per shell: 2, 8, 18, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 692.68 K ​(419.53 °C, ​787.15 °F)</li>
+<li>Boiling point: 1180 K ​(907 °C, ​1665 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Indian metallurgists (before 1000 BCE)</li>
+<li>First isolation: Andreas Sigismund Marggraf (1746)</li>
+<li>Recognized as a unique metal by: Rasaratna Samuccaya (800)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

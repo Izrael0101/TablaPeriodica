@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Silver</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">1</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+47
+</div>
+<div class="element-symbol">
+<strong>Ag</strong>
+</div>
+<div class="element-name">
+Silver
+</div>
+<div class="atomic-mass">
+107.8682
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>47</sub>Ag</li>
+<li>Name: silver</li>
+<li>Atomic number: 47</li>
+<li>Atomic mass: 107.8682 u</li>
+<li>Boiling point: 2,162 °C</li>
+<li>Electron configuration: 4d105s1</li>
+<li>Electronegativity: 1.93</li>
+<li>Discovered: before 5000 BC</li>
+</ul>
+</div>
+<div class="card description">
+<p>Silver is the metallic element with the atomic number 47. Its symbol is Ag, from the Latin argentum, derived from the Greek ὰργὀς (literally "shiny" or "white"), and ultimately from a Proto-Indo-European language root reconstructed as h2erǵ-, "grey" or "shining". A soft, white, lustrous transition metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. The metal is found in the Earth's crust in the pure, free elemental form ("native silver"), as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. Most silver is produced as a byproduct of copper, gold, lead, and zinc refining.</p>
+<p>Silver has long been valued as a precious metal. Silver metal is used in many premodern monetary systems in bullion coins, sometimes alongside gold: while it is more abundant than gold, it is much less abundant as a native metal. Its purity is typically measured on a per-mille basis; a 94%-pure alloy is described as "0.940 fine". As one of the seven metals of antiquity, silver has had an enduring role in most human cultures.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: lustrous white metal</li>
+<li>Group: group 11</li>
+<li>Block: d-block</li>
+<li>Period: period 5</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4d10 5s1</li>
+<li>Per shell: 2, 8, 18, 18, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1234.93 K ​(961.78 °C, ​1763.2 °F)</li>
+<li>Boiling point: 2435 K ​(2162 °C, ​3924 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: before 5000 BC</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+
+</html>
