@@ -12,6 +12,10 @@ La interfaz permite a los usuarios explorar y visualizar de manera interactiva l
 
 - **Detalle de Elementos:** Al seleccionar un elemento, los usuarios pueden ver detalles específicos sobre este, como su número atómico, peso atómico, y una breve descripción de sus propiedades y usos.
 
+## Demo
+
+Para ver el demo de la página, visita el siguiente enlace: [Tabla Periódica Interactiva](http://tablaperiodica.iramirezdevs.com/)
+
 ## Ejemplos de Uso
 
 A continuación, se presentan algunas capturas de pantalla que ilustran el uso de la tabla periódica:
