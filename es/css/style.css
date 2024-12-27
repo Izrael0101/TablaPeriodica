@@ -374,44 +374,46 @@
             position: relative;
         }
 
-        .characteristic {
+      .characteristic {
 			display: flex;
-			justify-content: space-between; /* Asegura la alineación entre "No metales" y "Metales" */
+			justify-content: space-between; /* Asegura separación entre "No metales" y "Metales" */
 			align-items: center; /* Centra verticalmente */
-			position: relative;
-			margin: 20px auto; /* Ajusta los márgenes */
-			width: 90%; /* Ajusta el ancho para mejor distribución */
-			max-width: 1240px; /* Limita el ancho máximo */
+			position: relative; /* Necesario para las líneas */
+			margin: 20px auto; /* Ajusta el espacio alrededor */
+			width: 90%; /* Ancho adaptado */
+			max-width: 1240px; /* Limita el ancho */
+			z-index: 1; /* Asegura que esté por encima de otros elementos */
 		}
 
-        .characteristic .non-metals,
+		.characteristic .non-metals,
 		.characteristic .metals {
-			flex: 1; /* Asegura que ocupen el mismo espacio */
-			position: relative; /* Necesario para las líneas */
-			text-align: center; /* Alinea el texto */
+			flex: 1; /* Ocupan el mismo espacio */
+			position: relative; /* Posicionamiento necesario para las líneas */
+			text-align: center; /* Centra el texto */
 			font-size: 16px; /* Tamaño de fuente */
 			font-weight: bold; /* Destaca el texto */
 		}
-		
-		/* Agrega líneas debajo de "No metales" y "Metales" */
+
+		/* Líneas debajo de los textos */
 		.characteristic .non-metals:before,
 		.characteristic .metals:before {
 			content: "";
 			position: absolute;
-			height: 2px;
-			background-color: black;
-			width: 100%; /* Línea completa */
-			top: 50%; /* Alinea la línea al centro vertical */
+			height: 2px; /* Grosor de la línea */
+			background-color: black; /* Color de la línea */
+			width: 100%; /* Línea ocupa todo el ancho */
+			top: 50%; /* Alinea la línea con el texto */
 			z-index: -1; /* Envía la línea detrás del texto */
 		}
-		
-				.characteristic .non-metals:before {
-			left: 0; /* Línea empieza desde la izquierda */
+
+		.characteristic .non-metals:before {
+			left: 0; /* Línea comienza desde la izquierda */
 		}
 
 		.characteristic .metals:before {
 			right: 0; /* Línea termina a la derecha */
 		}
+
 
 
         .characteristic div {
