@@ -377,58 +377,30 @@
 		.characteristic {
 		  display: flex;
 		  justify-content: space-between;
-		  align-items: center;
+		  align-items: flex-start; /* Asegura que las líneas y el texto estén al inicio */
 		  margin-top: 20px;
 		  font-family: Arial, sans-serif;
-		  width: 100%;
-		  max-width: 1240px;
-		  margin: 20px auto;
 		  position: relative;
 		}
 
-		.label {
+		.characteristic div {
 		  display: flex;
 		  flex-direction: column;
 		  align-items: center;
-		  position: relative;
 		}
 
-		.label span {
+		.characteristic div span {
 		  font-size: 14px;
 		  font-weight: bold;
 		  margin-bottom: 5px;
 		}
 
-		.label .line {
+		.characteristic div .line {
 		  height: 2px; /* Grosor de la línea */
 		  width: 120px; /* Longitud de la línea */
 		  background-color: black; /* Color de la línea */
-		  position: relative;
 		}
 
-
-
-        .characteristic div {
-            text-align: center;
-            padding: 5.5px 0px;
-            box-sizing: border-box;
-            position: relative;
-            border: 2px solid black;
-            border-top: 0px;
-            justify-content: center;
-            display: flex;
-        }
-
-        .characteristic div span {
-            position: absolute;
-            left: auto;
-            right: auto;
-            background: white;
-            width: auto;
-            padding: 5px;
-            box-sizing: border-box;
-            top: 0;
-        }
 
         .characteristic .metals {
             flex: 0 65%;
