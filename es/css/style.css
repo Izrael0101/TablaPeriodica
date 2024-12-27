@@ -374,46 +374,47 @@
             position: relative;
         }
 
-		  .characteristic {
+		.characteristic {
 			display: flex;
-			justify-content: space-between; /* Asegura la separación */
-			align-items: center; /* Centra verticalmente */
+			justify-content: space-between; /* Separación clara */
+			align-items: center; /* Centrado vertical */
 			position: relative;
 			margin: 40px auto; /* Espaciado arriba y abajo */
-			width: 90%; /* Ancho de la sección */
-			max-width: 1240px; /* Limita el ancho */
+			width: 90%; /* Ancho general */
+			max-width: 1240px; /* Ancho máximo */
 			font-family: Arial, sans-serif;
 		}
 
 		.characteristic .non-metals,
 		.characteristic .metals {
-			flex: 1; /* Ambas secciones ocupan el mismo espacio */
+			flex: 1; /* Cada sección ocupa el mismo espacio */
 			position: relative; /* Necesario para las líneas */
 			text-align: center; /* Centra el texto */
 			font-size: 18px; /* Tamaño del texto */
 			font-weight: bold; /* Destaca el texto */
-			color: black; /* Color del texto */
 		}
 
-		/* Líneas debajo de "No metales" y "Metales" */
-		.characteristic .non-metals:before,
+		/* Línea para "No metales" */
+		.characteristic .non-metals:before {
+			content: "";
+			position: absolute;
+			height: 4px; /* Grosor */
+			background-color: #4CAF50; /* Verde */
+			width: 100%; /* Ancho total */
+			bottom: -10px; /* Posición */
+			z-index: -1; /* Detrás del texto */
+			border-bottom: 4px solid #4CAF50; /* Estilo sólido */
+		}
+
+		/* Línea para "Metales" */
 		.characteristic .metals:before {
 			content: "";
 			position: absolute;
-			height: 4px; /* Grosor de la línea */
-			background-color: black; /* Color de la línea */
-			width: 100%; /* Ocupa todo el ancho del contenedor */
-			bottom: -10px; /* Alinea la línea debajo del texto */
-			z-index: -1; /* Envía la línea detrás del texto */
-		}
-
-		/* Alineación específica de las líneas */
-		.characteristic .non-metals:before {
-			left: 0; /* La línea comienza desde la izquierda */
-		}
-
-		.characteristic .metals:before {
-			right: 0; /* La línea comienza desde la derecha */
+			height: 4px; /* Grosor */
+			width: 100%; /* Ancho total */
+			bottom: -10px; /* Posición */
+			z-index: -1; /* Detrás del texto */
+			border-bottom: 4px dashed #2196F3; /* Línea punteada azul */
 		}
 
 
@@ -500,12 +501,13 @@
             }
 
 			.category {
-			margin-bottom: 50px; /* Espacio adicional debajo de las categorías */
+				margin-bottom: 50px; /* Espacio adicional debajo de las categorías */
 			}
-		
+
 			.characteristic {
-				margin-top: 20px; /* Espacio adicional encima de las líneas */
+				margin-top: 30px; /* Espacio adicional encima de las líneas */
 			}
+
 
 			
             .characteristic .non-metals {
