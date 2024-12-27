@@ -41,4 +41,4 @@ Un agradecimiento especial a la Universidad Autónoma de Nuevo León (UANL), en 
 
 ---
 
-Este proyecto busca ser una herramienta educativa accesible para todos aquellos interesados en la química, ofreciendo una manera interactiva y visual de explorar la tabla periódica de elementos.
+Este proyecto busca ser una herramienta educativa accesible para todos aquellos interesados en la química, ofreciendo una manera interactiva y visual de explorar la tabla periódica.
