@@ -375,24 +375,44 @@
         }
 
         .characteristic {
-            display: flex;
-            justify-content: center;
-            position: absolute;
-            right: 0;
-            left: 0;
-            top: 50px;
-            z-index: 1;
-            font-family: arial;
-            justify-content: space-between;    
-            width: 100%;
-            margin: auto;
-            max-width: 1240px;
-        }
+			display: flex;
+			justify-content: space-between; /* Asegura la alineación entre "No metales" y "Metales" */
+			align-items: center; /* Centra verticalmente */
+			position: relative;
+			margin: 20px auto; /* Ajusta los márgenes */
+			width: 90%; /* Ajusta el ancho para mejor distribución */
+			max-width: 1240px; /* Limita el ancho máximo */
+		}
 
-        .characteristic .non-metals {
-            flex: 0 28%;
-            max-width: 348px;
-        }
+        .characteristic .non-metals,
+		.characteristic .metals {
+			flex: 1; /* Asegura que ocupen el mismo espacio */
+			position: relative; /* Necesario para las líneas */
+			text-align: center; /* Alinea el texto */
+			font-size: 16px; /* Tamaño de fuente */
+			font-weight: bold; /* Destaca el texto */
+		}
+		
+		/* Agrega líneas debajo de "No metales" y "Metales" */
+		.characteristic .non-metals:before,
+		.characteristic .metals:before {
+			content: "";
+			position: absolute;
+			height: 2px;
+			background-color: black;
+			width: 100%; /* Línea completa */
+			top: 50%; /* Alinea la línea al centro vertical */
+			z-index: -1; /* Envía la línea detrás del texto */
+		}
+		
+				.characteristic .non-metals:before {
+			left: 0; /* Línea empieza desde la izquierda */
+		}
+
+		.characteristic .metals:before {
+			right: 0; /* Línea termina a la derecha */
+		}
+
 
         .characteristic div {
             text-align: center;
@@ -474,16 +494,14 @@
                 display: none;
             }
 
-            .category div {
-                font-size: 0px;
-                padding: 7px 20px;
-                position: relative;
-            }
+            .category {
+				margin-bottom: 30px; /* Aumenta el espacio debajo de las categorías */
+			}
+
 
             .characteristic {
-                max-width: 420px;
-                top: 20px;
-            }
+				margin-top: 30px; /* Aumenta el espacio encima de "No metales" y "Metales" */
+			}
 
             .characteristic .non-metals {
                 max-width: 125px;
@@ -743,12 +761,11 @@
 		
 		
 		/* Ajusta el tamaño de las banderas */
-	.flag {
-		width: 50px; /* Ancho deseado */
-		height: auto; /* Mantener la proporción */
-		display: block; /* Asegura que las imágenes se alineen correctamente */
-		margin: 0 auto; /* Centra las imágenes dentro de los enlaces */
-	}
+		.flag {
+			width: 40px; /* Reduce ligeramente el tamaño */
+			height: auto; /* Mantiene la proporción */
+			margin: 0 15px; /* Ajusta el espaciado lateral */
+		}
 
 	/* Estilo general para la navegación */
 	header nav ul {
