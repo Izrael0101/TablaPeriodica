@@ -387,6 +387,7 @@
             width: 100%;
             margin: auto;
             max-width: 1240px;
+			margin-bottom: 50px; 
         }
 
         .characteristic .non-metals {
