@@ -3595,14 +3595,18 @@
 
 	            $('.info').attr('id', el);
 				
+				//var ur = el + ".html";
 				
 				
-				// Ruta actualizada para cargar desde "elementos"
-	            $('.info').load('elementos/' + el + '.html', function() {
+	            <!-- $('.info').load(el, function(){ -->
+	                <!-- console.log('callback success'); -->
+	                <!-- $('.info').slideDown(500); -->
+	            <!-- }); -->
+				
+				$('.info').load('elementos/' + el, function() {
 					console.log('callback success');
 					$('.info').slideDown(500);
 				});
-
 	        }
 
 	    });
