@@ -742,10 +742,16 @@
         }
 		
 /* Ajusta el tamaño de las banderas */
+.flag-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px; /* Agrega espacio superior */
+}
+
 .flag {
-    width: 40px; /* Ajusta el tamaño según sea necesario */
-    height: auto; /* Mantiene la proporción */
-    margin: 0 10px; /* Añade margen lateral entre las banderas */
+  width: 40px;
+  height: auto;
+  margin: 0 15px; /* Espacio entre banderas */
 }
 
 /* Estilo general para la navegación */
