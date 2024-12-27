@@ -15,6 +15,8 @@
 
 <body class="">
 
+
+
 <div class="category">
   <div class="other-nonmetals" title="Otros no metales">
     <span>Otros no metales</span>
@@ -58,6 +60,27 @@
 </div>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+<nav >
+	<ul>
+		<li>
+			<a href="/es/">
+				<img src="../es/images/mx.png" alt="Español" class="flag" />
+			</a>
+		</li>
+		<li>
+			<a href="/en/">
+				<img src="../es/images/usa.png" alt="English" class="flag" />
+			</a>
+		</li>
+	</ul>
+</nav>
+
+
+
 <div class="array">
   <div class="period" id="one">
     <div class="group other-nonmetals">
@@ -3548,11 +3571,14 @@
             // Crea un nuevo contenedor de información
             $('<div class="info"></div>').insertAfter(elParent).hide().attr('id', el);
 
-            // Carga el contenido del elemento
-            $('.info').load(`elementos/${el}`, function () {
-                console.log('Contenido cargado exitosamente para:', el);
-                $('.info').slideDown(500);
-            });
+            // Detectar idioma actual desde la URL
+			const path = window.location.pathname;
+			const lang = path.includes('/en') ? 'en' : 'es';
+
+			// Configurar la carga de elementos dinámicamente
+			$('.info').load(`/${lang}/elementos/` + el, function() {
+				console.log('Contenido cargado exitosamente para:', el);
+			});
         }
     });
 </script>
