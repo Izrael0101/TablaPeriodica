@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
-<title>Silver</title>
+<title>Plata</title>
 
 </head>
 <body><div class="close">X</div>
@@ -26,54 +26,51 @@
 <strong>Ag</strong>
 </div>
 <div class="element-name">
-Silver
+Plata
 </div>
 <div class="atomic-mass">
 107.8682
 </div>
 </div>
 <ul>
-<li>Symbol: <sub>47</sub>Ag</li>
-<li>Name: silver</li>
-<li>Atomic number: 47</li>
-<li>Atomic mass: 107.8682 u</li>
-<li>Boiling point: 2,162 °C</li>
-<li>Electron configuration: 4d105s1</li>
-<li>Electronegativity: 1.93</li>
-<li>Discovered: before 5000 BC</li>
+<li>Símbolo: <sub>47</sub>Ag</li>
+<li>Nombre: plata</li>
+<li>Número atómico: 47</li>
+<li>Masa atómica: 107.8682 u</li>
+<li>Punto de ebullición: 2,162 °C</li>
+<li>Configuración electrónica: 4d105s1</li>
+<li>Electronegatividad: 1.93</li>
+<li>Descubierto: antes del 5000 a.C.</li>
 </ul>
 </div>
 <div class="card description">
-<p>Silver is the metallic element with the atomic number 47. Its symbol is Ag, from the Latin argentum, derived from the Greek ὰργὀς (literally "shiny" or "white"), and ultimately from a Proto-Indo-European language root reconstructed as h2erǵ-, "grey" or "shining". A soft, white, lustrous transition metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. The metal is found in the Earth's crust in the pure, free elemental form ("native silver"), as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. Most silver is produced as a byproduct of copper, gold, lead, and zinc refining.</p>
-<p>Silver has long been valued as a precious metal. Silver metal is used in many premodern monetary systems in bullion coins, sometimes alongside gold: while it is more abundant than gold, it is much less abundant as a native metal. Its purity is typically measured on a per-mille basis; a 94%-pure alloy is described as "0.940 fine". As one of the seven metals of antiquity, silver has had an enduring role in most human cultures.</p>
+<p>La plata es el elemento metálico con el número atómico 47. Su símbolo es Ag, del latín *argentum*, derivado del griego ὰργὀς (literalmente "brillante" o "blanco"), y en última instancia de una raíz lingüística protoindoeuropea reconstruida como *h2erǵ-*, "gris" o "brillante". Un metal de transición blando, blanco y lustroso, presenta la mayor conductividad eléctrica, conductividad térmica y reflectividad de cualquier metal. El metal se encuentra en la corteza terrestre en su forma pura y libre ("plata nativa"), como una aleación con oro y otros metales, y en minerales como la argentita y la clorargirita. La mayoría de la plata se produce como subproducto del refinado de cobre, oro, plomo y zinc.</p>
+<p>La plata ha sido valorada durante mucho tiempo como un metal precioso. El metal de plata se usa en muchos sistemas monetarios premodernos en monedas de lingotes, a veces junto al oro: aunque es más abundante que el oro, es mucho menos común en su forma nativa. Su pureza generalmente se mide en base a milésimas; una aleación con un 94 % de pureza se describe como "0.940 fina". Como uno de los siete metales de la antigüedad, la plata ha tenido un papel duradero en la mayoría de las culturas humanas.</p>
 </div>
 <div class="card overview">
-<p><strong>General properties</strong></p>
+<p><strong>Propiedades generales</strong></p>
 <ul>
-<li>Appearance: lustrous white metal</li>
-<li>Group: group 11</li>
-<li>Block: d-block</li>
-<li>Period: period 5</li>
-<li>Element category: transition metal</li>
-<li>Electron configuration: 4d10 5s1</li>
-<li>Per shell: 2, 8, 18, 18, 1</li>
+<li>Apariencia: metal blanco lustroso</li>
+<li>Grupo: grupo 11</li>
+<li>Bloque: bloque d</li>
+<li>Período: período 5</li>
+<li>Categoría del elemento: metal de transición</li>
+<li>Configuración electrónica: 4d10 5s1</li>
+<li>Por capa: 2, 8, 18, 18, 1</li>
 </ul>
-<p><strong>Physical properties</strong></p>
+<p><strong>Propiedades físicas</strong></p>
 <ul>
-<li>Phase: solid</li>
-<li>Melting point: 1234.93 K ​(961.78 °C, ​1763.2 °F)</li>
-<li>Boiling point: 2435 K ​(2162 °C, ​3924 °F)</li>
+<li>Fase: sólido</li>
+<li>Punto de fusión: 1234.93 K ​(961.78 °C, ​1763.2 °F)</li>
+<li>Punto de ebullición: 2435 K ​(2162 °C, ​3924 °F)</li>
 </ul>
-<p><strong>History</strong></p>
+<p><strong>Historia</strong></p>
 <ul>
-<li>Discovery: before 5000 BC</li>
+<li>Descubrimiento: antes del 5000 a.C.</li>
 </ul>
 </div>
 </div>
 </div>
 
 </body>
-
-
-
 </html>

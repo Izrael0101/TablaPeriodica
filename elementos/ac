@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
-<title>Actinium</title>
+<title>Actinio</title>
 
 </head>
 <body><div class="close">X</div>
@@ -26,55 +26,53 @@
 <strong>Ac</strong>
 </div>
 <div class="element-name">
-Actinium
+Actinio
 </div>
 <div class="atomic-mass">
 (227)
 </div>
 </div>
 <ul>
-<li>Symbol: <sub>89</sub>Ac</li>
-<li>Name: actinium</li>
-<li>Atomic number: 89</li>
-<li>Atomic mass: 227 u</li>
-<li>Boiling point: 3,200 ± 300 °C</li>
-<li>Electron configuration: 6d17s2</li>
-<li>Electronegativity: 1.1</li>
-<li>Discovered: 1899</li>
-<li>Discoverer: Friedrich Oskar Giesel</li>
+<li>Símbolo: <sub>89</sub>Ac</li>
+<li>Nombre: actinio</li>
+<li>Número atómico: 89</li>
+<li>Masa atómica: 227 u</li>
+<li>Punto de ebullición: 3,200 ± 300 °C</li>
+<li>Configuración electrónica: 6d17s2</li>
+<li>Electronegatividad: 1.1</li>
+<li>Descubierto: 1899</li>
+<li>Descubridor: Friedrich Oskar Giesel</li>
 </ul>
 </div>
 <div class="card description">
-<p>Actinium is a radioactive chemical element with symbol Ac (not to be confused with the abbreviation for an acetyl group) and atomic number 89, which was discovered in 1899. It was the first non-primordial radioactive element to be isolated. Polonium, radium and radon were observed before actinium, but they were not isolated until 1902. Actinium gave the name to the actinide series, a group of 15 similar elements between actinium and lawrencium in the periodic table. It is also sometimes considered the first of the 7th-period transition metals, although lawrencium is less commonly given that position.</p>
-<p>A soft, silvery-white radioactive metal, actinium reacts rapidly with oxygen and moisture in air forming a white coating of actinium oxide that prevents further oxidation. As with most lanthanides and many actinides, actinium assumes oxidation state +3 in nearly all its chemical compounds. Actinium is found only in traces in uranium and thorium ores as the isotope 227Ac, which decays with a half-life of 21.772 years, predominantly emitting beta and sometimes alpha particles, and 228Ac, which is beta active with a half-life of 6.15 hours.</p>
+<p>El actinio es un elemento químico radiactivo con el símbolo Ac (no debe confundirse con la abreviatura de un grupo acetilo) y número atómico 89, que fue descubierto en 1899. Fue el primer elemento radiactivo no primordial que se aisló. El polonio, el radio y el radón fueron observados antes que el actinio, pero no se aislaron hasta 1902. El actinio dio su nombre a la serie de los actínidos, un grupo de 15 elementos similares entre el actinio y el laurencio en la tabla periódica. También se considera a veces el primero de los metales de transición del período 7, aunque el laurencio es menos comúnmente asignado a esa posición.</p>
+<p>Un metal blando, plateado y radiactivo, el actinio reacciona rápidamente con el oxígeno y la humedad del aire formando una capa blanca de óxido de actinio que previene una mayor oxidación. Al igual que la mayoría de los lantánidos y muchos actínidos, el actinio asume el estado de oxidación +3 en casi todos sus compuestos químicos. El actinio se encuentra solo en trazas en los minerales de uranio y torio como el isótopo 227Ac, que decae con una vida media de 21.772 años, emitiendo predominantemente partículas beta y a veces alfa, y el 228Ac, que es beta activo con una vida media de 6.15 horas.</p>
 </div>
 <div class="card overview">
-<p><strong>General properties</strong></p>
+<p><strong>Propiedades generales</strong></p>
 <ul>
-<li>Appearance: silvery-white, glowing with an eerie blue light; sometimes with a golden cast</li>
-<li>Group: group n/a</li>
-<li>Block: f-block</li>
-<li>Period: period 7</li>
-<li>Element category: actinide, sometimes considered a transition metal</li>
-<li>Electron configuration: 6d1 7s2</li>
-<li>Per shell: 2, 8, 18, 32, 18, 9, 2</li>
+<li>Apariencia: blanco plateado, brillando con una luz azul inquietante; a veces con un tinte dorado</li>
+<li>Grupo: grupo n/a</li>
+<li>Bloque: bloque f</li>
+<li>Período: período 7</li>
+<li>Categoría del elemento: actínido, a veces considerado un metal de transición</li>
+<li>Configuración electrónica: 6d1 7s2</li>
+<li>Por capa: 2, 8, 18, 32, 18, 9, 2</li>
 </ul>
-<p><strong>Physical properties</strong></p>
+<p><strong>Propiedades físicas</strong></p>
 <ul>
-<li>Phase: solid</li>
-<li>Melting point: 1500 K ​(1227 °C, ​2240 °F) (estimated)</li>
-<li>Boiling point: 3500±300 K ​(3200±300 °C, ​5800±500 °F) (extrapolated)</li>
+<li>Fase: sólido</li>
+<li>Punto de fusión: 1500 K ​(1227 °C, ​2240 °F) (estimado)</li>
+<li>Punto de ebullición: 3500±300 K ​(3200±300 °C, ​5800±500 °F) (extrapolado)</li>
 </ul>
-<p><strong>History</strong></p>
+<p><strong>Historia</strong></p>
 <ul>
-<li>Named by: André-Louis Debierne (1899)</li>
-<li>Discovery and first isolation: Friedrich Oskar Giesel (1902)</li>
+<li>Nombrado por: André-Louis Debierne (1899)</li>
+<li>Descubrimiento y primera aislamiento: Friedrich Oskar Giesel (1902)</li>
 </ul>
 </div>
 </div>
 </div>
 
 </body>
-
-
 </html>
