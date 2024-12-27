@@ -375,55 +375,35 @@
         }
 		
 		.characteristic {
-			display: flex;
-			justify-content: space-between;
-			align-items: center;
-			position: relative;
-			margin-top: 20px;
-			font-family: Arial, sans-serif;
-			width: 100%;
-			max-width: 1240px;
-			margin: 20px auto;
+		  display: flex;
+		  justify-content: space-between;
+		  align-items: center;
+		  margin-top: 20px;
+		  font-family: Arial, sans-serif;
+		  width: 100%;
+		  max-width: 1240px;
+		  margin: 20px auto;
+		  position: relative;
 		}
 
-		.characteristic .non-metals {
-			position: relative;
-			font-size: 14px;
-			font-weight: bold;
-			color: black;
-			text-align: left;
+		.label {
+		  display: flex;
+		  flex-direction: column;
+		  align-items: center;
+		  position: relative;
 		}
 
-		.characteristic .metals {
-			position: relative;
-			font-size: 14px;
-			font-weight: bold;
-			color: black;
-			text-align: right;
+		.label span {
+		  font-size: 14px;
+		  font-weight: bold;
+		  margin-bottom: 5px;
 		}
 
-		/* Línea para "No metales" */
-		.characteristic .non-metals:before {
-			content: "";
-			position: absolute;
-			height: 2px; /* Grosor de la línea */
-			background-color: black; /* Color de la línea */
-			width: 100px; /* Ajusta la longitud */
-			top: 50%;
-			left: calc(100% + 10px); /* Espaciado hacia la derecha */
-			transform: translateY(-50%);
-		}
-
-		/* Línea para "Metales" */
-		.characteristic .metals:before {
-			content: "";
-			position: absolute;
-			height: 2px; /* Grosor de la línea */
-			background-color: black; /* Color de la línea */
-			width: 100px; /* Ajusta la longitud */
-			top: 50%;
-			right: calc(100% + 10px); /* Espaciado hacia la izquierda */
-			transform: translateY(-50%);
+		.label .line {
+		  height: 2px; /* Grosor de la línea */
+		  width: 120px; /* Longitud de la línea */
+		  background-color: black; /* Color de la línea */
+		  position: relative;
 		}
 
 
