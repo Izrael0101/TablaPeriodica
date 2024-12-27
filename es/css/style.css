@@ -374,45 +374,46 @@
             position: relative;
         }
 
-      .characteristic {
-			display: flex;
-			justify-content: space-between; /* Distribuye "No metales" y "Metales" */
-			align-items: center; /* Centra verticalmente */
-			position: relative; /* Necesario para posicionar los pseudo-elementos */
-			margin: 20px auto; /* Espaciado */
-			width: 90%; /* Ancho general */
-			max-width: 1240px; /* Ancho máximo */
-		}
+		  .characteristic {
+				display: flex;
+				justify-content: space-between; /* Distribuye "No metales" y "Metales" */
+				align-items: center; /* Centra verticalmente */
+				position: relative;
+				margin: 20px auto; /* Espaciado */
+				width: 90%; /* Ancho general */
+				max-width: 1240px; /* Limita el ancho */
+			}
 
-		.characteristic .non-metals,
-		.characteristic .metals {
-			flex: 1; /* Asegura que ambas secciones ocupen el mismo espacio */
-			position: relative; /* Necesario para los pseudo-elementos */
-			text-align: center; /* Centra el texto */
-			font-size: 16px; /* Ajusta el tamaño del texto */
-			font-weight: bold; /* Destaca el texto */
-			color: black; /* Color del texto */
-		}
+			.characteristic .non-metals,
+			.characteristic .metals {
+				flex: 1; /* Cada sección ocupa el mismo espacio */
+				position: relative; /* Necesario para las líneas */
+				text-align: center; /* Centra el texto */
+				font-size: 16px; /* Ajusta el tamaño del texto */
+				font-weight: bold; /* Destaca el texto */
+				color: black; /* Color del texto */
+			}
 
-		/* Líneas debajo de "No metales" y "Metales" */
-		.characteristic .non-metals:before,
-		.characteristic .metals:before {
-			content: "";
-			position: absolute;
-			height: 2px; /* Grosor de la línea */
-			background-color: black; /* Color de la línea */
-			width: 100%; /* La línea ocupa todo el ancho */
-			bottom: -10px; /* Ajusta la posición de la línea */
-			z-index: 0; /* Asegura que esté detrás del texto */
-		}
+			/* Líneas específicas para "No metales" y "Metales" */
+			.characteristic .non-metals:before,
+			.characteristic .metals:before {
+				content: "";
+				position: absolute;
+				height: 2px; /* Grosor de la línea */
+				background-color: black; /* Color de la línea */
+				bottom: -10px; /* Alinea la línea debajo del texto */
+				z-index: 0; /* Envía la línea detrás del texto */
+			}
 
-		.characteristic .non-metals:before {
-			left: 0; /* Alinea la línea con la izquierda */
-		}
+			.characteristic .non-metals:before {
+				left: 0; /* Línea comienza desde la izquierda */
+				width: 40%; /* Ancho de la línea para "No metales" */
+			}
 
-		.characteristic .metals:before {
-			right: 0; /* Alinea la línea con la derecha */
-		}
+			.characteristic .metals:before {
+				right: 0; /* Línea comienza desde la derecha */
+				width: 60%; /* Ancho de la línea para "Metales" */
+			}
 
 
 
@@ -497,8 +498,11 @@
                 display: none;
             }
 
-           .category {
+          .category {
 				margin-bottom: 40px; /* Espacio adicional debajo de las categorías */
+				display: flex;
+				justify-content: center; /* Centra las categorías */
+				gap: 10px; /* Espaciado entre categorías */
 			}
 
 
