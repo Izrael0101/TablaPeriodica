@@ -376,18 +376,17 @@
 
 		.characteristic {
 			display: flex;
-			justify-content: space-between; /* Separa las dos secciones */
-			align-items: center; /* Centra verticalmente los textos */
+			justify-content: space-between; /* Separa las secciones */
+			align-items: center; /* Centra verticalmente */
 			position: relative;
-			margin: 40px auto; /* Espaciado general */
-			width: 90%; /* Ancho general */
-			max-width: 1240px; /* Limita el ancho */
+			margin: 40px auto; /* Espaciado */
+			width: 100%; /* Ancho general */
 			font-family: Arial, sans-serif;
 		}
 
 		.characteristic .non-metals,
 		.characteristic .metals {
-			position: relative; /* Necesario para las líneas */
+			position: relative; /* Necesario para posicionar las líneas */
 			text-align: center; /* Centra el texto */
 			font-size: 18px; /* Tamaño del texto */
 			font-weight: bold; /* Destaca el texto */
@@ -399,9 +398,9 @@
 			position: absolute;
 			height: 2px; /* Grosor */
 			background-color: black; /* Color */
-			width: 40%; /* Ancho específico para "No metales" */
-			bottom: -15px; /* Separación del texto */
-			left: 0; /* Alinea la línea con las categorías de "No metales" */
+			width: calc(37.5%); /* Cobertura desde "Otros no metales" hasta "Metaloides" */
+			bottom: -15px; /* Distancia del texto */
+			left: 0; /* Alinea la línea con el inicio de las categorías */
 		}
 
 		/* Línea para "Metales" */
@@ -410,9 +409,9 @@
 			position: absolute;
 			height: 2px; /* Grosor */
 			background-color: black; /* Color */
-			width: 60%; /* Ancho específico para "Metales" */
-			bottom: -15px; /* Separación del texto */
-			right: 0; /* Alinea la línea con las categorías de "Metales" */
+			width: calc(62.5%); /* Cobertura desde "Metales de la tierra alcalina" hasta "Actinoides" */
+			bottom: -15px; /* Distancia del texto */
+			left: 37.5%; /* Alinea la línea al inicio de "Metales de la tierra alcalina" */
 		}
 
 
