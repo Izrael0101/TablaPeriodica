@@ -740,23 +740,25 @@
 
         }
 		
-		/* Ajusta el tamaño de las banderas */
-		.flag {
-			width: 40px; /* Reduce ligeramente el tamaño */
-			height: auto; /* Mantiene la proporción */
-			margin: 0 15px; /* Ajusta el espaciado lateral */
-		}
+/* Ajusta el tamaño de las banderas */
+.flag {
+    width: 40px; /* Ajusta el tamaño según sea necesario */
+    height: auto; /* Mantiene la proporción */
+    margin: 0 10px; /* Añade margen lateral entre las banderas */
+}
 
-	/* Estilo general para la navegación */
-	nav ul {
-		list-style: none;
-		padding: 0;
-		margin: 0;
-		display: flex;
-		justify-content: center; /* Centrar las banderas */
-		gap: 20px; /* Espaciado entre las banderas */
-	}
+/* Estilo general para la navegación */
+nav ul {
+    list-style: none; /* Elimina los puntos de lista */
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centra las banderas horizontalmente */
+    gap: 20px; /* Ajusta el espacio entre banderas */
+}
 
-	nav ul li {
-		display: inline-block;
-	}
+/* Ajusta los elementos de la lista */
+nav ul li {
+    display: inline-block;
+    margin: 0 10px; /* Espaciado lateral entre los elementos */
+}
