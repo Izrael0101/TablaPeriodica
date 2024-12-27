@@ -3595,13 +3595,14 @@
 
 	            $('.info').attr('id', el);
 				
-				//var ur = el + ".html";
 				
 				
-	            $('.info').load(el, function(){
-	                console.log('callback success');
-	                $('.info').slideDown(500);
-	            });
+				// Ruta actualizada para cargar desde "elementos"
+	            $('.info').load('elementos/' + el + '.html', function() {
+					console.log('callback success');
+					$('.info').slideDown(500);
+				});
+
 	        }
 
 	    });
