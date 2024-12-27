@@ -373,83 +373,48 @@
             z-index: 2;
             position: relative;
         }
-		
-		.parent-container {
-		  position: relative;
-		}
 
-		
-		.characteristic,
-		.characteristic div,
-		.characteristic div span {
-		  all: unset;
-		}
+        .characteristic {
+            display: flex;
+            justify-content: center;
+            position: absolute;
+            right: 0;
+            left: 0;
+            top: 50px;
+            z-index: 1;
+            font-family: arial;
+            justify-content: space-between;    
+            width: 100%;
+            margin: auto;
+            max-width: 1240px;
+        }
 
-		.characteristic {
-    display: flex;
-    justify-content: space-between;
-    position: absolute;
-    top: 50px;
-    width: 100%;
-    max-width: 1240px;
-    margin: auto;
-    z-index: 1;
-    font-family: Arial, sans-serif;
-}
+        .characteristic .non-metals {
+            flex: 0 28%;
+            max-width: 348px;
+        }
 
-.characteristic .non-metals,
-.characteristic .metals {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+        .characteristic div {
+            text-align: center;
+            padding: 5.5px 0px;
+            box-sizing: border-box;
+            position: relative;
+            border: 2px solid black;
+            border-top: 0px;
+            justify-content: center;
+            display: flex;
+        }
 
-.characteristic .non-metals {
-    flex: 0 0 35%; /* Ajusta el ancho para cubrir no metales */
-    max-width: 400px;
-}
-
-.characteristic .metals {
-    flex: 0 0 65%; /* Ajusta el ancho para cubrir metales */
-    max-width: 840px;
-}
-
-.characteristic div {
-    position: relative;
-}
-
-.characteristic div span {
-    position: absolute;
-    background: white;
-    padding: 0 5px;
-    top: -10px;
-    font-weight: bold;
-    font-size: 14px;
-}
-
-.characteristic .non-metals::after,
-.characteristic .metals::after {
-    content: "";
-    position: absolute;
-    top: 10px; /* Ajusta la posición vertical de la línea */
-    left: 0;
-    height: 2px;
-    background: black;
-    width: 100%;
-    z-index: -1; /* Envía la línea detrás del texto */
-}
-
-.characteristic .non-metals span {
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-.characteristic .metals span {
-    right: 50%;
-    transform: translateX(50%);
-}
-
-
+        .characteristic div span {
+            position: absolute;
+            left: auto;
+            right: auto;
+            background: white;
+            width: auto;
+            padding: 5px;
+            box-sizing: border-box;
+            top: 0;
+        }
 
         .characteristic .metals {
             flex: 0 65%;
@@ -509,17 +474,17 @@
                 display: none;
             }
 
-			/* Espaciado adicional entre líneas y tabla periódica */
-			.category {
-				margin-bottom: 60px; /* Espacio adicional debajo de las categorías */
-			}
+            .category div {
+                font-size: 0px;
+                padding: 7px 20px;
+                position: relative;
+            }
 
-			.characteristic {
-				margin-top: 30px; /* Espacio adicional encima de las líneas */
-			}
+            .characteristic {
+                max-width: 420px;
+                top: 20px;
+            }
 
-
-			
             .characteristic .non-metals {
                 max-width: 125px;
                 flex: 0 30%;
@@ -774,8 +739,6 @@
             }
 
         }
-		
-		
 		
 		/* Ajusta el tamaño de las banderas */
 		.flag {
