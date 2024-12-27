@@ -392,7 +392,6 @@
 			font-weight: bold;
 			color: black;
 			text-align: left;
-			margin-right: auto; /* Para alinear a la izquierda */
 		}
 
 		.characteristic .metals {
@@ -401,7 +400,6 @@
 			font-weight: bold;
 			color: black;
 			text-align: right;
-			margin-left: auto; /* Para alinear a la derecha */
 		}
 
 		/* Línea para "No metales" */
@@ -410,9 +408,9 @@
 			position: absolute;
 			height: 2px; /* Grosor de la línea */
 			background-color: black; /* Color de la línea */
-			width: 40%; /* Longitud ajustable según tus necesidades */
-			top: 50%; /* Centrar verticalmente */
-			left: 0;
+			width: 100px; /* Ajusta la longitud */
+			top: 50%;
+			left: calc(100% + 10px); /* Espaciado hacia la derecha */
 			transform: translateY(-50%);
 		}
 
@@ -422,9 +420,9 @@
 			position: absolute;
 			height: 2px; /* Grosor de la línea */
 			background-color: black; /* Color de la línea */
-			width: 40%; /* Longitud ajustable según tus necesidades */
-			top: 50%; /* Centrar verticalmente */
-			right: 0;
+			width: 100px; /* Ajusta la longitud */
+			top: 50%;
+			right: calc(100% + 10px); /* Espaciado hacia la izquierda */
 			transform: translateY(-50%);
 		}
 
