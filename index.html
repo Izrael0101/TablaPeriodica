@@ -3439,12 +3439,17 @@
 
 <footer>
   <div>
-    <span>© Tabla Periodica 2018</span> <span>|</span> <span>Israel Ramirez Garza</span>
+    <span>© Tabla Periódica <span id="currentYear"></span></span>
+    <span>|</span>
+    <span>Israel Ramírez Garza</span>
   </div>
 </footer>
 
 <script async type="text/javascript">
     $(document).ready(function(){	
+	
+	const currentYear = new Date().getFullYear();
+    document.getElementById('currentYear').textContent = currentYear;
 	
 	    $('.category div').on('mouseenter', function(){
 
