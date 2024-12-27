@@ -376,54 +376,42 @@
 
 		.characteristic {
 			position: relative;
-			margin: 40px auto; /* Espaciado */
-			width: 100%; /* Ancho general */
+			margin: 40px auto; /* Espaciado general */
+			width: 100%; /* Ancho completo */
 			font-family: Arial, sans-serif;
 			display: flex;
-			justify-content: space-between; /* Asegura separación */
+			justify-content: space-between; /* Separación entre "No metales" y "Metales" */
 		}
 
 		.characteristic .non-metals,
 		.characteristic .metals {
-			position: absolute;
-			bottom: -10px; /* Posiciona las líneas debajo de las categorías */
+			position: relative; /* Necesario para posicionar las líneas */
+			text-align: center; /* Centra el texto */
 			font-size: 18px; /* Tamaño del texto */
 			font-weight: bold; /* Resalta el texto */
 			color: black; /* Color del texto */
 		}
 
 		/* Línea de "No metales" */
-		.characteristic .non-metals {
-			left: 0; /* Comienza desde la izquierda */
-			width: 40%; /* Cubre hasta "Metaloides" */
-			text-align: center; /* Centra el texto */
-		}
-
 		.characteristic .non-metals:before {
 			content: "";
 			position: absolute;
 			height: 2px; /* Grosor */
-			background-color: black; /* Color */
-			width: 100%; /* Abarca el ancho del rango */
-			top: 20px; /* Espacio entre el texto y la línea */
-			left: 0;
+			background-color: black; /* Color de la línea */
+			width: calc(50% - 10px); /* Abarca el rango de "No metales" */
+			top: 25px; /* Espacio entre el texto y la línea */
+			left: 0; /* Comienza desde la izquierda */
 		}
 
 		/* Línea de "Metales" */
-		.characteristic .metals {
-			right: 0; /* Comienza desde la derecha */
-			width: 60%; /* Cubre desde "Metales de la tierra alcalina" hasta "Actinoides" */
-			text-align: center; /* Centra el texto */
-		}
-
 		.characteristic .metals:before {
 			content: "";
 			position: absolute;
 			height: 2px; /* Grosor */
-			background-color: black; /* Color */
-			width: 100%; /* Abarca el ancho del rango */
-			top: 20px; /* Espacio entre el texto y la línea */
-			right: 0;
+			background-color: black; /* Color de la línea */
+			width: calc(50% - 10px); /* Abarca el rango de "Metales" */
+			top: 25px; /* Espacio entre el texto y la línea */
+			right: 0; /* Comienza desde la derecha */
 		}
 
 
