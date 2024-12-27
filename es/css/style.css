@@ -376,10 +376,10 @@
 
 		.characteristic {
 			display: flex;
-			justify-content: space-between; /* Asegura la separación */
-			align-items: center; /* Centrado vertical */
+			justify-content: space-between; /* Separa las dos secciones */
+			align-items: center; /* Centra verticalmente los textos */
 			position: relative;
-			margin: 40px auto; /* Espaciado arriba y abajo */
+			margin: 40px auto; /* Espaciado general */
 			width: 90%; /* Ancho general */
 			max-width: 1240px; /* Limita el ancho */
 			font-family: Arial, sans-serif;
@@ -387,7 +387,6 @@
 
 		.characteristic .non-metals,
 		.characteristic .metals {
-			flex: 1; /* Cada sección ocupa el mismo espacio */
 			position: relative; /* Necesario para las líneas */
 			text-align: center; /* Centra el texto */
 			font-size: 18px; /* Tamaño del texto */
@@ -399,10 +398,10 @@
 			content: "";
 			position: absolute;
 			height: 2px; /* Grosor */
-			background-color: rgba(0, 0, 0, 0.8); /* Línea negra con opacidad */
-			width: 100%; /* Ocupa todo el ancho */
-			bottom: -15px; /* Separa la línea del texto */
-			z-index: -1; /* Detrás del texto */
+			background-color: black; /* Color */
+			width: 40%; /* Ancho específico para "No metales" */
+			bottom: -15px; /* Separación del texto */
+			left: 0; /* Alinea la línea con las categorías de "No metales" */
 		}
 
 		/* Línea para "Metales" */
@@ -410,31 +409,11 @@
 			content: "";
 			position: absolute;
 			height: 2px; /* Grosor */
-			background-color: rgba(0, 0, 0, 0.8); /* Línea negra con opacidad */
-			width: 100%; /* Ocupa todo el ancho */
-			bottom: -15px; /* Separa la línea del texto */
-			z-index: -1; /* Detrás del texto */
+			background-color: black; /* Color */
+			width: 60%; /* Ancho específico para "Metales" */
+			bottom: -15px; /* Separación del texto */
+			right: 0; /* Alinea la línea con las categorías de "Metales" */
 		}
-
-		/* Espaciado adicional entre las líneas */
-		.characteristic .non-metals:after {
-			content: "";
-			position: absolute;
-			height: 1px; /* Línea delgada de separación */
-			background-color: rgba(0, 0, 0, 0.4); /* Línea gris más clara */
-			width: 100%;
-			bottom: -20px; /* Ajuste de separación */
-		}
-
-		.characteristic .metals:after {
-			content: "";
-			position: absolute;
-			height: 1px; /* Línea delgada de separación */
-			background-color: rgba(0, 0, 0, 0.4); /* Línea gris más clara */
-			width: 100%;
-			bottom: -20px; /* Ajuste de separación */
-		}
-
 
 
 
@@ -519,14 +498,14 @@
                 display: none;
             }
 
+			/* Espaciado adicional entre líneas y tabla periódica */
 			.category {
 				margin-bottom: 60px; /* Espacio adicional debajo de las categorías */
 			}
 
 			.characteristic {
-				margin-top: 40px; /* Espacio adicional encima de las líneas */
+				margin-top: 30px; /* Espacio adicional encima de las líneas */
 			}
-
 
 
 			
