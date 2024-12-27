@@ -748,7 +748,7 @@
 		}
 
 	/* Estilo general para la navegación */
-	header nav ul {
+	nav ul {
 		list-style: none;
 		padding: 0;
 		margin: 0;
@@ -757,6 +757,6 @@
 		gap: 20px; /* Espaciado entre las banderas */
 	}
 
-	header nav ul li {
+	nav ul li {
 		display: inline-block;
 	}
