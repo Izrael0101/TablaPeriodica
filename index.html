@@ -3446,178 +3446,115 @@
 </footer>
 
 <script async type="text/javascript">
-    $(document).ready(function(){	
-	
-	const currentYear = new Date().getFullYear();
-    document.getElementById('currentYear').textContent = currentYear;
-	
-	    $('.category div').on('mouseenter', function(){
+    $(document).ready(function () {
+        // Actualiza el año actual dinámicamente
+        const currentYear = new Date().getFullYear();
+        document.getElementById('currentYear').textContent = currentYear;
 
-	        if(!$(this).hasClass('active')){
+        // Manejo de eventos al pasar el ratón sobre las categorías
+        $('.category div').on('mouseenter', function () {
+            if (!$(this).hasClass('active')) {
+                const focusClass = $(this).attr('class');
+                $(this).addClass('hover');
 
-	            var focusClass = $(this).attr('class');
-	            $(this).addClass('hover');
+                $('.group').each(function () {
+                    if (!$(this).hasClass(focusClass) && !$(this).hasClass('empty') && !$(this).hasClass('active-group')) {
+                        $(this).addClass('no-focus');
+                    } else if ($(this).hasClass(focusClass) && $(this).hasClass('no-focus')) {
+                        $(this).removeClass('no-focus');
+                    }
+                });
 
-	            $('.group').each(function(){
+                $('.info').addClass('no-focus');
 
-	                if((!$(this).hasClass(focusClass)) && (!$(this).hasClass('empty')) && (!$(this).hasClass('active-group'))) {
-	                    $(this).addClass('no-focus');
-	                } else if (($(this).hasClass(focusClass)) && ($(this).hasClass('no-focus'))) {
-	                    $(this).removeClass('no-focus');
-	                }
+                $(this).on('click', function () {
+                    $(this).removeClass('hover').addClass('active');
+                    updateActiveGroup(focusClass);
+                });
+            } else {
+                const focusClass = $(this).attr('class').trim().replace('active', '');
+                $(this).on('click', function () {
+                    $(this).removeClass('active');
+                    clearActiveGroup(focusClass);
+                });
+            }
 
-	            });
-	            $('.info').addClass('no-focus');
+            $('.category .hover').on('mouseleave', function () {
+                $(this).removeClass('hover');
+                resetFocus();
+            });
+        });
 
-	            $(this).on('click', function(){
-	                $(this).removeClass('hover').addClass('active');
+        // Manejo de clics en los grupos
+        $('.group').on('click', function () {
+            const el = $(this).find('.element-symbol').text().trim().toLowerCase();
+            const elParent = $(this).parent();
+            const infoElement = $(elParent).next('.info');
 
-	                setTimeout(function(){
-	                    $(this).addClass('focus');
+            if (infoElement.length && infoElement.attr('id') === el) {
+                toggleInfoVisibility(infoElement, $(this));
+            } else {
+                replaceInfoContent(el, $(this), elParent, infoElement);
+            }
+        });
 
-	                    setTimeout(function(){
-	                        $(this).removeClass('focus');
-	                    },500);
-
-	                },500);
-
-	                if($(this).hasClass('active')) {
-	                    $('.group').filter('.'+focusClass).each(function(i, el){
-
-	                        $(this).addClass('active-group');
-
-	                        setTimeout(function(){
-	                            $(el).addClass('focus');
-
-	                            setTimeout(function(){
-	                                $(el).removeClass('focus');
-	                            },500 + ( i * 10 ));
-
-	                        },500 + ( i * 100 ));
-
-	                    });
-	                } else {
-	                    $('.group').filter('.'+focusClass).each(function(el){
-	                        
-	                        $(el).removeClass('active-group');
-
-	                    });
-	                }
-
-	            });
-
-	        } else {
-
-	            var focusClass = $(this).attr('class').trim(),
-	                focusClass = focusClass.replace('active','');
-	            console.log('class for active',focusClass);
-
-	            $(this).on('click', function(){
-
-	                $(this).removeClass('active');
-	                $('.group').filter('.'+focusClass).each(function(){
-
-	                    $('.'+focusClass).removeClass('active-group');
-
-	                });
-
-	            });
-
-	        }
-
-	        $('.category .hover').on('mouseleave', function(){
-
-	            $(this).removeClass('hover');
-
-	            var focusClass = $(this).attr('class');
-	            $('.group').filter('.'+focusClass).each(function(el){
-
-	                if(!$('.'+focusClass).hasClass('active-group')) {
-	                    $(this).addClass('no-focus');
-	                }
-
-	            });
-
-	            if($('.active').length === 0){ 
-	                $('.group').removeClass('no-focus');
-	                $('.group').removeClass('active-group');
-	                $('.info').removeClass('no-focus');
-
-	            }
-
-	        });
-
-	    });
-
-	    $('.group').on('click', function(){
-
-	        var el = $(this).find('.element-symbol').text().trim().toLowerCase(),
-	            elClass = $(this).attr('class').trim().replace('group',''),
-	            elParent = $(this).parent();
-
-	        if($(elParent).next().hasClass('info')){
-
-	            var infoID = $(elParent).next().attr('id');
-	            if(infoID === el) {
-	                if($(elParent).next().css('display') == 'none' ){
-	                    $('.info').slideDown(500);
-	                    $(this).addClass('focus-group');
-	                } else {
-	                    $('.info').slideUp(200);      
-	                    $(this).removeClass('focus-group');         
-	                }
-	            } else {
-	                $('.group').removeClass('focus-group');
-	                $(this).addClass('focus-group');
-	                $('.wrapper').css('opacity','0');
-
-	                $('.info').attr('id', el);
-					
-					
-					
-	                $('.info').load(el, function(){
-	                    console.log('callback success');
-	                    $('.wrapper').css('opacity','1');
-	                });
-
-	                if($(elParent).next().css('display') == 'none' ){
-	                    $('.info').slideDown(500);
-	                }
-	            }
-
-	        } else {
-	            $('.group').removeClass('focus-group');
-	            $(this).addClass('focus-group');
-	            $('.info').slideUp(200, function(){
-	                $(this).remove();
-	            });            
-	            $('<div class="info"></div>').insertAfter(elParent).hide();
-
-	            $('.info').attr('id', el);
-				
-				//var ur = el + ".html";
-				
-				
-	            <!-- $('.info').load(el, function(){ -->
-	                <!-- console.log('callback success'); -->
-	                <!-- $('.info').slideDown(500); -->
-	            <!-- }); -->
-				
-				$('.info').load('elementos/' + el, function() {
-					console.log('callback success');
-					$('.info').slideDown(500);
-				});
-	        }
-
-	    });
-	    
-        $(document).on('click', '.close', function(){
-
+        // Cerrar la sección de información
+        $(document).on('click', '.close', function () {
             $('.info').slideUp(200);
             $('.group').removeClass('focus-group');
+        });
 
-        });        
-    
-	});
+        // Funciones auxiliares
+        function updateActiveGroup(focusClass) {
+            $('.group').filter(`.${focusClass}`).each(function (i, el) {
+                $(this).addClass('active-group');
+                setTimeout(() => {
+                    $(el).addClass('focus').delay(500).queue(function (next) {
+                        $(this).removeClass('focus');
+                        next();
+                    });
+                }, 500 + i * 100);
+            });
+        }
+
+        function clearActiveGroup(focusClass) {
+            $(`.${focusClass}`).removeClass('active-group');
+        }
+
+        function resetFocus() {
+            if ($('.active').length === 0) {
+                $('.group').removeClass('no-focus active-group');
+                $('.info').removeClass('no-focus');
+            }
+        }
+
+        function toggleInfoVisibility(infoElement, groupElement) {
+            if (infoElement.css('display') === 'none') {
+                infoElement.slideDown(500);
+                groupElement.addClass('focus-group');
+            } else {
+                infoElement.slideUp(200);
+                groupElement.removeClass('focus-group');
+            }
+        }
+
+        function replaceInfoContent(el, groupElement, elParent, infoElement) {
+            $('.group').removeClass('focus-group');
+            groupElement.addClass('focus-group');
+            $('.info').slideUp(200, function () {
+                $(this).remove();
+            });
+
+            // Crea un nuevo contenedor de información
+            $('<div class="info"></div>').insertAfter(elParent).hide().attr('id', el);
+
+            // Carga el contenido del elemento
+            $('.info').load(`elementos/${el}`, function () {
+                console.log('Contenido cargado exitosamente para:', el);
+                $('.info').slideDown(500);
+            });
+        }
+    });
 </script>
+
 </body></html>
