@@ -376,43 +376,44 @@
 
       .characteristic {
 			display: flex;
-			justify-content: space-between; /* Asegura separación entre "No metales" y "Metales" */
+			justify-content: space-between; /* Distribuye "No metales" y "Metales" */
 			align-items: center; /* Centra verticalmente */
-			position: relative; /* Necesario para las líneas */
-			margin: 20px auto; /* Ajusta el espacio alrededor */
-			width: 90%; /* Ancho adaptado */
-			max-width: 1240px; /* Limita el ancho */
-			z-index: 1; /* Asegura que esté por encima de otros elementos */
+			position: relative; /* Necesario para posicionar los pseudo-elementos */
+			margin: 20px auto; /* Espaciado */
+			width: 90%; /* Ancho general */
+			max-width: 1240px; /* Ancho máximo */
 		}
 
 		.characteristic .non-metals,
 		.characteristic .metals {
-			flex: 1; /* Ocupan el mismo espacio */
-			position: relative; /* Posicionamiento necesario para las líneas */
+			flex: 1; /* Asegura que ambas secciones ocupen el mismo espacio */
+			position: relative; /* Necesario para los pseudo-elementos */
 			text-align: center; /* Centra el texto */
-			font-size: 16px; /* Tamaño de fuente */
+			font-size: 16px; /* Ajusta el tamaño del texto */
 			font-weight: bold; /* Destaca el texto */
+			color: black; /* Color del texto */
 		}
 
-		/* Líneas debajo de los textos */
+		/* Líneas debajo de "No metales" y "Metales" */
 		.characteristic .non-metals:before,
 		.characteristic .metals:before {
 			content: "";
 			position: absolute;
 			height: 2px; /* Grosor de la línea */
 			background-color: black; /* Color de la línea */
-			width: 100%; /* Línea ocupa todo el ancho */
-			top: 50%; /* Alinea la línea con el texto */
-			z-index: -1; /* Envía la línea detrás del texto */
+			width: 100%; /* La línea ocupa todo el ancho */
+			bottom: -10px; /* Ajusta la posición de la línea */
+			z-index: 0; /* Asegura que esté detrás del texto */
 		}
 
 		.characteristic .non-metals:before {
-			left: 0; /* Línea comienza desde la izquierda */
+			left: 0; /* Alinea la línea con la izquierda */
 		}
 
 		.characteristic .metals:before {
-			right: 0; /* Línea termina a la derecha */
+			right: 0; /* Alinea la línea con la derecha */
 		}
+
 
 
 
@@ -496,15 +497,15 @@
                 display: none;
             }
 
-            .category {
-				margin-bottom: 30px; /* Aumenta el espacio debajo de las categorías */
+           .category {
+				margin-bottom: 40px; /* Espacio adicional debajo de las categorías */
 			}
 
 
-            .characteristic {
-				margin-top: 30px; /* Aumenta el espacio encima de "No metales" y "Metales" */
+         .characteristic {
+				background: transparent; /* Asegura que el fondo sea transparente */
 			}
-
+			
             .characteristic .non-metals {
                 max-width: 125px;
                 flex: 0 30%;
