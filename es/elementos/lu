@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Lutetium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">9</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+71
+</div>
+<div class="element-symbol">
+<strong>Lu</strong>
+</div>
+<div class="element-name">
+Lutetium
+</div>
+<div class="atomic-mass">
+174.9668
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>71</sub>Lu</li>
+<li>Name: lutetium</li>
+<li>Atomic number: 71</li>
+<li>Atomic mass: 174.967 u ± 0.001 u</li>
+<li>Boiling point: 3,402 °C</li>
+<li>Electron configuration: 4f145d16s2</li>
+<li>Electronegativity: 1.27</li>
+<li>Discovered: 1906</li>
+<li>Discoverers: Carl Auer von Welsbach, Georges Urbain</li>
+</ul>
+</div>
+<div class="card description">
+<p>Lutetium is a chemical element with symbol Lu and atomic number 71. It is a silvery white metal, which resists corrosion in dry, but not in moist air. It is the last element in the lanthanide series, and is traditionally counted among the rare earths. It is sometimes considered the first element of the 6th-period transition metals, although lanthanum is more often considered as such instead of lutetium.</p>
+<p>Lutetium was independently discovered in 1907 by French scientist Georges Urbain, Austrian mineralogist Baron Carl Auer von Welsbach, and American chemist Charles James. All of these researchers found lutetium as an impurity in the mineral ytterbia, which was previously thought to consist entirely of ytterbium. The dispute on the priority of the discovery occurred shortly after, with Urbain and Welsbach accusing each other of publishing results influenced by the published research of the other; the naming honor went to Urbain, as he had published his results earlier. He chose the name lutecium for the new element, but in 1949 the spelling of element 71 was changed to lutetium.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 6s2 4f14 5d1</li>
+<li>Per shell: 2, 8, 18, 32, 9, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1925 K ​(1652 °C, ​3006 °F)</li>
+<li>Boiling point: 3675 K ​(3402 °C, ​6156 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Lutetia, Latin for: Paris, in the Roman era</li>
+<li>Named by: Georges Urbain (1906)</li>
+<li>Discovery: Carl Auer von Welsbach and Georges Urbain (1906)</li>
+<li>First isolation: Carl Auer von Welsbach (1906)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

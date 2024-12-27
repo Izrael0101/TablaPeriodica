@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Iridium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">15</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+77
+</div>
+<div class="element-symbol">
+<strong>Ir</strong>
+</div>
+<div class="element-name">
+Iridium
+</div>
+<div class="atomic-mass">
+192.217
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>77</sub>Ir</li>
+<li>Name: iridium</li>
+<li>Atomic number: 77</li>
+<li>Atomic mass: 192.217 u ± 0.003 u</li>
+<li>Boiling point: 4,130 °C</li>
+<li>Electron configuration: 4f145d76s2</li>
+<li>Electronegativity: 2.20</li>
+<li>Discovered: 1803</li>
+<li>Discoverer: Smithson Tennant</li>
+</ul>
+</div>
+<div class="card description">
+<p>Iridium is a chemical element with symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the platinum group, iridium is generally credited with being the second densest element (after osmium). It is also the most corrosion-resistant metal, even at temperatures as high as 2000 °C. Although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable.</p>
+<p>Iridium was discovered in 1803 among insoluble impurities in natural platinum. Smithson Tennant, the primary discoverer, named iridium for the Greek goddess Iris, personification of the rainbow, because of the striking and diverse colors of its salts. Iridium is one of the rarest elements in Earth's crust, with annual production and consumption of only three tonnes. 191Ir and 193Ir are the only two naturally occurring isotopes of iridium, as well as the only stable isotopes; the latter is the more abundant of the two.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group 9</li>
+<li>Block: d-block</li>
+<li>Period: period 6</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4f14 5d7 6s2</li>
+<li>Per shell: 2, 8, 18, 32, 15, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 2719 K ​(2446 °C, ​4435 °F)</li>
+<li>Boiling point: 4403 K ​(4130 °C, ​7466 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: Smithson Tennant (1803)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

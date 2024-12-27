@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Niobium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">12</span>
+<span class="O">1</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+41
+</div>
+<div class="element-symbol">
+<strong>Nb</strong>
+</div>
+<div class="element-name">
+Niobium
+</div>
+<div class="atomic-mass">
+92.90637
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>41</sub>Nb</li>
+<li>Name: niobium</li>
+<li>Alternative name: columbium</li>
+<li>Atomic number: 41</li>
+<li>Atomic mass: 92.90638 u ± 0.00002 u</li>
+<li>Boiling point: 4744 °C</li>
+<li>Electron configuration: 4d45s1</li>
+<li>Electronegativity: 1.6</li>
+<li>Discovered: 1801</li>
+<li>Discoverer: Charles Hatchett</li>
+</ul>
+</div>
+<div class="card description">
+<p>Niobium, formerly columbium, is a chemical element with symbol Nb (formerly Cb) and atomic number 41. It is a soft, grey, ductile transition metal, which is often found in the pyrochlore mineral, the main commercial source for niobium, and columbite. The name comes from Greek mythology: Niobe, daughter of Tantalus since it is so similar to tantalum.</p>
+<p>Niobium has physical and chemical properties similar to those of the element tantalum, and the two are difficult to distinguish. The English chemist Charles Hatchett reported a new element similar to tantalum in 1801 and named it columbium. In 1809, the English chemist William Hyde Wollaston wrongly concluded that tantalum and columbium were identical. The German chemist Heinrich Rose determined in 1846 that tantalum ores contain a second element, which he named niobium. In 1864 and 1865, a series of scientific findings clarified that niobium and columbium were the same element (as distinguished from tantalum), and for a century both names were used interchangeably. Niobium was officially adopted as the name of the element in 1949, but the name columbium remains in current use in metallurgy in the United States.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: gray metallic, bluish when oxidized</li>
+<li>Group: group 5</li>
+<li>Block: d-block</li>
+<li>Period: period 5</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4d4 5s1</li>
+<li>Per shell: 2, 8, 18, 12, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 2750 K ​(2477 °C, ​4491 °F)</li>
+<li>Boiling point: 5017 K ​(4744 °C, ​8571 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Niobe in Greek mythology, daughter of Tantalus (tantalum)</li>
+<li>Discovery: Charles Hatchett (1801)</li>
+<li>First isolation: Christian Wilhelm Blomstrand (1864)</li>
+<li>Recognized as a distinct element by: Heinrich Rose (1844)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

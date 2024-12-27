@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Terbium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">27</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+65
+</div>
+<div class="element-symbol">
+<strong>Tb</strong>
+</div>
+<div class="element-name">
+Terbium
+</div>
+<div class="atomic-mass">
+158.92535
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>65</sub>Tb</li>
+<li>Name: terbium</li>
+<li>Atomic number: 65</li>
+<li>Atomic mass: 158.92535 u ± 0.00002 u</li>
+<li>Boiling point: 3,227 °C</li>
+<li>Electron configuration: 4f96s2</li>
+<li>Electronegativity: 1.2</li>
+<li>Discovered: 1843</li>
+<li>Discoverer: Carl Gustaf Mosander</li>
+</ul>
+</div>
+<div class="card description">
+<p>Terbium is a chemical element with symbol Tb and atomic number 65. It is a silvery-white rare earth metal that is malleable, ductile and soft enough to be cut with a knife. The ninth member of the lanthanide series, terbium is a fairly electropositive metal that reacts with water, evolving hydrogen gas. Terbium is never found in nature as a free element, but it is contained in many minerals, including cerite, gadolinite, monazite, xenotime and euxenite.</p>
+<p>Swedish chemist Carl Gustaf Mosander discovered terbium as a separate elemental compound in 1843. He detected it as an impurity in yttrium oxide, Y2O3. Yttrium and terbium are named after the village of Ytterby in Sweden. Terbium was not isolated in pure form until the advent of ion exchange techniques.</p>
+<p>Terbium is used to dope calcium fluoride, calcium tungstate and strontium molybdate, materials that are used in solid-state devices, and as a crystal stabilizer of fuel cells which operate at elevated temperatures.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f9 6s2</li>
+<li>Per shell: 2, 8, 18, 27, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1193 K ​(920 °C, ​1688 °F)</li>
+<li>Boiling point: 3737 K ​(3464 °C, ​6267 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Ytterby (Sweden), where it was mined</li>
+<li>Discovery and first isolation: Carl Gustaf Mosander (1843)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

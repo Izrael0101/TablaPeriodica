@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Oganesson</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element noble-gases">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">32</span>
+<span class="P">18</span>
+<span class="Q">8</span>
+</div>
+<div class="atomic-number">
+118
+</div>
+<div class="element-symbol">
+<strong>Og</strong>
+</div>
+<div class="element-name">
+Oganesson
+</div>
+<div class="atomic-mass">
+(294)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>118</sub>Og</li>
+<li>Name: oganesson</li>
+<li>Atomic number: 118</li>
+<li>Atomic mass: 294 u</li>
+<li>Boiling point: 80±30 °C</li>
+<li>Electron configuration: 5f146d107s27p6</li>
+<li>Discovered: 2006</li>
+<li>Discoverers: Joint Institute for Nuclear Research, Lawrence Livermore National Laboratory</li>
+</ul>
+</div>
+<div class="card description">
+<p>Oganesson (symbol Og) is a transactinide chemical element. It was first synthesized in 2002 by a joint team of Russian and American scientists at the Joint Institute for Nuclear Research (JINR) in Dubna, Russia. With the atomic number 118 in the periodic table, the synthetic element is also known as element 118, or eka-radon. In December 2015, it was recognized as one of four new elements by the Joint Working Party of international scientific bodies IUPAC and IUPAP. It was formally named on 28 November 2016. The name is in line with the tradition of honoring a scientist and recognizes nuclear physicist Yuri Oganessian, who has played a leading role in the discovery of the heaviest elements in the periodic table. It is one of only two elements named after a living person at the time of naming, the other being seaborgium.</p>
+<p>Oganesson has the highest atomic number and highest atomic mass of all known elements. The radioactive oganesson atom is very unstable, and since 2005, only four atoms of the isotope 294Og have been detected.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Group: group 18</li>
+<li>Block: p-block</li>
+<li>Period: period 7</li>
+<li>Element category: unknown, but predicted to be a noble gas</li>
+<li>Electron configuration: 5f14 6d10 7s2 7p6 (predicted)</li>
+<li>Per shell: 2, 8, 18, 32, 32, 18, 8 (predicted)</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid presumably</li>
+<li>Melting point: Unknown</li>
+<li>Boiling point: 350±30 K ​(80±30 °C, ​170±50 °F) (extrapolated)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Prediction: iels Bohr (1922)</li>
+<li>Naming: after Yuri Oganessian</li>
+<li>Discovery: Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory (2002)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

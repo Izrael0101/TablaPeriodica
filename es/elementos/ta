@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Tantalum</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">11</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+73
+</div>
+<div class="element-symbol">
+<strong>Ta</strong>
+</div>
+<div class="element-name">
+Tantalum
+</div>
+<div class="atomic-mass">
+180.94788
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>73</sub>Ta</li>
+<li>Name: tantalum</li>
+<li>Atomic number: 73</li>
+<li>Atomic mass: 180.94788 u ± 0.00002 u</li>
+<li>Boiling point: 5,457 °C</li>
+<li>Electron configuration: 4f145d36s2</li>
+<li>Electronegativity: 1.5</li>
+<li>Discovered: 1802</li>
+<li>Discoverer: Anders Gustaf Ekeberg</li>
+</ul>
+</div>
+<div class="card description">
+<p>Tantalum is a chemical element with symbol Ta and atomic number 73. Previously known as tantalium, its name comes from Tantalus, a villain from Greek mythology. Tantalum is a rare, hard, blue-gray, lustrous transition metal that is highly corrosion-resistant. It is part of the refractory metals group, which are widely used as minor components in alloys. The chemical inertness of tantalum makes it a valuable substance for laboratory equipment and a substitute for platinum. Its main use today is in tantalum capacitors in electronic equipment such as mobile phones, DVD players, video game systems and computers. Tantalum, always together with the chemically similar niobium, occurs in the minerals tantalite, columbite and coltan (a mix of columbite and tantalite).</p>
+<p>Tantalum is dark (blue-gray), dense, ductile, very hard, easily fabricated, and highly conductive of heat and electricity. The metal is renowned for its resistance to corrosion by acids; in fact, at temperatures below 150 °C tantalum is almost completely immune to attack by the normally aggressive aqua regia.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: gray blue</li>
+<li>Group: group 5</li>
+<li>Block: d-block</li>
+<li>Period: period 6</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4f14 5d3 6s2</li>
+<li>Per shell: 2, 8, 18, 32, 11, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 3290 K ​(3017 °C, ​5463 °F)</li>
+<li>Boiling point: 5731 K ​(5458 °C, ​9856 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Anders Gustaf Ekeberg (1802)</li>
+<li>Recognized as a distinct element by: Heinrich Rose (1844)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

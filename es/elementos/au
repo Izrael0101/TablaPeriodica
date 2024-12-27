@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Gold</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">1</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+79
+</div>
+<div class="element-symbol">
+<strong>Au</strong>
+</div>
+<div class="element-name">
+Gold
+</div>
+<div class="atomic-mass">
+196.966569
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>79</sub>Au</li>
+<li>Name: gold</li>
+<li>Atomic number: 79</li>
+<li>Atomic mass: 196.96657 u ± 0.000004 u</li>
+<li>Boiling point: 2,970 °C</li>
+<li>Electron configuration: 4f145d106s1</li>
+<li>Electronegativity: 2.54</li>
+<li>Discovered: before 6000 BCE</li>
+</ul>
+</div>
+<div class="card description">
+<p>Gold is a chemical element with the symbol Au (from Latin: aurum) and the atomic number 79. In its purest form, it is a bright, slightly reddish yellow, dense, soft, malleable and ductile metal. Chemically, gold is a transition metal and a group 11 element. It is one of the least reactive chemical elements, and is solid under standard conditions. The metal therefore occurs often in free elemental (native) form, as nuggets or grains, in rocks, in veins and in alluvial deposits. It occurs in a solid solution series with the native element silver (as electrum) and also naturally alloyed with copper and palladium. Less commonly, it occurs in minerals as gold compounds, often with tellurium (gold tellurides).</p>
+<p>Gold's atomic number of 79 makes it one of the higher atomic number elements that occur naturally in the universe. It is thought to have been produced in supernova nucleosynthesis and from the collision of neutron stars and to have been present in the dust from which the Solar System formed.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: metallic yellow</li>
+<li>Group: group 11</li>
+<li>Block: d-block</li>
+<li>Period: period 6</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4f14 5d10 6s1</li>
+<li>Per shell: 2, 8, 18, 32, 18, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1337.33 K ​(1064.18 °C, ​1947.52 °F)</li>
+<li>Boiling point: 3243 K ​(2970 °C, ​5378 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: from Latin aurum, meaning gold</li>
+<li>Discovery: In the Middle East (before 6000 BCE)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

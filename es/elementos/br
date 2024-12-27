@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Bromine</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element post-transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">7</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+35
+</div>
+<div class="element-symbol">
+<strong>Br</strong>
+</div>
+<div class="element-name">
+Bromine
+</div>
+<div class="atomic-mass">
+79.904
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>35</sub>Br</li>
+<li>Name: bromine</li>
+<li>Atomic number: 35</li>
+<li>Atomic mass: 79.904 u ± 0.001 u</li>
+<li>Boiling point: 58.8 °C</li>
+<li>Electron configuration: 3d104s24p5</li>
+<li>Electronegativity: 2.96</li>
+<li>Discovered: 1825</li>
+<li>Discoverers: Antoine Jérôme Balard, Carl Jacob Löwig</li>
+</ul>
+</div>
+<div class="card description">
+<p>Bromine is a chemical element with symbol Br and atomic number 35. It is the third-lightest halogen, and is a fuming red-brown liquid at room temperature that evaporates readily to form a similarly coloured gas. Its properties are thus intermediate between those of chlorine and iodine. Isolated independently by two chemists, Carl Jacob Löwig (in 1825) and Antoine Jérôme Balard (in 1826), its name was derived from the Ancient Greek βρῶμος "stench", referencing its sharp and disagreeable smell.</p>
+<p>Elemental bromine is very reactive and thus does not occur free in nature, but in colourless soluble crystalline mineral halide salts, analogous to table salt. While it is rather rare in the Earth's crust, the high solubility of the bromide ion (Br−) has caused its accumulation in the oceans. Commercially the element is easily extracted from brine pools, mostly in the United States, Israel and China. The mass of bromine in the oceans is about one three-hundredth of that of chlorine.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: reddish-brown</li>
+<li>Group: group 17 (halogens)</li>
+<li>Block: p-block</li>
+<li>Period: period 4</li>
+<li>Element category: diatomic nonmetal</li>
+<li>Electron configuration: 3d10 4s2 4p5</li>
+<li>Per shell: 2, 8, 18, 7</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: liquid</li>
+<li>Melting point: 265.8 K ​(−7.2 °C, ​19 °F)</li>
+<li>Boiling point: 332.0 K ​(58.8 °C, ​137.8 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: Antoine Jérôme Balard and Carl Jacob Löwig (1825)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

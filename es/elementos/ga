@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Gallium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element post-transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">3</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+31
+</div>
+<div class="element-symbol">
+<strong>Ga</strong>
+</div>
+<div class="element-name">
+Gallium
+</div>
+<div class="atomic-mass">
+69.723
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>31</sub>Ga</li>
+<li>Name: gallium</li>
+<li>Atomic number: 31</li>
+<li>Atomic mass: 69.723 u ± 0.001 u</li>
+<li>Boiling point: 2,400 °C</li>
+<li>Electron configuration: 3d104s24p1</li>
+<li>Electronegativity: 1.81</li>
+<li>Discovered: 1875</li>
+<li>Discoverer: Lecoq de Boisbaudran</li>
+</ul>
+</div>
+<div class="card description">
+<p>Gallium is a chemical element with symbol Ga and atomic number 31. It is in group 13 of the periodic table, and thus has similarities to the other metals of the group, aluminium, indium, and thallium. Gallium does not occur as a free element in nature, but as gallium(III) compounds in trace amounts in zinc ores and in bauxite. Elemental gallium is a soft, silvery blue metal at standard temperature and pressure, a brittle solid at low temperatures, and a liquid at temperatures greater than 29.76 °C (85.57 °F) (slightly above room temperature). The melting point of gallium is used as a temperature reference point. The alloy galinstan (68.5% gallium, 21.5% indium, and 10% tin) has an even lower melting point of −19 °C (−2 °F), well below the freezing point of water.</p>
+<p>Since its discovery in 1875, gallium has been used to make alloys with low melting points. It is also used in semiconductors as a dopant in semiconductor substrates.</p>
+<p>Gallium is predominantly used in electronics. Gallium arsenide, the primary chemical compound of gallium in electronics, is used in microwave circuits, high-speed switching circuits, and infrared circuits.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery blue</li>
+<li>Group: group 13</li>
+<li>Block: p-block</li>
+<li>Period: period 4</li>
+<li>Element category: post-transition metal</li>
+<li>Electron configuration: 3d1 4s2</li>
+<li>Per shell: 2, 8, 18, 3</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 302.9146 K ​(29.7646 °C, ​85.5763 °F)</li>
+<li>Boiling point: 2673 K ​(2400 °C, ​4352 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Prediction: Dmitri Mendeleev (1871)</li>
+<li>Naming: after Gallia (Latin for: France), homeland of the discoverer</li>
+<li>Discovery &amp; First isolation: Lecoq de Boisbaudran (1875)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

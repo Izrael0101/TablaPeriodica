@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Antimony</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element metalloids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">5</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+51
+</div>
+<div class="element-symbol">
+<strong>Sb</strong>
+</div>
+<div class="element-name">
+Antimony
+</div>
+<div class="atomic-mass">
+121.76
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>51</sub>Sb</li>
+<li>Name: antimony</li>
+<li>Atomic number: 51</li>
+<li>Atomic mass: 121.76 u ± 0.001 u</li>
+<li>Boiling point: 1,635 °C</li>
+<li>Electron configuration: d105s25p3</li>
+<li>Electronegativity: 2.05</li>
+<li>Discovered: 3000 BC</li>
+</ul>
+</div>
+<div class="card description">
+<p>Antimony is a chemical element with symbol Sb (from Latin: stibium) and atomic number 51. A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). Antimony compounds have been known since ancient times and were powdered for use as medicine and cosmetics, often known by the Arabic name, kohl. Metallic antimony was also known, but it was erroneously identified as lead upon its discovery. In the West, it was first isolated by Vannoccio Biringuccio and described in 1540.</p>
+<p>For some time, China has been the largest producer of antimony and its compounds, with most production coming from the Xikuangshan Mine in Hunan. The industrial methods for refining antimony are roasting and reduction with carbon or direct reduction of stibnite with iron.</p>
+<p>The largest applications for metallic antimony is an alloy with lead and tin and the lead antimony plates in lead–acid batteries. Alloys of lead and tin with antimony have improved properties for solders, bullets and plain bearings.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery lustrous gray</li>
+<li>Group: group 15 (pnictogens)</li>
+<li>Block: p-block</li>
+<li>Period: period 5</li>
+<li>Element category: metalloid</li>
+<li>Electron configuration: 4d10 5s2 5p3</li>
+<li>Per shell: 2, 8, 18, 18, 5</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 903.78 K ​(630.63 °C, ​1167.13 °F)</li>
+<li>Boiling point: 1908 K ​(1635 °C, ​2975 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: 3000 BC</li>
+<li>First isolation: Vannoccio Biringuccio (1540)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Titanium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">10</span>
+<span class="N">2</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+22
+</div>
+<div class="element-symbol">
+<strong>Ti</strong>
+</div>
+<div class="element-name">
+Titanium
+</div>
+<div class="atomic-mass">
+47.867
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>22</sub>Ti</li>
+<li>Name: titanium</li>
+<li>Atomic number: 22</li>
+<li>Atomic mass: 47.867 u ± 0.001 u</li>
+<li>Boiling point: 3287 °C</li>
+<li>Electron configuration: 3d24s2</li>
+<li>Electronegativity: 1.54</li>
+<li>Discovered: 1791</li>
+<li>Discoverer: William Gregor</li>
+</ul>
+</div>
+<div class="card description">
+<p>Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia, and chlorine.</p>
+<p>Titanium was discovered in Cornwall, Great Britain, by William Gregor in 1791 and named by Martin Heinrich Klaproth for the Titans of Greek mythology. The element occurs within a number of mineral deposits, principally rutile and ilmenite, which are widely distributed in the Earth's crust and lithosphere, and it is found in almost all living things, rocks, water bodies, and soils. The metal is extracted from its principal mineral ores by the Kroll and Hunter processes. The most common compound, titanium dioxide, is a popular photocatalyst and is used in the manufacture of white pigments. Other compounds include titanium tetrachloride (TiCl4), a component of smoke screens and catalysts; and titanium trichloride (TiCl3), which is used as a catalyst in the production of polypropylene.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group 4</li>
+<li>Block: d-block</li>
+<li>Period: period 4</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 3d2 4s2</li>
+<li>Per shell: 2, 8, 10, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1941 K ​(1668 °C, ​3034 °F)</li>
+<li>Boiling point: 3560 K ​(3287 °C, ​5949 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: William Gregor (1791)</li>
+<li>First isolation: Jöns Jakob Berzelius (1825)</li>
+<li>Named by: Martin Heinrich Klaproth (1795)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

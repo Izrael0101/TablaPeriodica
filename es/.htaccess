@@ -1,0 +1,9 @@
+# Habilitar mod_rewrite
+RewriteEngine On
+
+# Redirigir la raíz al idioma por defecto (español)
+RewriteRule ^$ /es/ [L,R=302]
+
+# Asegurar rutas para español e inglés
+RewriteRule ^es/(.*)$ es/$1 [L]
+RewriteRule ^en/(.*)$ en/$1 [L]

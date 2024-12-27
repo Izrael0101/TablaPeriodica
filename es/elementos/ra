@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Radium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element alkaline-earth-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">8</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+88
+</div>
+<div class="element-symbol">
+<strong>Ra</strong>
+</div>
+<div class="element-name">
+Radium
+</div>
+<div class="atomic-mass">
+(226)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>88</sub>Ra</li>
+<li>Name: radium</li>
+<li>Atomic number: 88</li>
+<li>Atomic mass: 226 u</li>
+<li>Boiling point: 1,737 °C</li>
+<li>Electron configuration: 7s2</li>
+<li>Electronegativity: 0.9</li>
+<li>Discovered: 1898</li>
+<li>Discoverers: Pierre Curie, Marie Curie</li>
+</ul>
+</div>
+<div class="card description">
+<p>Radium is a chemical element with symbol Ra and atomic number 88. It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. Pure radium is silvery-white, but it readily combines with nitrogen (rather than oxygen) on exposure to air, forming a black surface layer of radium nitride (Ra3N2). All isotopes of radium are highly radioactive, with the most stable isotope being radium-226, which has a half-life of 1600 years and decays into radon gas (specifically the isotope radon-222). When radium decays, ionizing radiation is a product, which can excite fluorescent chemicals and cause radioluminescence.</p>
+<p>Radium, in the form of radium chloride, was discovered by Marie and Pierre Curie in 1898. They extracted the radium compound from uraninite and published the discovery at the French Academy of Sciences five days later. Radium was isolated in its metallic state by Marie Curie and André-Louis Debierne through the electrolysis of radium chloride in 1911.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white metallic</li>
+<li>Group: group 2 (alkaline earth metals)</li>
+<li>Block: s-block</li>
+<li>Period: period 7</li>
+<li>Element category: alkaline earth metal</li>
+<li>Electron configuration: 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 18, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 973 K ​(700 °C, ​1292 °F) (disputed)</li>
+<li>Boiling point: 2010 K ​(1737 °C, ​3159 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Pierre and Marie Curie (1898)</li>
+<li>First isolation: Marie Curie (1910)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

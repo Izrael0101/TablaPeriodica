@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Lithium</title>
+
+</head>
+<body class=""><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element alkali-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">1</span>
+<span class="M"></span>
+<span class="N"></span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+3
+</div>
+<div class="element-symbol">
+<strong>Li</strong>
+</div>
+<div class="element-name">
+Lithium
+</div>
+<div class="atomic-mass">
+6.94
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>3</sub>Li</li>
+<li>Name: Lithium</li>
+<li>Atomic number: 3</li>
+<li>Atomic mass: 6.941 u ± 0.002 u</li>
+<li>Boiling point: 1330 °C</li>
+<li>Atomic radius: 152 pm</li>
+<li>Discovered: 1817</li>
+<li>Discoverer: Johan August Arfwedson</li>
+</ul>
+</div>
+<div class="card description">
+<p>Lithium (from Greek: λίθος lithos, "stone") is a chemical element with the symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements.</p>
+<p>Under standard conditions, it is the lightest metal and the least dense solid element. Like all alkali metals, lithium is highly reactive and flammable. For this reason, it is typically stored in mineral oil. When cut open, it exhibits a metallic luster, but contact with moist air corrodes the surface quickly to a dull silvery gray, then black tarnish.</p>
+<p>Because of its high reactivity, lithium never occurs freely in nature, and instead, appears only in compounds, which are usually ionic. Lithium occurs in a number of pegmatitic minerals, but due to its solubility as an ion, is present in ocean water and is commonly obtained from brines and clays. On a commercial scale, lithium is isolated electrolytically from a mixture of lithium chloride and potassium chloride.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery-white</li>
+<li>Group: group 1</li>
+<li>Block: s-block</li>
+<li>Period period 2</li>
+<li>Element category: alkali metal</li>
+<li>Electron configuration: 2s1</li>
+<li>Per shell: 2, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 453.65 K ​(180.50 °C, ​356.90 °F)</li>
+<li>Boiling point: 1603 K ​(1330 °C, ​2426 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Johan August Arfwedson (1817)</li>
+<li>First isolation: William Thomas Brande (1821)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

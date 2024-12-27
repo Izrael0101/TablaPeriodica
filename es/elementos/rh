@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Rhodium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">16</span>
+<span class="O">1</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+45
+</div>
+<div class="element-symbol">
+<strong>Rh</strong>
+</div>
+<div class="element-name">
+Rhodium
+</div>
+<div class="atomic-mass">
+102.90550
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>45</sub>Rh</li>
+<li>Name: rhodium</li>
+<li>Atomic number: 45</li>
+<li>Atomic mass: 102.9055 u ± 0.00002 u</li>
+<li>Boiling point: 3695 °C</li>
+<li>Electron configuration: 4d85s1</li>
+<li>Electronegativity: 2.28</li>
+<li>Discovered: 1803</li>
+<li>Discoverer: William Hyde Wollaston</li>
+</ul>
+</div>
+<div class="card description">
+<p>Rhodium is a chemical element with symbol Rh and atomic number 45. It is a rare, silvery-white, hard, and chemically inert transition metal. It is a member of the platinum group. It has only one naturally occurring isotope, 103Rh. Naturally occurring rhodium is usually found as the free metal, alloyed with similar metals, and rarely as a chemical compound in minerals such as bowieite and rhodplumsite. It is one of the rarest and most valuable precious metals.</p>
+<p>Rhodium is a noble metal, resistant to corrosion, found in platinum or nickel ores together with the other members of the platinum group metals. It was discovered in 1803 by William Hyde Wollaston in one such ore, and named for the rose color of one of its chlorine compounds, produced after it reacted with the powerful acid mixture aqua regia.</p>
+<p>The element's major use (approximately 80% of world rhodium production) is as one of the catalysts in the three-way catalytic converters in automobiles.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white metallic</li>
+<li>Group: group 9</li>
+<li>Block: d-block</li>
+<li>Period: period 5</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4d8 5s1</li>
+<li>Per shell: 2, 8, 18, 16, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 2237 K ​(1964 °C, ​3567 °F)</li>
+<li>Boiling point: 3968 K ​(3695 °C, ​6683 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: William Hyde Wollaston (1804)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

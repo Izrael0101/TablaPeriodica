@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Neptunium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element actinoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">22</span>
+<span class="P">9</span>
+<span class="Q">2</span>
+</div>
+ <div class="atomic-number">
+93
+</div>
+<div class="element-symbol">
+<strong>Np</strong>
+</div>
+<div class="element-name">
+Neptunium
+</div>
+<div class="atomic-mass">
+(237)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>93</sub>Np</li>
+<li>Name: neptunium</li>
+<li>Atomic number: 93</li>
+<li>Atomic mass: 237 u</li>
+<li>Boiling point: 4,174 °C</li>
+<li>Electron configuration: 5f46d17s2</li>
+<li>Electronegativity: 1.36</li>
+<li>Discovered: 1940</li>
+<li>Discoverers: Edwin McMillan, Philip H. Abelsong</li>
+</ul>
+</div>
+<div class="card description">
+<p>Neptunium is a chemical element with symbol Np and atomic number 93. A radioactive actinide metal, neptunium is the first transuranic element. Its position in the periodic table just after uranium, named after the planet Uranus, led to it being named after Neptune, the next planet beyond Uranus. A neptunium atom has 93 protons and 93 electrons, of which seven are valence electrons. Neptunium metal is silvery and tarnishes when exposed to air. The element occurs in three allotropic forms and it normally exhibits five oxidation states, ranging from +3 to +7. It is radioactive, poisonous, pyrophoric, and can accumulate in bones, which makes the handling of neptunium dangerous.</p>
+<p>Although many false claims of its discovery were made over the years, the element was first synthesized by Edwin McMillan and Philip H. Abelson at the Berkeley Radiation Laboratory in 1940. Since then, most neptunium has been and still is produced by neutron irradiation of uranium in nuclear reactors. The vast majority is generated as a by-product in conventional nuclear power reactors.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery metallic</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 7</li>
+<li>Element category: actinide</li>
+<li>Electron configuration: 5f4 6d1 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 22, 9, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 912±3 K ​(639±3 °C, ​1182±5 °F)</li>
+<li>Boiling point: 4447 K ​(4174 °C, ​7545 °F) (extrapolated)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after planet Neptune, itself named after Roman god of the sea Neptune</li>
+<li>Discovery: Edwin McMillan and Philip H. Abelson (1940)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

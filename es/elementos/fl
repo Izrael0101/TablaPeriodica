@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Flerovium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element post-transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">32</span>
+<span class="P">18</span>
+<span class="Q">4</span>
+</div>
+<div class="atomic-number">
+114
+</div>
+<div class="element-symbol">
+<strong>Fl</strong>
+</div>
+<div class="element-name">
+Flerovium
+</div>
+<div class="atomic-mass">
+(289)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>114</sub>Fl</li>
+<li>Name: flerovium</li>
+<li>Atomic number: 114</li>
+<li>Atomic mass: 289 u</li>
+<li>Boiling point: 147 °C</li>
+<li>Electron configuration: 5f146d107s27p1</li>
+<li>Discovered: 1999</li>
+<li>Discoverers: Joint Institute for Nuclear Researc, Lawrence Livermore National Laboratory</li>
+</ul>
+</div>
+<div class="card description">
+<p>Flerovium is a superheavy artificial chemical element with symbol Fl and atomic number 114. It is an extremely radioactive synthetic element. The element is named after the Flerov Laboratory of Nuclear Reactions of the Joint Institute for Nuclear Research in Dubna, Russia, where the element was discovered in 1998. The name of the laboratory, in turn, honours the Russian physicist Georgy Flyorov (Флёров in Cyrillic, hence the transliteration of "yo" to "e"). The name was adopted by IUPAC on 30 May 2012.</p>
+<p>In the periodic table of the elements, it is a transactinide element in the p-block. It is a member of the 7th period and is the heaviest known member of the carbon group; it is also the heaviest element whose chemistry is currently known. Initial chemical studies performed in 2007–2008 indicated that flerovium was unexpectedly volatile for a group 14 element; in preliminary results it even seemed to exhibit properties similar to those of the noble gases. More recent results show that flerovium's reaction with gold is similar to that of copernicium, showing that it is a very volatile element that may even be gaseous at standard temperature and pressure, that it would show metallic properties, consistent with it being the heavier homologue of lead, and that it would be the least reactive metal in group 14.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Group: group 14 (carbon group)</li>
+<li>Block: p-block</li>
+<li>Period: period 7</li>
+<li>Element category: post-transition metal</li>
+<li>Electron configuration: 5f14 6d10 7s2 7p2 (predicted)</li>
+<li>Per shell: 2, 8, 18, 32, 32, 18, 4 (predicted)</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid presumably</li>
+<li>Melting point: 340 K ​(67 °C, ​160 °F) (predicted)</li>
+<li>Boiling point: 420 K ​(147 °C, ​297 °F) (predicted)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Flerov Laboratory of Nuclear Reactions (itself named after Georgy Flyorov)</li>
+<li>Discovery: Joint Institute for Nuclear Research (JINR) and Lawrence Livermore National Laboratory (LLNL) (1999)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Xenon</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element noble-gases">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">8</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+54
+</div>
+<div class="element-symbol">
+<strong>Xe</strong>
+</div>
+<div class="element-name">
+Xenon
+</div>
+<div class="atomic-mass">
+131.293
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>54</sub>Xe</li>
+<li>Name: xenon</li>
+<li>Atomic number: 54</li>
+<li>Atomic mass: 131.293 u ± 0.006 u</li>
+<li>Boiling point: -108.1 °C</li>
+<li>Electron configuration: 4d105s25p6</li>
+<li>Electronegativity: 2.6</li>
+<li>Discovered: 1898</li>
+<li>Discoverers: William Ramsay and Morris Travers</li>
+</ul>
+</div>
+<div class="card description">
+<p>Xenon is a chemical element with symbol Xe and atomic number 54. It is a colorless, dense, odorless noble gas found in the Earth's atmosphere in trace amounts. Although generally unreactive, xenon can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized.
+</p><p>Xenon is used in flash lamps and arc lamps, and as a general anesthetic. The first excimer laser design used a xenon dimer molecule (Xe2) as the lasing medium, and the earliest laser designs used xenon flash lamps as pumps. Xenon is used to search for hypothetical weakly interacting massive particles and as the propellant for ion thrusters in spacecraft</p>
+<p>Naturally occurring xenon consists of eight stable isotopes. More than 40 unstable xenon isotopes undergo radioactive decay, and the isotope ratios of xenon are an important tool for studying the early history of the Solar System.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: colorless gas, exhibiting a blue glow when placed in a high voltage electric field</li>
+<li>Group: group 18 (noble gases)</li>
+<li>Block: p-block</li>
+<li>Period: period 5</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 4d10 5s2 5p6</li>
+<li>Per shell: 2, 8, 18, 18, 8</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: gas</li>
+<li>Melting point: 161.40 K ​(−111.75 °C, ​−169.15 °F)</li>
+<li>Boiling point: 165.051 K ​(−108.099 °C, ​−162.578 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery &amp; First isolation: William Ramsay and Morris Travers (1898)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

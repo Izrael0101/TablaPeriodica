@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Plata</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">1</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+47
+</div>
+<div class="element-symbol">
+<strong>Ag</strong>
+</div>
+<div class="element-name">
+Plata
+</div>
+<div class="atomic-mass">
+107.8682
+</div>
+</div>
+<ul>
+<li>Símbolo: <sub>47</sub>Ag</li>
+<li>Nombre: plata</li>
+<li>Número atómico: 47</li>
+<li>Masa atómica: 107.8682 u</li>
+<li>Punto de ebullición: 2,162 °C</li>
+<li>Configuración electrónica: 4d105s1</li>
+<li>Electronegatividad: 1.93</li>
+<li>Descubierto: antes del 5000 a.C.</li>
+</ul>
+</div>
+<div class="card description">
+<p>La plata es el elemento metálico con el número atómico 47. Su símbolo es Ag, del latín *argentum*, derivado del griego ὰργὀς (literalmente "brillante" o "blanco"), y en última instancia de una raíz lingüística protoindoeuropea reconstruida como *h2erǵ-*, "gris" o "brillante". Un metal de transición blando, blanco y lustroso, presenta la mayor conductividad eléctrica, conductividad térmica y reflectividad de cualquier metal. El metal se encuentra en la corteza terrestre en su forma pura y libre ("plata nativa"), como una aleación con oro y otros metales, y en minerales como la argentita y la clorargirita. La mayoría de la plata se produce como subproducto del refinado de cobre, oro, plomo y zinc.</p>
+<p>La plata ha sido valorada durante mucho tiempo como un metal precioso. El metal de plata se usa en muchos sistemas monetarios premodernos en monedas de lingotes, a veces junto al oro: aunque es más abundante que el oro, es mucho menos común en su forma nativa. Su pureza generalmente se mide en base a milésimas; una aleación con un 94 % de pureza se describe como "0.940 fina". Como uno de los siete metales de la antigüedad, la plata ha tenido un papel duradero en la mayoría de las culturas humanas.</p>
+</div>
+<div class="card overview">
+<p><strong>Propiedades generales</strong></p>
+<ul>
+<li>Apariencia: metal blanco lustroso</li>
+<li>Grupo: grupo 11</li>
+<li>Bloque: bloque d</li>
+<li>Período: período 5</li>
+<li>Categoría del elemento: metal de transición</li>
+<li>Configuración electrónica: 4d10 5s1</li>
+<li>Por capa: 2, 8, 18, 18, 1</li>
+</ul>
+<p><strong>Propiedades físicas</strong></p>
+<ul>
+<li>Fase: sólido</li>
+<li>Punto de fusión: 1234.93 K ​(961.78 °C, ​1763.2 °F)</li>
+<li>Punto de ebullición: 2435 K ​(2162 °C, ​3924 °F)</li>
+</ul>
+<p><strong>Historia</strong></p>
+<ul>
+<li>Descubrimiento: antes del 5000 a.C.</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+</html>

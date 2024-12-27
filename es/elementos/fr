@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Francium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element alkali-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">8</span>
+<span class="Q">1</span>
+</div>
+<div class="atomic-number">
+87
+</div>
+<div class="element-symbol">
+<strong>Fr</strong>
+</div>
+<div class="element-name">
+Francium
+</div>
+<div class="atomic-mass">
+(223)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>87</sub>Fr</li>
+<li>Name: francium</li>
+<li>Atomic number: 87</li>
+<li>Atomic mass: 223 u</li>
+<li>Boiling point: 680 °C</li>
+<li>Electron configuration: 7s1</li>
+<li>Electronegativity: 0.79</li>
+<li>Discovered: 1939</li>
+<li>Discoverer: Marguerite Perey</li>
+</ul>
+</div>
+<div class="card description">
+<p>Francium is a chemical element with symbol Fr and atomic number 87. It used to be known as eka-caesium and actinium K. It is the second-least electronegative element, behind only caesium. Francium is a highly radioactive metal that decays into astatine, radium, and radon. As an alkali metal, it has one valence electron.</p>
+<p>Bulk francium has never been viewed. Because of the general appearance of the other elements in its periodic table column, it is assumed that francium would appear as a highly reflective metal, if enough could be collected together to be viewed as a bulk solid or liquid. Obtaining such a sample is highly improbable, since the extreme heat of decay (the half-life of its longest-lived isotope is only 22 minutes) would immediately vaporize any viewable quantity of the element.</p>
+<p>Francium was discovered by Marguerite Perey in France (from which the element takes its name) in 1939. It was the last element first discovered in nature, rather than by synthesis.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: believed to be metallic</li>
+<li>Group: group 1 (alkali metals)</li>
+<li>Block: s-block</li>
+<li>Period: period 7</li>
+<li>Element category: alkali metal</li>
+<li>Electron configuration: 7s1</li>
+<li>Per shell: 2, 8, 18, 32, 18, 8, 1</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid presumably</li>
+<li>Melting point: 300 K ​(30 °C, ​80 °F)</li>
+<li>Boiling point: 950 K ​(680 °C, ​1300 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after France, homeland of the discoverer</li>
+<li>Discovery &amp; First isolation: Marguerite Perey (1939)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

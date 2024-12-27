@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Uranium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element actinoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">21</span>
+<span class="P">9</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+92
+</div>
+<div class="element-symbol">
+<strong>U</strong>
+</div>
+<div class="element-name">
+Uranium
+</div>
+<div class="atomic-mass">
+238.02891
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>92</sub>U</li>
+<li>Name: uranium</li>
+<li>Atomic number: 92</li>
+<li>Atomic mass: 238.02891 u ± 0.00003 u</li>
+<li>Boiling point: 4,131 °C</li>
+<li>Electron configuration: 5f36d17s2</li>
+<li>Electronegativity: 1.38</li>
+<li>Discovered: 1789</li>
+<li>Discoverer: Martin Heinrich Klaproth</li>
+</ul>
+</div>
+<div class="card description">
+<p>Uranium is a chemical element with symbol U and atomic number 92. It is a silvery-white metal in the actinide series of the periodic table. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium is weakly radioactive because all its isotopes are unstable (with half-lives of the six naturally known isotopes, uranium-233 to uranium-238, varying between 69 years and 4.5 billion years). The most common isotopes in natural uranium are uranium-238 (which has 146 neutrons and accounts for over 99%) and uranium-235 (which has 143 neutrons). Uranium has the highest atomic weight of the primordially occurring elements. Its density is about 70% higher than that of lead, and slightly lower than that of gold or tungsten. It occurs naturally in low concentrations of a few parts per million in soil, rock and water, and is commercially extracted from uranium-bearing minerals such as uraninite.</p>
+<p>In nature, uranium is found as uranium-238 (99.2739–99.2752%), uranium-235 (0.7198–0.7202%), and a very small amount of uranium-234 (0.0050–0.0059%). Uranium decays slowly by emitting an alpha particle. The half-life of uranium-238 is about 4.47 billion years and that of uranium-235 is 704 million years, making them useful in dating the age of the Earth.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery gray metallic; corrodes to a spalling black oxide coat in air</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 7</li>
+<li>Element category: actinide</li>
+<li>Electron configuration: 5f3 6d1 7s2</li>
+<li>Per shell: 2, 8, 18, 32, 21, 9, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1405.3 K ​(1132.2 °C, ​2070 °F)</li>
+<li>Boiling point: 4404 K ​(4131 °C, ​7468 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after planet Uranus, itself named after Greek god of the sky Uranus</li>
+<li>Discovery: Martin Heinrich Klaproth (1789)</li>
+<li>First isolation: Eugène-Melchior Péligot (1841)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

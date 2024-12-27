@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Darmstadtium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">32</span>
+<span class="P">17</span>
+<span class="Q">2</span>
+</div>
+<div class="atomic-number">
+110
+</div>
+<div class="element-symbol">
+<strong>Ds</strong>
+</div>
+<div class="element-name">
+Darmstadtium
+</div>
+<div class="atomic-mass">
+(281)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>110</sub>Ds</li>
+<li>Name: darmstadtium</li>
+<li>Atomic number: 110</li>
+<li>Atomic mass: 281 u</li>
+<li>Electron configuration: 5f146d87s2</li>
+<li>Discovered: 1994</li>
+<li>Discoverers: Gesellschaft für Schwerionenforschung</li>
+</ul>
+</div>
+<div class="card description">
+<p>Darmstadtium is a chemical element with symbol Ds and atomic number 110. It is an extremely radioactive synthetic element. The most stable known isotope, darmstadtium-281, has a half-life of approximately 10 seconds. Darmstadtium was first created in 1994 by the GSI Helmholtz Centre for Heavy Ion Research near the city of Darmstadt, Germany, after which it was named.</p>
+<p>In the periodic table, it is a d-block transactinide element. It is a member of the 7th period and is placed in the group 10 elements, although no chemical experiments have yet been carried out to confirm that it behaves as the heavier homologue to platinum in group 10 as the eighth member of the 6d series of transition metals. Darmstadtium is calculated to have similar properties to its lighter homologues, nickel, palladium, and platinum.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Group: group 10</li>
+<li>Block: d-block</li>
+<li>Period: period 7</li>
+<li>Element category: unknown, but probably a transition metal</li>
+<li>Electron configuration: 5f14 6d8 7s2 (predicted)</li>
+<li>Per shell: 2, 8, 18, 32, 32, 16, 2 (predicted)</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid presumably</li>
+<li>Melting point: Unknown</li>
+<li>Boiling point: Unknown</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Darmstadt, Germany, where it was discovered</li>
+<li>Discovery: Gesellschaft für Schwerionenforschung (1994)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

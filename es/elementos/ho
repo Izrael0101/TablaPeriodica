@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Holmium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">29</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+67
+</div>
+<div class="element-symbol">
+<strong>Ho</strong>
+</div>
+<div class="element-name">
+Holmium
+</div>
+<div class="atomic-mass">
+164.93033
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>67</sub>Ho</li>
+<li>Name: holmium</li>
+<li>Atomic number: 67</li>
+<li>Atomic mass: 164.93032 u ± 0.00002 u</li>
+<li>Boiling point: 2,600 °C</li>
+<li>Electron configuration: 4f116s2</li>
+<li>Electronegativity: 1.23</li>
+<li>Discovered: 1878</li>
+<li>Discoverers: Marc Delafontaine, Jacques-Louis Soret, Per Teodor Cleve</li>
+</ul>
+</div>
+<div class="card description">
+<p>Holmium is a chemical element with symbol Ho and atomic number 67. Part of the lanthanide series, holmium is a rare earth element. Holmium was discovered by Swedish chemist Per Theodor Cleve. Its oxide was first isolated from rare earth ores in 1878 and the element was named after the city of Stockholm.</p>
+<p>Elemental holmium is a relatively soft and malleable silvery-white metal. It is too reactive to be found uncombined in nature, but when isolated, is relatively stable in dry air at room temperature. However, it reacts with water and corrodes readily, and will also burn in air when heated.</p>
+<p>Holmium is found in the minerals monazite and gadolinite, and is usually commercially extracted from monazite using ion exchange techniques. Its compounds in nature, and in nearly all of its laboratory chemistry, are trivalently oxidized, containing Ho(III) ions. Trivalent holmium ions have fluorescent properties similar to many other rare earth ions (while yielding their own set of unique emission light lines), and holmium ions are thus used in the same way as some other rare earths in certain laser and glass colorant applications.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f11 6s2</li>
+<li>Per shell: , 8, 18, 29, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1734 K ​(1461 °C, ​2662 °F)</li>
+<li>Boiling point: 2873 K ​(2600 °C, ​4712 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Marc Delafontaine, Jacques-Louis Soret, Per Teodor Cleve (1878)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

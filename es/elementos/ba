@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Barium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element alkaline-earth-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+56
+</div>
+<div class="element-symbol">
+<strong>Ba</strong>
+</div>
+<div class="element-name">
+Barium
+</div>
+<div class="atomic-mass">
+137.327
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>56</sub>Ba</li>
+<li>Name: barium</li>
+<li>Atomic number: 56</li>
+<li>Atomic mass: 137.327 u ± 0.007 u</li>
+<li>Boiling point: 1,845 °C</li>
+<li>Electron configuration: 6s2</li>
+<li>Electronegativity: 0.89</li>
+<li>Discovered: 1772</li>
+<li>Discoverers: Carl Wilhelm Scheele</li>
+</ul>
+</div>
+<div class="card description">
+<p>Barium is a chemical element with symbol Ba and atomic number 56. It is the fifth element in Group 2, a soft silvery metallic alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element. Its hydroxide, known in pre-modern history as baryta, does not occur as a mineral, but can be prepared by heating barium carbonate.</p>
+<p>The most common naturally occurring minerals of barium are barite (barium sulfate, BaSO4) and witherite (barium carbonate, BaCO3), both insoluble in water. The barium name originates from the alchemical derivative "baryta", from Greek βαρύς (barys), meaning "heavy." Baric is the adjective form of barium. Barium was identified as a new element in 1774, but not reduced to a metal until 1808 with the advent of electrolysis.</p>
+<p>Barium has few industrial applications. Historically, it was used as a getter for vacuum tubes.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery gray; with a pale yellow tint</li>
+<li>Group: group 2 (alkaline earth metals)</li>
+<li>Block: s-block</li>
+<li>Period: period 6</li>
+<li>Element category: alkaline earth metals</li>
+<li>Electron configuration: 6s2</li>
+<li>Per shell: 2, 8, 18, 18, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1000 K ​(727 °C, ​1341 °F)</li>
+<li>Boiling point: 2118 K ​(1845 °C, ​3353 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Carl Wilhelm Scheele (1772)</li>
+<li>First isolation: Humphry Davy (1808)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

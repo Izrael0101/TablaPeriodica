@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Cerium</title>
+
+</head>
+<body class=""><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">19</span>
+<span class="O">9</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+ <div class="atomic-number">
+58
+</div>
+<div class="element-symbol">
+<strong>Ce</strong>
+</div>
+<div class="element-name">
+Cerium
+</div>
+<div class="atomic-mass">
+140.116
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>58</sub>Ce</li>
+<li>Name: cerium</li>
+<li>Atomic number: 58</li>
+<li>Atomic mass: 140.116 u ± 0.001 u</li>
+<li>Boiling point: 3,443 °C</li>
+<li>Electron configuration: 4f15d16s2</li>
+<li>Electronegativity: 1.12</li>
+<li>Discovered: 1803</li>
+<li>Discoverers: Martin Heinrich Klaproth, Jöns Jakob Berzelius, Wilhelm Hisinger</li>
+</ul>
+</div>
+<div class="card description">
+<p>Cerium is a soft, ductile, silvery-white metallic chemical element with symbol Ce and atomic number 58. Tarnishing rapidly when exposed to air, it is soft enough to be cut with a knife. Cerium is the second element in the lanthanide series, and while it often shows the +3 state characteristic of the series, it also exceptionally has a stable +4 state that does not oxidise water. It is also traditionally considered to be one of the rare earth elements. Cerium has no biological role, and is not very toxic.</p>
+<p>Despite always being found in combination with the other rare earth elements in minerals such as monazite and bastnäsite, cerium is easy to extract from its ores, as it can be distinguished among the lanthanides by its unique ability to be oxidised to the +4 state. It is the most common of the lanthanides, followed by neodymium, lanthanum, and praseodymium. It is the 26th most abundant element, making up 66 ppm of the Earth's crust, half as much as chlorine and five times as much as lead.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f1 5d1 6s2</li>
+<li>Per shell: 2, 8, 18, 19, 9, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1068 K ​(795 °C, ​1463 °F)</li>
+<li>Boiling point: 3716 K ​(3443 °C, ​6229 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after dwarf planet Ceres, itself named after Roman deity of agriculture Ceres</li>
+<li>Discovery: Martin Heinrich Klaproth, Jöns Jakob Berzelius &amp; Wilhelm Hisinger (1803)</li>
+<li>First isolation: Carl Gustaf Mosander (1838)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

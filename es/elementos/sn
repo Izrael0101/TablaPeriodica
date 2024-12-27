@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Tin</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element post-transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">18</span>
+<span class="O">4</span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+50
+</div>
+<div class="element-symbol">
+<strong>Sn</strong>
+</div>
+<div class="element-name">
+Tin
+</div>
+<div class="atomic-mass">
+118.710
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>50</sub>Sn</li>
+<li>Name: tin</li>
+<li>Atomic number: 50</li>
+<li>Atomic mass: 118.71 u</li>
+<li>Boiling point: 2,603 °C</li>
+<li>Electron configuration: 4d105s25p2</li>
+<li>Electronegativity: 1.96</li>
+<li>Discovered: around 3500 BC</li>
+</ul>
+</div>
+<div class="card description">
+<p>Tin is a chemical element with the symbol Sn (for Latin: stannum) and atomic number 50, is a post-transition metal in group 14 of the periodic table. It is obtained chiefly from the mineral cassiterite, which contains tin dioxide, SnO2. Tin shows a chemical similarity to both of its neighbors in group 14, germanium and lead, and has two main oxidation states, +2 and the slightly more stable +4. Tin is the 49th most abundant element and has, with 10 stable isotopes, the largest number of stable isotopes in the periodic table, thanks to its magic number of protons. It has two main allotropes: at room temperature, the stable allotrope is β-tin, a silvery-white, malleable metal, but at low temperatures it transforms into the less dense grey α-tin, which has the diamond cubic structure. Metallic tin is not easily oxidized in air.</p>
+<p>The first alloy used on a large scale was bronze, made of tin and copper, from as early as 3000 BC. After 600 BC, pure metallic tin was produced. Pewter, which is an alloy of 85–90% tin with the remainder commonly consisting of copper, antimony, and lead, was used for flatware from the Bronze Age until the 20th century.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery-white (beta, β) or gray (alpha, α)</li>
+<li>Group: group 14 (carbon group)</li>
+<li>Block: p-block</li>
+<li>Period: period 5</li>
+<li>Element category: post-transition metal</li>
+<li>Electron configuration: 4d10 5s2 5p2</li>
+<li>Per shell: 2, 8, 18, 18, 4</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 505.08 K ​(231.93 °C, ​449.47 °F)</li>
+<li>Boiling point: 2875 K ​(2602 °C, ​4716 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: around 3500 BC</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

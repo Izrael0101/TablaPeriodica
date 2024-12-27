@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Manganese</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element transition-metals">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">13</span>
+<span class="N">2</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+25
+</div>
+<div class="element-symbol">
+<strong>Mn</strong>
+</div>
+<div class="element-name">
+Manganese
+</div>
+<div class="atomic-mass">
+54.938044
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>25</sub>Mn</li>
+<li>Name: manganese</li>
+<li>Atomic number: 25</li>
+<li>Atomic mass: 54.938045 u ± 0.000005 u</li>
+<li>Boiling point: 2061 °C</li>
+<li>Electron configuration: 3d54s2</li>
+<li>Electronegativity: 1.55</li>
+<li>Discovered: 1774</li>
+<li>Discoverers: Johan Gottlieb Gahn, Ignatius Gottfried Kaim</li>
+</ul>
+</div>
+<div class="card description">
+<p>Manganese is a chemical element with symbol Mn and atomic number 25. It is not found as a free element in nature; it is often found in minerals in combination with iron. Manganese is a metal with important industrial metal alloy uses, particularly in stainless steels.</p>
+<p>Historically, manganese is named for various black minerals (such as pyrolusite) from the same region of Magnesia in Greece which gave names to similar-sounding magnesium, Mg, and magnetite, an ore of the element iron, Fe. By the mid-18th century, Swedish chemist Carl Wilhelm Scheele had used pyrolusite to produce chlorine. Scheele and others were aware that pyrolusite (now known to be manganese dioxide) contained a new element, but they were unable to isolate it. Johan Gottlieb Gahn was the first to isolate an impure sample of manganese metal in 1774, which he did by reducing the dioxide with carbon.</p>
+<p>Manganese phosphating is used for rust and corrosion prevention on steel. Ionized manganese is used industrially as pigments of various colors, which depend on the oxidation state of the ions..</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery metallic</li>
+<li>Group: group 7</li>
+<li>Block: d-block</li>
+<li>Period: period 4</li>
+<li>Element category: transition metal</li>
+<li>Electron configuration: 3d5 4s2</li>
+<li>Per shell: 2, 8, 13, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<li>Phase: solid</li>
+<li>Melting point: 1519 K ​(1246 °C, ​2275 °F)</li>
+<li>Boiling point: 2334 K ​(2061 °C, ​3742 °F)</li>
+
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Torbern Olof Bergman (1770)</li>
+<li>First isolation: Lars Fredrik Nilson (1879)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

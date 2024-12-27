@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Germanium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element metalloids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">4</span>
+<span class="O"></span>
+<span class="P"></span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+32
+</div>
+<div class="element-symbol">
+<strong>Ge</strong>
+</div>
+<div class="element-name">
+Germanium
+</div>
+<div class="atomic-mass">
+72.63
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>32</sub>Ge</li>
+<li>Name: germanium</li>
+<li>Atomic number: 32</li>
+<li>Atomic mass: 72.64 u ± 0.01 u</li>
+<li>Boiling point: 2833 °C</li>
+<li>Electron configuration: 3d104s24p2</li>
+<li>Electronegativity: 2.01</li>
+<li>Discovered: 1886</li>
+<li>Discoverer: Clemens Winkler</li>
+</ul>
+</div>
+<div class="card description">
+<p>Germanium is a chemical element with symbol Ge and atomic number 32. It is a lustrous, hard, grayish-white metalloid in the carbon group, chemically similar to its group neighbors tin and silicon. Pure germanium is a semiconductor with an appearance similar to elemental silicon. Like silicon, germanium naturally reacts and forms complexes with oxygen in nature. Unlike silicon, it is too reactive to be found naturally on Earth in the free (elemental) state.</p>
+<p>Because it seldom appears in high concentration, germanium was discovered comparatively late in the history of chemistry. Germanium ranks near fiftieth in relative abundance of the elements in the Earth's crust. In 1869, Dmitri Mendeleev predicted its existence and some of its properties from its position on his periodic table, and called the element ekasilicon. Nearly two decades later, in 1886, Clemens Winkler found the new element along with silver and sulfur, in a rare mineral called argyrodite. Although the new element somewhat resembled arsenic and antimony in appearance, the combining ratios in compounds agreed with Mendeleev's predictions for a relative of silicon.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: grayish-white</li>
+<li>Group: group 14</li>
+<li>Block: p-block</li>
+<li>Period: period 4</li>
+<li>Element category: metalloid</li>
+<li>Electron configuration: 3d10 4s2 4p2</li>
+<li>Per shell: 2, 8, 18, 4</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1211.40 K ​(938.25 °C, ​1720.85 °F)</li>
+<li>Boiling point: 3106 K ​(2833 °C, ​5131 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Prediction: Dmitri Mendeleev (1871)</li>
+<li>Naming: after Germany, homeland of the discoverer</li>
+<li>Discovery: Clemens Winkler (1886)</li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>

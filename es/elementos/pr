@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Praseodymium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">21</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+59
+</div>
+<div class="element-symbol">
+<strong>Pr</strong>
+</div>
+<div class="element-name">
+Praseodymium
+</div>
+<div class="atomic-mass">
+140.90766
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>59</sub>Pr</li>
+<li>Name: praseodymium</li>
+<li>Atomic number: 59</li>
+<li>Atomic mass: 140.90765 u ± 0.00002 u</li>
+<li>Boiling point: 3,512 °C</li>
+<li>Electron configuration: 4f36s2</li>
+<li>Electronegativity: 1.13</li>
+<li>Discovered: 1885</li>
+<li>Discoverer: Carl Auer von Welsbach</li>
+</ul>
+</div>
+<div class="card description">
+<p>Praseodymium is a chemical element with symbol Pr and atomic number 59. Praseodymium is a soft, silvery, malleable and ductile metal in the lanthanide group. It is valued for its magnetic, electrical, chemical, and optical properties. It is too reactive to be found in native form, and when artificially prepared, it slowly develops a green oxide coating.</p>
+<p>The element was named for the color of its primary oxide. In 1841, Swedish chemist Carl Gustav Mosander extracted a rare earth oxide residue he called "didymium" from a residue he called "lanthana", in turn separated from cerium salts. In 1885, the Austrian chemist Baron Carl Auer von Welsbach separated didymium into two salts of different colors, which he named praseodymium and neodymium. The name praseodymium comes from the Greek prasinos (πράσινος), meaning "green", and didymos (δίδυμος), "twin".</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: grayish white</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f3 6s2</li>
+<li>Per shell: 2, 8, 18, 21, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1208 K ​(935 °C, ​1715 °F)</li>
+<li>Boiling point: 3403 K ​(3130 °C, ​5666 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Discovery: Carl Auer von Welsbach (1885)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Polonium</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element metalloids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">6</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+84
+</div>
+<div class="element-symbol">
+<strong>Po</strong>
+</div>
+<div class="element-name">
+Polonium
+</div>
+<div class="atomic-mass">
+(209)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>84</sub>Po</li>
+<li>Name: polonium</li>
+<li>Atomic number: 84</li>
+<li>Atomic mass: 209 u</li>
+<li>Boiling point: 962 °C</li>
+<li>Electron configuration: 6s24f145d106p4</li>
+<li>Electronegativity: 2.0</li>
+<li>Discovered: 1898</li>
+<li>Discoverers: Pierre Curie, Marie Curie</li>
+</ul>
+</div>
+<div class="card description">
+<p>Polonium is a chemical element with symbol Po and atomic number 84. A rare and highly radioactive metal with no stable isotopes, polonium is chemically similar to selenium and tellurium, though it also shows resemblances to its horizontal neighbors thallium, lead, and bismuth due to its metallic character. Due to the short half-life of all its isotopes, its natural occurrence is limited to tiny traces of the fleeting polonium-210 (with a half-life of 138 days) in uranium ores, as it is the penultimate daughter of natural uranium-238. Though slightly longer-lived isotopes exist, they are much more difficult to produce. Today, polonium is more often produced in milligram quantities by the neutron irradiation of bismuth. Due to its intense radioactivity, which results in radiolysis of chemical bonds and immense radioactive self-heating, its chemistry has mostly been investigated on the trace scale only.</p>
+<p>Polonium was discovered in 1898 by Marie and Pierre Curie, when it was chemically separated out of uranium ore and identified solely by its strong radioactivity: it was the first element to be so discovered.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery</li>
+<li>Group: group 16 (chalcogens)</li>
+<li>Block: p-block</li>
+<li>Period: period 6</li>
+<li>Element category: post-transition metal</li>
+<li>Electron configuration: 4f14 5d10 6s2 6p4</li>
+<li>Per shell: 2, 8, 18, 32, 18, 6</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 527 K ​(254 °C, ​489 °F)</li>
+<li>Boiling point: 1235 K ​(962 °C, ​1764 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Polonia, Latin for Poland, homeland of Marie Curie</li>
+<li>Discovery: Pierre and Marie Curie (1898)</li>
+<li>First isolation: Willy Marckwald (1902)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

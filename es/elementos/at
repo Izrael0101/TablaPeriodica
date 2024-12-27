@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Astatine</title>
+
+</head>
+<body><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element halogens">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">32</span>
+<span class="O">18</span>
+<span class="P">7</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+85
+</div>
+<div class="element-symbol">
+<strong>At</strong>
+</div>
+<div class="element-name">
+Astatine
+</div>
+<div class="atomic-mass">
+(210)
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>85</sub>At</li>
+<li>Name: astatine</li>
+<li>Atomic number: 85</li>
+<li>Atomic mass: 210 u</li>
+<li>Boiling point: 336.8 °C</li>
+<li>Electron configuration: 4f145d106s26p5</li>
+<li>Electronegativity: 2.2</li>
+<li>Discovered: 1940</li>
+<li>Discoverers: Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segrè</li>
+</ul>
+</div>
+<div class="card description">
+<p>Astatine is a radioactive chemical element with the chemical symbol At and atomic number 85, and is the rarest naturally occurring element on the Earth's crust. It occurs on Earth as the decay product of various heavier elements. All its isotopes are short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. Elemental astatine has never been viewed because any macroscopic sample would be immediately vaporized by its radioactive heating. It has yet to be determined if this obstacle could be overcome with sufficient cooling.</p>
+<p>The bulk properties of astatine are not known with any certainty. Many of these have been estimated based on its periodic table position as a heavier analog of iodine, and a member of the halogens – the group of elements including fluorine, chlorine, bromine, and iodine. It is likely to have a dark or lustrous appearance and may be a semiconductor or possibly a metal; it probably has a higher melting point than that of iodine. Chemically, several anionic species of astatine are known and most of its compounds resemble those of iodine. It also shows some metallic behavior, including being able to form a stable monatomic cation in aqueous solution (unlike the lighter halogens).</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: unknown, probably metallic</li>
+<li>Group: group 17 (halogens)</li>
+<li>Block: p-block</li>
+<li>Period: period 6</li>
+<li>Element category: metalloid, sometimes classified as a nonmetal, or a metal</li>
+<li>Electron configuration: 4f14 5d10 6s2 6p5</li>
+<li>Per shell: 2, 8, 18, 32, 18, 7</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 575 K ​(302 °C, ​576 °F)</li>
+<li>Boiling point: 610 K ​(337 °C, ​639 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Greek astatos (αστατος), meaning "unstable"</li>
+<li>Discovery: Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segrè (1940)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>

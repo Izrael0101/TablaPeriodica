@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style_card.css" type="text/css" media="all" />
+<title>Europium</title>
+
+</head>
+<body class=""><div class="close">X</div>
+<div class="wrapper">
+<div class="wrapper-inner">
+<div class="card summary">
+<div class="element lanthanoids">
+<div class="atomic-orbital-shells">
+<span class="K">2</span>
+<span class="L">8</span>
+<span class="M">18</span>
+<span class="N">25</span>
+<span class="O">8</span>
+<span class="P">2</span>
+<span class="Q"></span>
+</div>
+<div class="atomic-number">
+63
+</div>
+<div class="element-symbol">
+<strong>Eu</strong>
+</div>
+<div class="element-name">
+Europium
+</div>
+<div class="atomic-mass">
+151.964
+</div>
+</div>
+<ul>
+<li>Symbol: <sub>63</sub>Eu</li>
+<li>Name: europium</li>
+<li>Atomic number: 63</li>
+<li>Atomic mass: 151.964 u ± 0.001 u</li>
+<li>Boiling point: 1,529 °C</li>
+<li>Electron configuration: 4f76s2</li>
+<li>Electronegativity: 1.2</li>
+<li>Discovered: 1901</li>
+<li>Discoverer: Eugène-Anatole Demarçay</li>
+</ul>
+</div>
+<div class="card description">
+<p>Europium is a chemical element with symbol Eu and atomic number 63. It was isolated in 1901 and is named after the continent of Europe. It is a moderately hard, silvery metal which readily oxidizes in air and water. Being a typical member of the lanthanide series, europium usually assumes the oxidation state +3, but the oxidation state +2 is also common. All europium compounds with oxidation state +2 are slightly reducing. Europium has no significant biological role and is relatively non-toxic compared to other heavy metals. Most applications of europium exploit the phosphorescence of europium compounds. Europium is one of the least abundant elements in the universe; only about 5×10−8% of all matter in the universe is europium.</p>
+<p>Europium is a ductile metal with a hardness similar to that of lead. It crystallizes in a body-centered cubic lattice. Some properties of europium are strongly influenced by its half-filled electron shell. Europium has the second lowest melting point and the lowest density of all lanthanides.</p>
+</div>
+<div class="card overview">
+<p><strong>General properties</strong></p>
+<ul>
+<li>Appearance: silvery white, with a pale yellow tint; but rarely seen without oxide discoloration</li>
+<li>Group: group n/a</li>
+<li>Block: f-block</li>
+<li>Period: period 6</li>
+<li>Element category: lanthanide</li>
+<li>Electron configuration: 4f7 6s2</li>
+<li>Per shell: 2, 8, 18, 25, 8, 2</li>
+</ul>
+<p><strong>Physical properties</strong></p>
+<ul>
+<li>Phase: solid</li>
+<li>Melting point: 1099 K ​(826 °C, ​1519 °F)</li>
+<li>Boiling point: 1802 K ​(1529 °C, ​2784 °F)</li>
+</ul>
+<p><strong>History</strong></p>
+<ul>
+<li>Naming: after Europe</li>
+<li>Discovery and first isolation: Eugène-Anatole Demarçay (1896, 1901)</li>
+</ul>
+</div>
+</div>
+</div>
+
+</body>
+
+
+</html>
