@@ -375,45 +375,56 @@
         }
 
 		.characteristic {
-			display: flex;
-			justify-content: space-between; /* Separa las secciones */
-			align-items: center; /* Centra verticalmente */
 			position: relative;
 			margin: 40px auto; /* Espaciado */
 			width: 100%; /* Ancho general */
 			font-family: Arial, sans-serif;
+			display: flex;
+			justify-content: space-between; /* Asegura separación */
 		}
 
 		.characteristic .non-metals,
 		.characteristic .metals {
-			position: relative; /* Necesario para posicionar las líneas */
-			text-align: center; /* Centra el texto */
+			position: absolute;
+			bottom: -10px; /* Posiciona las líneas debajo de las categorías */
 			font-size: 18px; /* Tamaño del texto */
-			font-weight: bold; /* Destaca el texto */
+			font-weight: bold; /* Resalta el texto */
+			color: black; /* Color del texto */
 		}
 
-		/* Línea para "No metales" */
+		/* Línea de "No metales" */
+		.characteristic .non-metals {
+			left: 0; /* Comienza desde la izquierda */
+			width: 40%; /* Cubre hasta "Metaloides" */
+			text-align: center; /* Centra el texto */
+		}
+
 		.characteristic .non-metals:before {
 			content: "";
 			position: absolute;
 			height: 2px; /* Grosor */
 			background-color: black; /* Color */
-			width: calc(37.5%); /* Cobertura desde "Otros no metales" hasta "Metaloides" */
-			bottom: -15px; /* Distancia del texto */
-			left: 0; /* Alinea la línea con el inicio de las categorías */
+			width: 100%; /* Abarca el ancho del rango */
+			top: 20px; /* Espacio entre el texto y la línea */
+			left: 0;
 		}
 
-		/* Línea para "Metales" */
+		/* Línea de "Metales" */
+		.characteristic .metals {
+			right: 0; /* Comienza desde la derecha */
+			width: 60%; /* Cubre desde "Metales de la tierra alcalina" hasta "Actinoides" */
+			text-align: center; /* Centra el texto */
+		}
+
 		.characteristic .metals:before {
 			content: "";
 			position: absolute;
 			height: 2px; /* Grosor */
 			background-color: black; /* Color */
-			width: calc(62.5%); /* Cobertura desde "Metales de la tierra alcalina" hasta "Actinoides" */
-			bottom: -15px; /* Distancia del texto */
-			left: 37.5%; /* Alinea la línea al inicio de "Metales de la tierra alcalina" */
+			width: 100%; /* Abarca el ancho del rango */
+			top: 20px; /* Espacio entre el texto y la línea */
+			right: 0;
 		}
-
 
 
 
