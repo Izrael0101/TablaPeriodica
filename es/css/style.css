@@ -373,45 +373,56 @@
             z-index: 2;
             position: relative;
         }
-
+		
 		.characteristic {
-			position: relative;
-			margin: 40px auto; /* Espaciado general */
-			width: 100%; /* Ancho completo */
-			font-family: Arial, sans-serif;
 			display: flex;
-			justify-content: space-between; /* Separación entre "No metales" y "Metales" */
+			justify-content: space-between;
+			position: relative;
+			margin-top: 20px; /* Espaciado entre categorías y líneas */
+			font-family: Arial, sans-serif;
+			width: 100%;
+			max-width: 1240px;
+			margin: 20px auto;
 		}
 
-		.characteristic .non-metals,
+		.characteristic .non-metals {
+			position: relative;
+			font-size: 14px;
+			font-weight: bold;
+			color: black;
+			text-align: left;
+			margin-right: auto; /* Alínea el texto a la izquierda */
+		}
+
 		.characteristic .metals {
-			position: relative; /* Necesario para posicionar las líneas */
-			text-align: center; /* Centra el texto */
-			font-size: 18px; /* Tamaño del texto */
-			font-weight: bold; /* Resalta el texto */
-			color: black; /* Color del texto */
+			position: relative;
+			font-size: 14px;
+			font-weight: bold;
+			color: black;
+			text-align: right;
+			margin-left: auto; /* Alínea el texto a la derecha */
 		}
 
-		/* Línea de "No metales" */
-		.characteristic .non-metals:before {
+		/* Línea para "No metales" */
+		.characteristic .non-metals:after {
 			content: "";
 			position: absolute;
-			height: 2px; /* Grosor */
+			height: 2px; /* Grosor de la línea */
 			background-color: black; /* Color de la línea */
-			width: calc(50% - 10px); /* Abarca el rango de "No metales" */
-			top: 25px; /* Espacio entre el texto y la línea */
-			left: 0; /* Comienza desde la izquierda */
+			width: 30%; /* Longitud ajustable según tus necesidades */
+			top: 15px; /* Espaciado entre el texto y la línea */
+			left: 0;
 		}
 
-		/* Línea de "Metales" */
-		.characteristic .metals:before {
+		/* Línea para "Metales" */
+		.characteristic .metals:after {
 			content: "";
 			position: absolute;
-			height: 2px; /* Grosor */
+			height: 2px; /* Grosor de la línea */
 			background-color: black; /* Color de la línea */
-			width: calc(50% - 10px); /* Abarca el rango de "Metales" */
-			top: 25px; /* Espacio entre el texto y la línea */
-			right: 0; /* Comienza desde la derecha */
+			width: 30%; /* Longitud ajustable según tus necesidades */
+			top: 15px; /* Espaciado entre el texto y la línea */
+			right: 0;
 		}
 
 
