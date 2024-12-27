@@ -632,58 +632,31 @@
 
         }
 
-        @media(max-width: 600px) {
+       @media (max-width: 600px) {
+    /* Oculta todas las propiedades excepto el símbolo del elemento */
+    .atomic-number,
+    .element-name,
+    .atomic-mass,
+    .atomic-orbital-shells {
+        display: none; /* Oculta estas propiedades en pantallas pequeñas */
+    }
 
-            div#lanthanide-series .group:nth-child(2):after, div#actinide-series .group:nth-child(2):after {
-                font-size: 12px;
-                bottom: 5px;
-            }
+    .element-symbol {
+        font-size: 1.5em; /* Aumenta un poco el tamaño del símbolo */
+        text-align: center;
+    }
 
-            .atomic-number {
-                display: none;
-            }
+    .group {
+        width: 10%; /* Ajusta el tamaño del contenedor */
+        min-height: 50px; /* Ajusta el alto del contenedor */
+        max-height: 50px;
+        padding: 10px; /* Reduce el relleno */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
 
-            .group .element-symbol {
-                text-align: center;
-                font-size: 12px;
-            }
-
-            #six .lanthanoids .atomic-number:before,#seven .actinoids .atomic-number:before {
-                top: 3px;
-                font-size: 15px;
-            }
-
-            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
-                top: 7px;
-            }
-
-            .category div {
-                padding: 5px 15px;
-            }
-
-            .category .active:after {
-                width: 7px;
-                height: 7px;
-                border: 2px solid white;
-            }
-
-            .characteristic {
-                max-width: 320px;
-                top: 15px;
-            }
-
-            .characteristic div span {
-                padding: 0px 5px;
-                font-size: 10px;
-                top: -2px;
-            }
-
-            .characteristic div {
-                height: 5px;
-                padding: 0px;
-            }
-
-        }
 
         @media(max-width: 500px) {
 
@@ -728,23 +701,18 @@
 
         }
 
-        @media(max-width: 400px) {
+       @media (max-width: 400px) {
+    .group {
+        width: 12%; /* Aún más pequeño para dispositivos extremadamente pequeños */
+        min-height: 40px;
+        max-height: 40px;
+        padding: 5px;
+    }
 
-            .group {
-                min-height: 20px;
-                max-height: 20px;
-            }
-
-            #six .lanthanoids .atomic-number:before, #seven .actinoids .atomic-number:before {
-                font-size: 10px;
-                top: 2px;
-            }
-
-            div#lanthanide-series .group:nth-child(2):before, div#actinide-series .group:nth-child(2):before {
-                font-size: 10px;
-            }
-
-        }
+    .element-symbol {
+        font-size: 1.2em; /* Ajusta el tamaño del símbolo en pantallas muy pequeñas */
+    }
+}
 
         @media(max-width: 350px) {
 
